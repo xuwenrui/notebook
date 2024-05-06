@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obidian/obsidian同步方案.md",
-                "mode": "preview",
+                "file": "obidian/obsidian同步方案dsad.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obidian/obsidian同步方案.md",
+                "file": "obidian/obsidian同步方案dsad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obidian/obsidian同步方案.md",
+                "file": "obidian/obsidian同步方案dsad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obidian/obsidian同步方案.md"
+                "file": "obidian/obsidian同步方案dsad.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "f23ac29f9f632f00",
   "lastOpenFiles": [
     "2024-05-06.md",
-    "obidian/obsidian同步方案.md",
+    "obidian/obsidian同步方案dsad.md",
     "未命名.canvas",
     "Welcome.md",
     "obidian",
