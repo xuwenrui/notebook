@@ -11,15 +11,8 @@
             "id": "f23ac29f9f632f00",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 186,
-                  "zoom": 0
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "未命名.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,10 +138,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f23ac29f9f632f00",
+  "active": "1234ab53d88e86c1",
   "lastOpenFiles": [
-    "obidian/obsidian同步方案.md",
+    "开发者/java/ac",
+    "开发者/java",
     "未命名.canvas",
+    "未命名",
+    "开发者",
+    "obidian/obsidian同步方案.md",
     "2024-05-06.md",
     "Welcome.md",
     "obidian",
