@@ -3,5 +3,6 @@
   "cssTheme": "",
   "theme": "moonstone",
   "textFontFamily": "Consolas",
-  "interfaceFontFamily": "Consolas"
+  "interfaceFontFamily": "Consolas",
+  "baseFontSize": 14
 }
