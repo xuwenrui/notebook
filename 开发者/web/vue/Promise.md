@@ -137,9 +137,26 @@ console.log("----打印：", result); //----打印： Promise { <pending> } --[P
      console.log("----打印：第二次", res); //----打印:第二次 6
    },
  );
-```
-
-```
-
  
 ```
+
+**Tips：注意，如果.then中写了参数不是函数，则会变成promise穿透哦！**
+``` javascript
+const p = new Promise((resolve, reject) => {
+  resolve("成功");
+});
+const result = p.then(Promise.resolve("传不过去")); //不是函数
+result.then((res) => {
+  console.log("----打印：", res); //----打印： 成功
+});
+//相当于这中写法
+const result1 = p.then(null); //不是函数
+result1.then((res) => {
+  console.log("----打印：", res); //----打印： 成功
+});
+//也可以写成链式调用，结果一样的
+p.then(null).then((res) => {
+  console.log("----打印：", res); //----打印： 成功
+});
+```
+
