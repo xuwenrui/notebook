@@ -518,33 +518,7 @@ console.log("----打印：", rejectP);
 
 - ##### promise.then 的返回值是什么？
 
-当函数中没有return值的时候，或者return的是个普通数据，返回的值是一个promise对象，对象中有成功状态，和undefined的值。
-```javascript
-let p = new Promise((resoleve, reject) => {
-  setTimeout(() => {
-    resoleve("返回值");
-  }, 1000);
-});
- 
-const backP = p.then((res) => {
-  console.log("----打印：res", res);
-});
-const finallyBackP = backP.then((res) => {
-  return "又有数据";
-});
-setTimeout(() => {
-  console.log("----打印：backP", backP);
-}, 2000);
-setTimeout(() => {
-  console.log("----打印：finallyBackPP", finallyBackP);
-}, 3000);
- 
-//执行结果
-// ----打印：res 返回值
-// ----打印：backP Promise {<fulfilled>: undefined}
-//----打印：finallyBackPP Promise {<fulfilled>: '又有数据'}
-```
-2.当函数中没有return值的时候，或者return的是个普通数据，返回的值是一个promise对象，对象中有成功状态，和undefined的值。
+1.当函数中没有return值的时候，或者return的是个普通数据，返回的值是一个promise对象，对象中有成功状态，和undefined的值。
 ``` javascript
 let p = new Promise((resoleve, reject) => {
   setTimeout(() => {
@@ -571,7 +545,7 @@ setTimeout(() => {
 //----打印：finallyBackPP Promise {<fulfilled>: '又有数据'}
 ```
 
-3.当函数中return的是一个promise对象，则返回值依旧是一个promise对象，注意：此时的promise状态和return的promise对象中的状态一致
+2.当函数中return的是一个promise对象，则返回值依旧是一个promise对象，注意：此时的promise状态和return的promise对象中的状态一致
 ``` javascript
 let p = new Promise((resoleve, reject) => {
   setTimeout(() => {
@@ -601,7 +575,7 @@ setTimeout(() => {
 // ----打印：finallyBackPP Promise {<rejected>: '最后是失败的promise'}
 ```
 
-当函数中报错，抛出错误，则返回值是一个拒绝状态的promise对象
+3.当函数中报错，抛出错误，则返回值是一个拒绝状态的promise对象
 
 ```javascript
 let p = new Promise((resoleve, reject) => {
