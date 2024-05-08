@@ -12,3 +12,6 @@ promise一共有3个状态：pending、fulfilled和rejected
 **rejected->失败状态**：在执行了reject后，promise状态会变成rejected，rejected函数传递的参数，可以在.then的第二个参数函数中获取的到，或者是在.catch获取到，但是如果程序上的错误，得通过.catch函数去拿到失败消息，在.then中是获取不了的
 
 #### Promise的九个方法
+
+- ##### Promise.resolve
+这个Promise对象的静态方法，用于创建一个成功状态的Promise对象，可以之间在.then的成功回调中，获取resolve的值
