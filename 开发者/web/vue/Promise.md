@@ -368,5 +368,97 @@ Promise.any(promiseArr)
 
 - ###### Promise.race
   方法接收的参数和.all、.any接收的参数一样，接收一个可迭代promise对象的数组，**当任何一个promise的状态先确定（拒绝或者成功），则会执行.race中的回调函数**，具体根据promise的状态 ---和allSettled效果互斥
-  ```
+```
+var p1 = new Promise((resoleve, reject) => {
+  setTimeout(() => {
+    console.log("----打印：p1");
+    resoleve("p1--3000");
+  }, 3000);
+});
+ 
+let p2 = new Promise((resoleve, reject) => {
+  setTimeout(() => {
+    reject("p2--1000");
+  }, 1000);
+});
+ 
+Promise.race([p1, p2])
+  .then((res) => {
+    console.log("----打印：res", res);
+  })
+  .catch((err) => {
+    console.log("----打印：err", err);
+  });
+ 
+//执行结果
+//----打印：err p2--1000
+//----打印：p1
+ 
+//另外情况
+ 
+let p3 = new Promise((resoleve, reject) => {
+  setTimeout(() => {
+    resoleve("p3--500");
+  }, 500);
+});
+ 
+Promise.race([p1, p2, p3])
+  .then((res) => {
+    console.log("----打印：res", res);
+  })
+  .catch((err) => {
+    console.log("----打印：err", err);
+  });
+ 
+//打印结果
+// ----打印：res p3--500
+// ----打印：p1
+```
+- ###### Promise.allSettled
+该方法参数也是和.all相同；顾名思义，这个方法是等所有promise参数确定状态后，才会执行回调函数，不管是成功的状态还是拒绝的状态，都等待全部执行后，并返回一个包含每个 Promise 解决状态的对象数组，每个对象包含两个属性：status 和 value；state表示promise的状态：resolve和rejected，value代表的是promise传递的值。
+
+   请注意，Promise.allSettled 是 ES2020（也称为 ES11）中引入的新方法，需要支持该版本的 JavaScript 运行环境才能使用
+   ```
+   var p1 = new Promise((resoleve, reject) => {
+  setTimeout(() => {
+    console.log("----打印：p1");
+    resoleve("p1--3000");
+  }, 3000);
+});
+ 
+let p2 = new Promise((resoleve, reject) => {
+  setTimeout(() => {
+    reject("p2--1000");
+  }, 1000);
+});
+ 
+let p3 = new Promise((resoleve, reject) => {
+  setTimeout(() => {
+    resoleve("p3--500");
+  }, 500);
+});
+ 
+let p4 = new Promise((resolve, reject) => {
+  throw new Error("抛出错误");
+});
+ 
+Promise.allSettled([p1, p2, p3, p4])
+  .then((result) => {
+    console.log("----打印：result", result);
+  })
+  .catch((err) => {
+    console.log("----打印：", err); //不执行
+  });
+ 
+//执行结果
+// ----打印：p1
+// ----打印：result [
+//   { status: 'fulfilled', value: 'p1--3000' },
+//   { status: 'rejected', reason: 'p2--1000' },
+//   { status: 'fulfilled', value: 'p3--500' },
+//   {
+//     status: 'rejected',
+//     reason: Error: 抛出错误
+//   }
+// ]
 ```
