@@ -33,7 +33,7 @@ p1.then((res) => {
 ```
 
 - ##### Promise.reject
-这个方法跟Promise.resolve一样，只是作用不同，属于拒绝的状态；可以直接在.then的失败回调中，获取reject的值；也可以在.catch中获取；如果两者同时出现代码中，看看是catch写在前面还是.then函数写在前面 ---业务中，拒绝状态用.then去执行回调，异常用.catch
+  这个方法跟Promise.resolve一样，只是作用不同，属于拒绝的状态；可以直接在.then的失败回调中，获取reject的值；也可以在.catch中获取；如果两者同时出现代码中，看看是catch写在前面还是.then函数写在前面 ---业务中，拒绝状态用.then去执行回调，异常用.catch
 ```javascript
 const p = Promise.reject("失败");
 p.then(
@@ -91,7 +91,7 @@ p1.then(
 ```
 
 - ##### Promise.then
-   函数回调执行，常用于接收请求接口返回的数据；该回调函数有两个参数（函数），一个是用于处理 Promise 解决时的回调函数，另一个是可选的用于处理 Promise 拒绝（rejected）时的回调函数；用于接收promise对应状态的数据。而且.then的返回值也是个promis对象，具体看后面返回值详解章节
+  函数回调执行，常用于接收请求接口返回的数据；该回调函数有两个参数（函数），一个是用于处理 Promise 解决时的回调函数，另一个是可选的用于处理 Promise 拒绝（rejected）时的回调函数；用于接收promise对应状态的数据。而且.then的返回值也是个promis对象，具体看后面返回值详解章节
 ```javascript
 const p = new Promise((resolve, reject) => {
   resolve("成功");
@@ -163,11 +163,9 @@ p.then(null).then((res) => {
 - ##### Promise.catch
 用于注册在 Promise 对象拒绝（rejected）时的回调函数。同时也可以用来捕获代码异常或者出错；
 
-      1、像如果promise是一个reject的状态或者抛出异常或者错误，既可以在.then函数中的第二个参数获取，也可以在.catch中的函数中获取，如果两者同时出现代码中（可以看Promise.reject中的案例哦）。
-
+  1、像如果promise是一个reject的状态或者抛出异常或者错误，既可以在.then函数中的第二个参数获取，也可以在.catch中的函数中获取，如果两者同时出现代码中（可以看Promise.reject中的案例哦）。
   2、.then中产生异常能在.catch 或者下一个.then中捕获。.then和.catch本质上是没有区别的， 需要分场合使用;一般异常用.catch。拒绝状态用.then
-
-      3、而且，一旦异常被捕获，则未执行后面中的.then不管多少，都不会执行。一般最好用.catch 在最后去捕获，这样能捕获到上面最先报错的信息
+  3、而且，一旦异常被捕获，则未执行后面中的.then不管多少，都不会执行。一般最好用.catch 在最后去捕获，这样能捕获到上面最先报错的信息
 ```javascript
 const p = new Promise((resolve, reject) => {
   reject("拒绝");
@@ -417,7 +415,7 @@ Promise.race([p1, p2, p3])
 - ###### Promise.allSettled
 该方法参数也是和.all相同；顾名思义，这个方法是等所有promise参数确定状态后，才会执行回调函数，不管是成功的状态还是拒绝的状态，都等待全部执行后，并返回一个包含每个 Promise 解决状态的对象数组，每个对象包含两个属性：status 和 value；state表示promise的状态：resolve和rejected，value代表的是promise传递的值。
 
-   请注意，Promise.allSettled 是 ES2020（也称为 ES11）中引入的新方法，需要支持该版本的 JavaScript 运行环境才能使用
+请注意，Promise.allSettled 是 ES2020（也称为 ES11）中引入的新方法，需要支持该版本的 JavaScript 运行环境才能使用
 ```javascript
    var p1 = new Promise((resoleve, reject) => {
   setTimeout(() => {
@@ -499,10 +497,8 @@ p2.then((res) => {})
 ```
 
 Promise的返回值 --- promise对象
-- ###### new Promise 的返回值是什么？ 
-    
-
-        返回值是一个**promise对象**，对象中的状态和值，根据new promise中同步代码的逻辑决定
+- ##### new Promise 的返回值是什么？ 
+    返回值是一个**promise对象**，对象中的状态和值，根据new promise中同步代码的逻辑决定
 ``` javascript
 let resolveP = new Promise((resolve, resject) => {
   resolve("success");
