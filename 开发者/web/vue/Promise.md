@@ -247,6 +247,59 @@ p3.then((res) => {
   Promise.all接收一个promise对象的数组作为参数，当这个数组里面的promise对象，没有出现rejected状态，则会一直等待所有resolve成功后，才执行.then这个回调，如果有一个是rejected状态，则会先执行.all里面的.then中第二个回调函数或者.catch函数，不会等后续跑完你在执行
 
     传递给Promise.all的 promise并不是一个个的顺序执行的，而是同时开始、并行执行的
+```javascript
+var p1 = new Promise((resoleve, reject) => {
+  setTimeout(() => {
+    resoleve("p1--3000");
+  }, 3000);
+});
+var p2 = new Promise((resoleve, reject) => {
+  setTimeout(() => {
+    resoleve("p2--1000");
+  }, 1000);
+});
+var p3 = new Promise((resoleve, reject) => {
+  setTimeout(() => {
+    console.log("----打印：看看是先执行失败，还是全部执行完再catch");
+    resoleve("p3--5000");
+  }, 5000);
+});
+ 
+//第一情况
+ var promiseArr = [p1, p2, p3];
+ console.time("promiseArr");
+  Promise.all(promiseArr)
+    .then((res) => {
+      console.log("res", res); //res [ 'p1--3000', 'p2--1000', 'p3--5000' ]
+      console.timeEnd("promiseArr"); // promiseArr: 5.020s
+    })
+    .catch((err) => console.log(err));
+ 
+//另外情况
+var p4 = new Promise((resoleve, reject) => {
+  setTimeout(() => {
+    reject("p4--2000");
+  }, 2000);
+});
+ 
+var promiseArr = [p1, p2, p3, p4];
+console.time("promiseArr");
+Promise.all(promiseArr)
+  .then((res) => {
+    console.log("res", res);
+    console.timeEnd("promiseArr");
+  })
+  .catch((err) => console.log(err)); 
+ 
+//打印顺序
+//p4--2000
+//输出----打印：看看是先执行失败，还是全部执行完再catch 
+ 
+//解释：p3的输出，比上边catch晚输出因此，如果有失败状态，就会提前结束、去执行all里面的回调函数
+```
+
+- ##### Promise.any
+- Promise.any接收一个promise的数组作为参数，只要其中有一个Promise成功执行，就会返回已经成功执行的Promise的结果；若全部为rejected状态，则会到最后的promise执行完，全部的promise返回到异常函数中；可用于多通道获取数据，谁先获取就执行下一步程序，跳出这个过程。---和all的相反
 ————————————————
 
                             版权声明：本文为博主原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接和本声明。
