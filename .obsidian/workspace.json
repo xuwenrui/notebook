@@ -4,20 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "56c529c786e870ed",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6d07f6700f5397a5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "0c7376d68ee9b04a",
         "type": "tabs",
         "children": [
@@ -99,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "开发者/web/vue/Promise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "开发者/web/vue/Promise.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "开发者/web/vue/Promise.md"
+              }
             }
           }
         ],
@@ -158,7 +148,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "6d07f6700f5397a5",
+  "active": "e8680b968d6528e0",
   "lastOpenFiles": [
     "2024-05-08.md",
     "开发者/web/vue/Promise.md",
