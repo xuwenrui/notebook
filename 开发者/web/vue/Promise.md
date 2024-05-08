@@ -92,3 +92,54 @@ p1.then(
 
 - ##### Promise.then
 函数回调执行，常用于接收请求接口返回的数据；该回调函数有两个参数（函数），一个是用于处理 Promise 解决时的回调函数，另一个是可选的用于处理 Promise 拒绝（rejected）时的回调函数；用于接收promise对应状态的数据。而且.then的返回值也是个promis对象，具体看后面返回值详解章节
+```javascript
+const p = new Promise((resolve, reject) => {
+  resolve("成功");
+});
+const result = p.then(
+  (res) => {
+    console.log("----打印：p", res); //----打印：p 成功
+   
+  },
+  (rej) => {
+    console.log("----打印：p", rej); //不执行
+  }
+);
+result.then(
+  (res) => {
+    console.log("----打印：第二次", res); //----打印:第二次 undefined
+    console.log("----打印：", result); //----打印： Promise { <fulfilled> } --    
+    [PromiseState]]: "fulfilled"[[PromiseResult]]: undefined
+ 
+    //为啥呢？
+    //因为第一个then没有给返回的具体值--，所以在第二个.then中，
+    //剥离掉promise，拿到的result就是undefined
+    //虽然.then返回值是promise，但.then里面的参数，拿到的是promise里面携带的值（通俗表达）
+ 
+  },
+  (rej) => {
+    console.log("----打印：第二次", rej); //不执行
+  }
+);
+ 
+//这个是最先打印--所以执行这里的时候，显示还是在pedding状态
+console.log("----打印：", result); //----打印： Promise { <pending> } --[PromiseState]]: "fulfilled"[[PromiseResult]]: undefined
+ 
+//若这么写。第二个then函数中拿到值就是6，而不是undefined
+ const result = p.then(
+   (res) => {
+     console.log("----打印：p", res); //----打印：p 成功
+     return 6
+    },
+ );
+ result.then(
+   (res) => {
+     console.log("----打印：第二次", res); //----打印:第二次 6
+   },
+ );
+```
+
+```
+
+ 
+```
