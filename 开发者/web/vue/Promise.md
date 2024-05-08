@@ -15,3 +15,18 @@ promise一共有3个状态：pending、fulfilled和rejected
 
 - ##### Promise.resolve
 这个Promise对象的静态方法，用于创建一个成功状态的Promise对象，可以之间在.then的成功回调中，获取resolve的值
+``` javascript
+const p = Promise.resolve("成功");
+p.then((res) => {
+  console.log("----打印：", res); //----打印： 成功
+});
+ 
+//该用法类似于
+const p1 = new Promise((resolve, reject) => {
+  resolve("成功");
+});
+p1.then((res) => {
+  console.log("----打印：p1", res); //----打印：p1 成功
+});
+ 
+//后续代码中都会出现类似，或者另外中写法，尝试的时候，不能同时放出来执行
