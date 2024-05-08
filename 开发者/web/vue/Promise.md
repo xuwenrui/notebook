@@ -368,7 +368,7 @@ Promise.any(promiseArr)
 
 - ###### Promise.race
   方法接收的参数和.all、.any接收的参数一样，接收一个可迭代promise对象的数组，**当任何一个promise的状态先确定（拒绝或者成功），则会执行.race中的回调函数**，具体根据promise的状态 ---和allSettled效果互斥
-```
+```javascript
 var p1 = new Promise((resoleve, reject) => {
   setTimeout(() => {
     console.log("----打印：p1");
@@ -418,7 +418,7 @@ Promise.race([p1, p2, p3])
 该方法参数也是和.all相同；顾名思义，这个方法是等所有promise参数确定状态后，才会执行回调函数，不管是成功的状态还是拒绝的状态，都等待全部执行后，并返回一个包含每个 Promise 解决状态的对象数组，每个对象包含两个属性：status 和 value；state表示promise的状态：resolve和rejected，value代表的是promise传递的值。
 
    请注意，Promise.allSettled 是 ES2020（也称为 ES11）中引入的新方法，需要支持该版本的 JavaScript 运行环境才能使用
-   ```
+```javascript
    var p1 = new Promise((resoleve, reject) => {
   setTimeout(() => {
     console.log("----打印：p1");
@@ -463,7 +463,8 @@ Promise.allSettled([p1, p2, p3, p4])
 // ]
 ```
 - ###### Promise.finally
-```var p1 = new Promise((resoleve, reject) => {
+```javascript
+var p1 = new Promise((resoleve, reject) => {
   setTimeout(() => {
     resoleve("p1--3000");
   }, 3000);
@@ -502,7 +503,7 @@ Promise的返回值 --- promise对象
     
 
         返回值是一个**promise对象**，对象中的状态和值，根据new promise中同步代码的逻辑决定
-```
+``` javascript
 let resolveP = new Promise((resolve, resject) => {
   resolve("success");
 });
@@ -520,7 +521,7 @@ console.log("----打印：", rejectP);
 
 - ###### promise.then 的返回值是什么？
 当函数中没有return值的时候，或者return的是个普通数据，返回的值是一个promise对象，对象中有成功状态，和undefined的值。
-```
+``` javascript
 let p = new Promise((resoleve, reject) => {
   setTimeout(() => {
     resoleve("返回值");
@@ -547,7 +548,34 @@ setTimeout(() => {
 ```
 
 当函数中return的是一个promise对象，则返回值依旧是一个promise对象，注意：此时的promise状态和return的promise对象中的状态一致
-
+``` javascript
+let p = new Promise((resoleve, reject) => {
+  setTimeout(() => {
+    resoleve("返回值");
+  }, 1000);
+});
+ 
+const backP = p.then((res) => {
+  console.log("----打印：", res);
+  return Promise.resolve(res + "成功的promise");
+});
+const finallyBackP = backP.then((res) => {
+  console.log("----打印：", res);
+  return Promise.reject("最后是失败的promise");
+});
+setTimeout(() => {
+  console.log("----打印：backP", backP);
+}, 2000);
+setTimeout(() => {
+  console.log("----打印：finallyBackPP", finallyBackP);
+}, 3000);
+ 
+//执行结果
+// ----打印： 返回值
+// ----打印： 返回值成功的promise
+// ----打印：backP Promise {<fulfilled>: '返回值成功的promise'}
+// ----打印：finallyBackPP Promise {<rejected>: '最后是失败的promise'}
+```
 
 当函数中报错，抛出错误，则返回值是一个拒绝状态的promise对象
 
