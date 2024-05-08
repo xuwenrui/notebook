@@ -300,8 +300,73 @@ Promise.all(promiseArr)
 
 - ##### Promise.any
 - Promise.any接收一个promise的数组作为参数，只要其中有一个Promise成功执行，就会返回已经成功执行的Promise的结果；若全部为rejected状态，则会到最后的promise执行完，全部的promise返回到异常函数中；可用于多通道获取数据，谁先获取就执行下一步程序，跳出这个过程。---和all的相反
-————————————————
+```
+var p1 = new Promise((resoleve, reject) => {
+  setTimeout(() => {
+    resoleve("p1--3000");
+  }, 3000);
+});
+var p2 = new Promise((resoleve, reject) => {
+  setTimeout(() => {
+    reject("p2--1000");
+  }, 1000);
+});
+var p3 = new Promise((resoleve, reject) => {
+  setTimeout(() => {
+    console.log("----打印p3");
+    resoleve("p3--5000");
+  }, 5000);
+});
+ 
+var promiseArr = [p1, p2, p3];
+console.time("promiseArr");
+Promise.any(promiseArr)
+  .then((res) => {
+    console.log("res", res); //res [ 'p1--3000', 'p2--1000', 'p3--5000' ]
+    console.timeEnd("promiseArr"); // promiseArr: 5.020s
+  })
+  .catch((err) => console.log(err));
+ 
+//输出顺序 --虽然p2已经执行完，但是为rejected状态，而any会返回第一个resolve状态的对象
+//   res p1--3000
+// promiseArr: 3.009s
+// ----打印p3
+ 
+//另外一种情况
+var p1 = new Promise((resoleve, reject) => {
+  setTimeout(() => {
+    reject("p1--3000");
+  }, 3000);
+});
+var p2 = new Promise((resoleve, reject) => {
+  setTimeout(() => {
+    reject("p2--1000");
+  }, 1000);
+});
+var p3 = new Promise((resoleve, reject) => {
+  setTimeout(() => {
+    console.log("----打印p3");
+    reject("p3--5000");
+  }, 5000);
+});
+ 
+var promiseArr = [p1, p2, p3];
+console.time("promiseArr");
+Promise.any(promiseArr)
+  .then((res) => {
+    console.log("res", res); //res [ 'p1--3000', 'p2--1000', 'p3--5000' ]
+    console.timeEnd("promiseArr"); // promiseArr: 5.020s
+  })
+  .catch((err) => console.log(err));
+ 
+//输出结果   解释--因为p1，2，3都是错误，所以any一直在等有成功的状态，所以知道p3结束后，没有成功的，就走catch那边
+// ----打印p3
+// [AggregateError: All promises were rejected] {
+//   [errors]: [ 'p1--3000', 'p2--1000', 'p3--5000' ]
+// }
+```
 
-                            版权声明：本文为博主原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接和本声明。
-                        
-原文链接：https://blog.csdn.net/qq_53669554/article/details/131598219
+- ###### Promise.race
+  方法接收的参数和.all、.any接收的参数一样，接收一个可迭代promise对象的数组，**当任何一个promise的状态先确定（拒绝或者成功），则会执行.race中的回调函数**，具体根据promise的状态 ---和allSettled效果互斥
+  ```
+```
