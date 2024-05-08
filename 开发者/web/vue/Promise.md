@@ -519,8 +519,30 @@ console.log("----打印：", rejectP);
 - ##### promise.then 的返回值是什么？
 
 当函数中没有return值的时候，或者return的是个普通数据，返回的值是一个promise对象，对象中有成功状态，和undefined的值。
-```
-
+```javascript
+let p = new Promise((resoleve, reject) => {
+  setTimeout(() => {
+    resoleve("返回值");
+  }, 1000);
+});
+ 
+const backP = p.then((res) => {
+  console.log("----打印：res", res);
+});
+const finallyBackP = backP.then((res) => {
+  return "又有数据";
+});
+setTimeout(() => {
+  console.log("----打印：backP", backP);
+}, 2000);
+setTimeout(() => {
+  console.log("----打印：finallyBackPP", finallyBackP);
+}, 3000);
+ 
+//执行结果
+// ----打印：res 返回值
+// ----打印：backP Promise {<fulfilled>: undefined}
+//----打印：finallyBackPP Promise {<fulfilled>: '又有数据'}
 ```
 2.当函数中没有return值的时候，或者return的是个普通数据，返回的值是一个promise对象，对象中有成功状态，和undefined的值。
 ``` javascript
