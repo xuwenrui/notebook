@@ -160,3 +160,95 @@ p.then(null).then((res) => {
 });
 ```
 
+- ##### Promise.catch
+用于注册在 Promise 对象拒绝（rejected）时的回调函数。同时也可以用来捕获代码异常或者出错；
+
+      1、像如果promise是一个reject的状态或者抛出异常或者错误，既可以在.then函数中的第二个参数获取，也可以在.catch中的函数中获取，如果两者同时出现代码中（可以看Promise.reject中的案例哦）。
+
+  2、.then中产生异常能在.catch 或者下一个.then中捕获。.then和.catch本质上是没有区别的， 需要分场合使用;一般异常用.catch。拒绝状态用.then
+
+      3、而且，一旦异常被捕获，则未执行后面中的.then不管多少，都不会执行。一般最好用.catch 在最后去捕获，这样能捕获到上面最先报错的信息
+```
+const p = new Promise((resolve, reject) => {
+  reject("拒绝");
+  console.log("----打印："); //会输出
+  throw new Error("抛出错误"); //这一句改变promise状态，因为状态已经决定了
+});
+p.catch((error) => {
+  console.log(error); // ：--拒绝
+});
+ 
+// 另外写法
+p.then(
+  (res) => {},
+  (rej) => {
+    console.log("----打印：", rej); //----打印： 拒绝
+  }
+);
+ 
+//另外情况
+const p1 = new Promise((resolve, reject) => {
+  throw new Error("抛出错误");
+});
+ 
+p1.catch((error) => {
+  console.log("p1", error); //：Error: 抛出错误
+});
+ 
+//另外情况---2
+const p2 = new Promise((resolve, reject) => {
+  resolve(11);
+});
+ 
+p2.then((res) => {
+  console.log("----打印：", res);
+  throw new Error("抛出错误");
+})
+  //如果没有下面这个.then 则错误就会被catch捕获
+  //不提倡这种写法--只是为了证明，then也可以接收到异常
+  .then(
+    (res) => {},
+    (rej) => {
+      console.log("----打印：能接到就执行", rej); //----打印：能接到就执行 Error: 抛出错误
+    }
+  )
+  .catch((error) => {
+    console.log("catch接到", error); //不执行
+  });
+ 
+//另外的情况3
+const p3 = new Promise((resolve, reject) => {
+  resolve(11);
+});
+ 
+p3.then((res) => {
+  console.log("----打印：", res);
+  throw new Error("抛出错误");
+})
+  //如果没有下面这个.then 则错误就会被catch捕获
+  //一般是直接在最后写.catch，而不会这么一层层写reject回调函数，除非特殊业务
+  .then(
+    (res) => {},
+    (rej) => {
+      console.log("----打印：rej", rej); //执行
+    }
+  )
+  .then(
+    (res) => {},
+    (rej) => {
+      console.log("----打印：会不会执行"); //不会执行
+    }
+  )
+  .catch((error) => {
+    console.log("catch接到", error); //不执行
+  });
+```
+- ##### Promise.all
+  Promise.all接收一个promise对象的数组作为参数，当这个数组里面的promise对象，没有出现rejected状态，则会一直等待所有resolve成功后，才执行.then这个回调，如果有一个是rejected状态，则会先执行.all里面的.then中第二个回调函数或者.catch函数，不会等后续跑完你在执行
+
+    传递给Promise.all的 promise并不是一个个的顺序执行的，而是同时开始、并行执行的
+————————————————
+
+                            版权声明：本文为博主原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接和本声明。
+                        
+原文链接：https://blog.csdn.net/qq_53669554/article/details/131598219
