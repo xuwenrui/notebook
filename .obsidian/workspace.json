@@ -103,7 +103,7 @@
               "type": "outgoing-link",
               "state": {
                 "file": "开发者/web/vue/Promise.md",
-                "linksCollapsed": true,
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,7 +147,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "e8680b968d6528e0",
+  "active": "78a036985f327419",
   "lastOpenFiles": [
     "2024-05-08.md",
     "开发者/web/vue/Promise.md",

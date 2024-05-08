@@ -91,7 +91,7 @@ p1.then(
 ```
 
 - ##### Promise.then
-函数回调执行，常用于接收请求接口返回的数据；该回调函数有两个参数（函数），一个是用于处理 Promise 解决时的回调函数，另一个是可选的用于处理 Promise 拒绝（rejected）时的回调函数；用于接收promise对应状态的数据。而且.then的返回值也是个promis对象，具体看后面返回值详解章节
+   函数回调执行，常用于接收请求接口返回的数据；该回调函数有两个参数（函数），一个是用于处理 Promise 解决时的回调函数，另一个是可选的用于处理 Promise 拒绝（rejected）时的回调函数；用于接收promise对应状态的数据。而且.then的返回值也是个promis对象，具体看后面返回值详解章节
 ```javascript
 const p = new Promise((resolve, reject) => {
   resolve("成功");
@@ -168,7 +168,7 @@ p.then(null).then((res) => {
   2、.then中产生异常能在.catch 或者下一个.then中捕获。.then和.catch本质上是没有区别的， 需要分场合使用;一般异常用.catch。拒绝状态用.then
 
       3、而且，一旦异常被捕获，则未执行后面中的.then不管多少，都不会执行。一般最好用.catch 在最后去捕获，这样能捕获到上面最先报错的信息
-```
+```javascript
 const p = new Promise((resolve, reject) => {
   reject("拒绝");
   console.log("----打印："); //会输出
@@ -300,7 +300,7 @@ Promise.all(promiseArr)
 
 - ##### Promise.any
 - Promise.any接收一个promise的数组作为参数，只要其中有一个Promise成功执行，就会返回已经成功执行的Promise的结果；若全部为rejected状态，则会到最后的promise执行完，全部的promise返回到异常函数中；可用于多通道获取数据，谁先获取就执行下一步程序，跳出这个过程。---和all的相反
-```
+```javascript
 var p1 = new Promise((resoleve, reject) => {
   setTimeout(() => {
     resoleve("p1--3000");
