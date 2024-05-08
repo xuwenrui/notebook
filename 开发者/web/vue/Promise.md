@@ -462,3 +462,58 @@ Promise.allSettled([p1, p2, p3, p4])
 //   }
 // ]
 ```
+- ###### Promise.finally
+```var p1 = new Promise((resoleve, reject) => {
+  setTimeout(() => {
+    resoleve("p1--3000");
+  }, 3000);
+});
+ 
+p1.then((res) => {
+  console.log("----打印：", res);
+}).finally(() => {
+  console.log("----打印：调用了");
+});
+ 
+// //执行结果
+// // ----打印： p1--3000
+// // ----打印：调用了
+let p2 = new Promise((resoleve, reject) => {
+  setTimeout(() => {
+    reject("p2--1000");
+  }, 1000);
+});
+ 
+p2.then((res) => {})
+  .catch((err) => {
+    console.log("----打印：", err);
+  })
+  .finally(() => {
+    console.log("----打印：也调用了");
+  });
+ 
+//执行结果
+//   ----打印： p2--1000
+// ----打印：也调用了
+```
+
+Promise的返回值 --- promise对象
+- ###### new Promise 的返回值是什么？ 
+    
+
+        返回值是一个**promise对象**，对象中的状态和值，根据new promise中同步代码的逻辑决定
+```
+let resolveP = new Promise((resolve, resject) => {
+  resolve("success");
+});
+console.log("----打印：", resolveP);
+//执行结果
+//----打印： Promise {<fulfilled>: 'success'}
+let rejectP = new Promise((resolve, resject) => {
+  resject("rejected");
+});
+console.log("----打印：", rejectP);
+ 
+//执行结果
+// Promise {<rejected>: 'rejected'}
+```
