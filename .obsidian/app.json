@@ -1,4 +1,5 @@
 {
   "newFileLocation": "folder",
-  "newFileFolderPath": "attachment/images/2024"
+  "newFileFolderPath": "/attachment/images/2024",
+  "alwaysUpdateLinks": true
 }
