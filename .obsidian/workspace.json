@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/导入导出/图片处理/修改图片大小并旋转.md",
+                "file": "开发者/java/activiti7/1.准备.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/导入导出/图片处理/修改图片大小并旋转.md",
+                "file": "开发者/java/activiti7/1.准备.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/导入导出/图片处理/修改图片大小并旋转.md",
+                "file": "开发者/java/activiti7/1.准备.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/导入导出/图片处理/修改图片大小并旋转.md"
+                "file": "开发者/java/activiti7/1.准备.md"
               }
             }
           }
@@ -149,12 +149,12 @@
   },
   "active": "e8680b968d6528e0",
   "lastOpenFiles": [
-    "开发者/java/导入导出/图片处理/thumbnailator.md",
-    "开发者/java/导入导出/图片处理/修改图片大小并旋转.md",
-    "开发者/java/导入导出/pdf/图片自适应.md",
-    "开发者/java/导入导出/图片处理",
     "开发者/java/activiti7/表说明.md",
     "开发者/java/activiti7/1.准备.md",
+    "开发者/java/导入导出/图片处理/修改图片大小并旋转.md",
+    "开发者/java/导入导出/图片处理/thumbnailator.md",
+    "开发者/java/导入导出/pdf/图片自适应.md",
+    "开发者/java/导入导出/图片处理",
     "数学/函数/三角函数.md",
     "开发者/java/导入导出/pdf",
     "开发者/java/导入导出",
