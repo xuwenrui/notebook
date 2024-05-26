@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/activiti7/1.准备/4.设计器.md",
+                "file": "开发者/java/activiti7/2.基本使用/2.设置受理人.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 253.5
   },
   "right": {
     "id": "5b83e7f216863d46",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/activiti7/1.准备/4.设计器.md",
+                "file": "开发者/java/activiti7/2.基本使用/2.设置受理人.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/activiti7/1.准备/4.设计器.md",
+                "file": "开发者/java/activiti7/2.基本使用/2.设置受理人.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/activiti7/1.准备/4.设计器.md"
+                "file": "开发者/java/activiti7/2.基本使用/2.设置受理人.md"
               }
             }
           }
@@ -150,12 +150,16 @@
   },
   "active": "e8680b968d6528e0",
   "lastOpenFiles": [
+    "Pasted image 20240526210526.png",
+    "开发者/java/activiti7/2.基本使用/1.基本使用.md",
+    "开发者/java/activiti7/2.基本使用/2.设置受理人.md",
+    "开发者/java/activiti7/1.准备/3.获取实例（自动初始化数据库）.md",
+    "开发者/java/activiti7/1.准备/4.设计器.md",
+    "开发者/java/activiti7/2.基本使用",
     "Pasted image 20240526205514.png",
     "Pasted image 20240526124413.png",
     "Pasted image 20240526123504.png",
     "开发者/java/activiti7/1.准备/1.准备.md",
-    "开发者/java/activiti7/1.准备/3.获取实例（自动初始化数据库）.md",
-    "开发者/java/activiti7/1.准备/4.设计器.md",
     "开发者/java/activiti7/1.准备",
     "开发者/java/activiti7/1.准备/2.表说明.md",
     "开发者/java/导入导出/图片处理/修改图片大小并旋转.md",
@@ -178,7 +182,6 @@
     "数学",
     "开发者/web/vue/naiveui/1.初始化项目.md",
     "开发者/web/vue/axios.md",
-    "开发者/web/vue/naiveui",
     "开发者/web/vue/Promise.md",
     "2024-05-08.md",
     "未命名.canvas",
