@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "464bafdd3f8f8c9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开发者/java/activiti7/2.基本使用/4.身份信息.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/activiti7/2.基本使用/3.流程变量.md",
+                "file": "开发者/java/activiti7/2.基本使用/4.身份信息.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/activiti7/2.基本使用/3.流程变量.md",
+                "file": "开发者/java/activiti7/2.基本使用/4.身份信息.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/activiti7/2.基本使用/3.流程变量.md"
+                "file": "开发者/java/activiti7/2.基本使用/4.身份信息.md"
               }
             }
           }
@@ -148,11 +161,12 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "e8680b968d6528e0",
+  "active": "1234ab53d88e86c1",
   "lastOpenFiles": [
+    "开发者/java/activiti7/2.基本使用/3.流程变量.md",
+    "开发者/java/activiti7/2.基本使用/4.身份信息.md",
     "Pasted image 20240527220143.png",
     "开发者/java/activiti7/2.基本使用/2.设置受理人.md",
-    "开发者/java/activiti7/2.基本使用/3.流程变量.md",
     "Pasted image 20240526210526.png",
     "开发者/java/activiti7/2.基本使用/1.基本使用.md",
     "开发者/java/activiti7/1.准备/3.获取实例（自动初始化数据库）.md",
