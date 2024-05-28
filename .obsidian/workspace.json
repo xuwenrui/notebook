@@ -13,27 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/activiti7/2.基本使用/3.流程变量.md",
+                "file": "开发者/java/activiti7/2.基本使用/4.身份信息.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "464bafdd3f8f8c9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发者/java/activiti7/2.基本使用/4.身份信息.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,11 +148,20 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "464bafdd3f8f8c9c",
+  "active": "e8680b968d6528e0",
   "lastOpenFiles": [
-    "Pasted image 20240528214442.png",
+    "开发者/java/activiti7/3.网关/1.排他网关.md",
     "开发者/java/activiti7/2.基本使用/3.流程变量.md",
+    "未命名.canvas",
+    "Pasted image 20240528215850.png",
+    "开发者/java/activiti7/3.网关/4.事件网关.md",
+    "开发者/java/activiti7/3.网关/3.包容网关.md",
+    "开发者/java/activiti7/3.网关/2.并行网关.md",
+    "Pasted image 20240526123504.png",
+    "开发者/java/activiti7/2.基本使用/5.网关.md",
+    "开发者/java/activiti7/3.网关",
     "开发者/java/activiti7/2.基本使用/4.身份信息.md",
+    "Pasted image 20240528214442.png",
     "Pasted image 20240527220143.png",
     "开发者/java/activiti7/2.基本使用/2.设置受理人.md",
     "Pasted image 20240526210526.png",
@@ -175,7 +171,6 @@
     "开发者/java/activiti7/2.基本使用",
     "Pasted image 20240526205514.png",
     "Pasted image 20240526124413.png",
-    "Pasted image 20240526123504.png",
     "开发者/java/activiti7/1.准备/1.准备.md",
     "开发者/java/activiti7/1.准备",
     "开发者/java/activiti7/1.准备/2.表说明.md",
@@ -192,16 +187,12 @@
     "attachment/images/2024",
     "attachment/images",
     "attachment",
-    "attachment/images/2024/Pasted image 20240510220654.png",
-    "attachment/images/2024/Pasted image 20240510220434.png",
     "开发者/web/vue/naiveui/2.组件异步数据渲染.md",
     "数学/函数",
-    "数学",
     "开发者/web/vue/naiveui/1.初始化项目.md",
     "开发者/web/vue/axios.md",
     "开发者/web/vue/Promise.md",
     "2024-05-08.md",
-    "未命名.canvas",
     "obidian/obsidian同步方案.md",
     "2024-05-06.md",
     "Welcome.md"
