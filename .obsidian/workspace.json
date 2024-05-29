@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/activiti7/3.网关/4.事件网关.md",
+                "file": "开发者/java/activiti7/3.网关/2.并行网关.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/activiti7/3.网关/4.事件网关.md",
+                "file": "开发者/java/activiti7/3.网关/2.并行网关.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/activiti7/3.网关/4.事件网关.md",
+                "file": "开发者/java/activiti7/3.网关/2.并行网关.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/activiti7/3.网关/4.事件网关.md"
+                "file": "开发者/java/activiti7/3.网关/2.并行网关.md"
               }
             }
           }
@@ -149,16 +149,17 @@
   },
   "active": "e8680b968d6528e0",
   "lastOpenFiles": [
+    "开发者/java/activiti7/3.网关/1.排他网关.md",
+    "Pasted image 20240529220314.png",
     "开发者/java/activiti7/3.网关/2.并行网关.md",
+    "开发者/java/activiti7/3.网关/4.事件网关.md",
     "attachment/images/2024/Pasted image 20240526205514.png",
     "attachment/images/2024/Pasted image 20240526123504.png",
     "attachment/images/2024/Pasted image 20240528220514.png",
     "未命名.canvas",
-    "开发者/java/activiti7/3.网关/4.事件网关.md",
     "开发者/java/activiti7/3.网关/3.包容网关.md",
     "attachment/images/2024/Pasted image 20240528220458.png",
     "attachment/images/2024/Pasted image 20240528220420.png",
-    "开发者/java/activiti7/3.网关/1.排他网关.md",
     "开发者/java/activiti7/2.基本使用/4.身份信息.md",
     "开发者/java/activiti7/2.基本使用/3.流程变量.md",
     "attachment/images/2024/Pasted image 20240528215850.png",
@@ -172,7 +173,6 @@
     "开发者/java/activiti7/1.准备/3.获取实例（自动初始化数据库）.md",
     "开发者/java/activiti7/1.准备/4.设计器.md",
     "开发者/java/activiti7/2.基本使用",
-    "attachment/images/2024/Pasted image 20240526124413.png",
     "开发者/java/activiti7/1.准备/1.准备.md",
     "开发者/java/activiti7/1.准备",
     "开发者/java/activiti7/1.准备/2.表说明.md",
