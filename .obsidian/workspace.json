@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0c7376d68ee9b04a",
+        "id": "ac919e5efcb2f16e",
         "type": "tabs",
         "children": [
           {
-            "id": "e8680b968d6528e0",
+            "id": "ebe69e20cf69db42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/activiti7/5.消息事件/3.边界事件.md",
+                "file": "开发者/java/activiti7/6.错误事件/1.开始事件.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/activiti7/5.消息事件/3.边界事件.md",
+                "file": "开发者/java/activiti7/6.错误事件/1.开始事件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/activiti7/5.消息事件/3.边界事件.md",
+                "file": "开发者/java/activiti7/6.错误事件/1.开始事件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/activiti7/5.消息事件/3.边界事件.md"
+                "file": "开发者/java/activiti7/6.错误事件/1.开始事件.md"
               }
             }
           }
@@ -147,12 +147,15 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "1234ab53d88e86c1",
+  "active": "ebe69e20cf69db42",
   "lastOpenFiles": [
-    "开发者/java/activiti7/未命名",
+    "开发者/java/activiti7/6.错误事件/3.结束事件.md",
+    "开发者/java/activiti7/6.错误事件/2.边界事件.md",
+    "开发者/java/activiti7/6.错误事件/1.开始事件.md",
+    "开发者/java/activiti7/5.消息事件/3.边界事件.md",
+    "开发者/java/activiti7/6.错误事件",
     "attachment/images/2024/Pasted image 20240602152501.png",
     "attachment/images/2024/Pasted image 20240529220314.png",
-    "开发者/java/activiti7/5.消息事件/3.边界事件.md",
     "开发者/java/activiti7/4.定时器事件/4.定时边界事件.md",
     "开发者/java/activiti7/5.消息事件/2.消息中间事件.md",
     "attachment/images/2024/Pasted image 20240602155840.png",
@@ -190,11 +193,8 @@
     "开发者/java/导入导出/图片处理/thumbnailator.md",
     "开发者/java/导入导出/pdf/图片自适应.md",
     "开发者/java/导入导出/图片处理",
-    "数学/函数/三角函数.md",
     "开发者/java/导入导出/pdf",
     "开发者/java/导入导出",
-    "attachment/images/2024",
-    "attachment/images",
-    "开发者/web/vue/naiveui/2.组件异步数据渲染.md"
+    "attachment/images/2024"
   ]
 }
