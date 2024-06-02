@@ -147,8 +147,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ebe69e20cf69db42",
+  "active": "1234ab53d88e86c1",
   "lastOpenFiles": [
+    "开发者/AI/未命名",
+    "开发者/AI",
     "开发者/java/activiti7/6.错误事件/3.结束事件.md",
     "开发者/java/activiti7/6.错误事件/2.边界事件.md",
     "开发者/java/activiti7/6.错误事件/1.开始事件.md",
@@ -191,10 +193,8 @@
     "开发者/java/activiti7/1.准备/2.表说明.md",
     "开发者/java/导入导出/图片处理/修改图片大小并旋转.md",
     "开发者/java/导入导出/图片处理/thumbnailator.md",
-    "开发者/java/导入导出/pdf/图片自适应.md",
     "开发者/java/导入导出/图片处理",
     "开发者/java/导入导出/pdf",
-    "开发者/java/导入导出",
-    "attachment/images/2024"
+    "开发者/java/导入导出"
   ]
 }
