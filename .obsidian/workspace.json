@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/AI/大模型1/1.提示词.md",
+                "file": "开发者/java/activiti7/1.准备/4.设计器.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/AI/大模型1/1.提示词.md",
+                "file": "开发者/java/activiti7/1.准备/4.设计器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/AI/大模型1/1.提示词.md",
+                "file": "开发者/java/activiti7/1.准备/4.设计器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/AI/大模型1/1.提示词.md"
+                "file": "开发者/java/activiti7/1.准备/4.设计器.md"
               }
             }
           }
@@ -149,10 +149,13 @@
   },
   "active": "ebe69e20cf69db42",
   "lastOpenFiles": [
-    "Pasted image 20240602174008.png",
-    "Pasted image 20240602172603.png",
+    "开发者/java/activiti7/1.准备/2.表说明.md",
+    "开发者/java/activiti7/1.准备/3.获取实例（自动初始化数据库）.md",
+    "开发者/java/activiti7/1.准备/1.准备.md",
     "开发者/java/activiti7/6.错误事件/1.开始事件.md",
     "开发者/AI/大模型1/1.提示词.md",
+    "Pasted image 20240602174008.png",
+    "Pasted image 20240602172603.png",
     "开发者/AI/大模型1",
     "开发者/AI",
     "开发者/java/activiti7/6.错误事件/3.结束事件.md",
@@ -174,7 +177,6 @@
     "开发者/java/activiti7/4.定时器事件/1.定时器事件.md",
     "开发者/java/activiti7/5.消息事件",
     "attachment/images/2024/Pasted image 20240602152337.png",
-    "attachment/images/2024/Pasted image 20240602152142.png",
     "开发者/java/activiti7/3.网关/4.事件网关.md",
     "开发者/java/activiti7/4.定时器事件",
     "开发者/java/activiti7/3.网关/3.包容网关.md",
@@ -187,12 +189,9 @@
     "开发者/java/activiti7/3.网关",
     "开发者/java/activiti7/2.基本使用/2.设置受理人.md",
     "开发者/java/activiti7/2.基本使用/1.基本使用.md",
-    "开发者/java/activiti7/1.准备/3.获取实例（自动初始化数据库）.md",
     "开发者/java/activiti7/1.准备/4.设计器.md",
     "开发者/java/activiti7/2.基本使用",
-    "开发者/java/activiti7/1.准备/1.准备.md",
     "开发者/java/activiti7/1.准备",
-    "开发者/java/activiti7/1.准备/2.表说明.md",
     "开发者/java/导入导出/图片处理/修改图片大小并旋转.md",
     "开发者/java/导入导出/图片处理",
     "开发者/java/导入导出/pdf"
