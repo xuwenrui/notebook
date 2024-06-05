@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/activiti7/7.信号事件/2.信号中间事件.md",
+                "file": "开发者/java/activiti7/7.信号事件/3.信号边界事件.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/activiti7/7.信号事件/2.信号中间事件.md",
+                "file": "开发者/java/activiti7/7.信号事件/3.信号边界事件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/activiti7/7.信号事件/2.信号中间事件.md",
+                "file": "开发者/java/activiti7/7.信号事件/3.信号边界事件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/activiti7/7.信号事件/2.信号中间事件.md"
+                "file": "开发者/java/activiti7/7.信号事件/3.信号边界事件.md"
               }
             }
           }
@@ -149,9 +149,14 @@
   },
   "active": "ebe69e20cf69db42",
   "lastOpenFiles": [
+    "Pasted image 20240605222748.png",
+    "Pasted image 20240605222028.png",
+    "Pasted image 20240605221955.png",
+    "Pasted image 20240605221922.png",
+    "开发者/java/activiti7/7.信号事件/2.信号中间事件.md",
+    "开发者/java/activiti7/7.信号事件/3.信号边界事件.md",
     "Pasted image 20240605211540.png",
     "开发者/java/activiti7/7.信号事件/1.开始事件.md",
-    "开发者/java/activiti7/7.信号事件/2.信号中间事件.md",
     "Pasted image 20240604213049.png",
     "Pasted image 20240604212234.png",
     "开发者/java/activiti7/6.错误事件/3.结束事件.md",
@@ -162,19 +167,15 @@
     "Pasted image 20240604202757.png",
     "Pasted image 20240604202546.png",
     "开发者/java/activiti7/6.错误事件/1.开始事件.md",
-    "Pasted image 20240604201440.png",
     "开发者/java/activiti7/1.准备/4.设计器.md",
     "开发者/java/activiti7/1.准备/2.表说明.md",
     "开发者/java/activiti7/1.准备/3.获取实例（自动初始化数据库）.md",
     "开发者/java/activiti7/1.准备/1.准备.md",
     "开发者/AI/大模型1/1.提示词.md",
-    "Pasted image 20240602174008.png",
-    "Pasted image 20240602172603.png",
     "开发者/AI/大模型1",
     "开发者/AI",
     "开发者/java/activiti7/5.消息事件/3.边界事件.md",
     "开发者/java/activiti7/6.错误事件",
-    "attachment/images/2024/Pasted image 20240602152501.png",
     "开发者/java/activiti7/4.定时器事件/4.定时边界事件.md",
     "开发者/java/activiti7/5.消息事件/2.消息中间事件.md",
     "开发者/java/activiti7/5.消息事件/1.开始事件.md",
@@ -192,7 +193,6 @@
     "开发者/java/activiti7/2.基本使用/3.流程变量.md",
     "开发者/java/activiti7/2.基本使用/5.网关.md",
     "开发者/java/activiti7/3.网关",
-    "开发者/java/activiti7/2.基本使用/2.设置受理人.md",
     "开发者/java/activiti7/2.基本使用",
     "开发者/java/activiti7/1.准备",
     "开发者/java/导入导出/图片处理"
