@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java8/1.概述.md",
+                "file": "开发者/java/jdk/jdk特性/java8/2.lambada表达式.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java8/1.概述.md",
+                "file": "开发者/java/jdk/jdk特性/java8/2.lambada表达式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java8/1.概述.md",
+                "file": "开发者/java/jdk/jdk特性/java8/2.lambada表达式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java8/1.概述.md"
+                "file": "开发者/java/jdk/jdk特性/java8/2.lambada表达式.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "f9e9dcff2b0e4700",
   "lastOpenFiles": [
-    "开发者/java/jdk/jdk特性/java8/2.lambada表达式.md",
     "开发者/java/jdk/jdk特性/java8/4.方法引用.md",
     "开发者/java/jdk/jdk特性/java8/1.概述.md",
+    "开发者/java/jdk/jdk特性/java8/2.lambada表达式.md",
     "开发者/java/jdk/jdk特性/java8",
     "开发者/java/jdk/1.版本说明.md",
     "开发者/java/jdk/jdk特性",
