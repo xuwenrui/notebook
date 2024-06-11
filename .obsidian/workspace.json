@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/jdk/1.版本说明.md",
+                "file": "开发者/java/jdk/jdk特性/java8/1.概述.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/jdk/1.版本说明.md",
+                "file": "开发者/java/jdk/jdk特性/java8/1.概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/jdk/1.版本说明.md",
+                "file": "开发者/java/jdk/jdk特性/java8/1.概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/jdk/1.版本说明.md"
+                "file": "开发者/java/jdk/jdk特性/java8/1.概述.md"
               }
             }
           }
@@ -149,7 +149,12 @@
   },
   "active": "f9e9dcff2b0e4700",
   "lastOpenFiles": [
+    "开发者/java/jdk/jdk特性/java8/2.lambada表达式.md",
+    "开发者/java/jdk/jdk特性/java8/4.方法引用.md",
+    "开发者/java/jdk/jdk特性/java8/1.概述.md",
+    "开发者/java/jdk/jdk特性/java8",
     "开发者/java/jdk/1.版本说明.md",
+    "开发者/java/jdk/jdk特性",
     "开发者/java/jdk",
     "开发者/java/activiti7/7.信号事件/4.其他.md",
     "开发者/java/activiti7/7.信号事件/1.开始事件.md",
@@ -190,12 +195,7 @@
     "开发者/java/activiti7/5.消息事件/1.开始事件.md",
     "开发者/java/activiti7/4.定时器事件/2.循环执行.md",
     "开发者/java/activiti7/4.定时器事件/3.定时器中间事件.md",
-    "开发者/java/activiti7/4.定时器事件/1.定时器事件.md",
     "开发者/java/activiti7/5.消息事件",
-    "开发者/java/activiti7/3.网关/4.事件网关.md",
-    "开发者/java/activiti7/4.定时器事件",
-    "开发者/java/activiti7/3.网关/3.包容网关.md",
-    "开发者/java/activiti7/3.网关",
-    "开发者/java/activiti7/2.基本使用"
+    "开发者/java/activiti7/4.定时器事件"
   ]
 }
