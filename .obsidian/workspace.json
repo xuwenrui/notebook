@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java8/2.lambada表达式.md",
+                "file": "开发者/java/jdk/jdk特性/java8/3..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee37ce1997c87d3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开发者/java/jdk/jdk特性/java8/1.概述.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java8/2.lambada表达式.md",
+                "file": "开发者/java/jdk/jdk特性/java8/1.概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java8/2.lambada表达式.md",
+                "file": "开发者/java/jdk/jdk特性/java8/1.概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java8/2.lambada表达式.md"
+                "file": "开发者/java/jdk/jdk特性/java8/1.概述.md"
               }
             }
           }
@@ -147,11 +160,12 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "f9e9dcff2b0e4700",
+  "active": "ee37ce1997c87d3d",
   "lastOpenFiles": [
-    "开发者/java/jdk/jdk特性/java8/4.方法引用.md",
+    "开发者/java/jdk/jdk特性/java8/3..md",
     "开发者/java/jdk/jdk特性/java8/1.概述.md",
     "开发者/java/jdk/jdk特性/java8/2.lambada表达式.md",
+    "开发者/java/jdk/jdk特性/java8/4.方法引用.md",
     "开发者/java/jdk/jdk特性/java8",
     "开发者/java/jdk/1.版本说明.md",
     "开发者/java/jdk/jdk特性",
@@ -194,7 +208,6 @@
     "开发者/java/activiti7/5.消息事件/2.消息中间事件.md",
     "开发者/java/activiti7/5.消息事件/1.开始事件.md",
     "开发者/java/activiti7/4.定时器事件/2.循环执行.md",
-    "开发者/java/activiti7/4.定时器事件/3.定时器中间事件.md",
     "开发者/java/activiti7/5.消息事件",
     "开发者/java/activiti7/4.定时器事件"
   ]
