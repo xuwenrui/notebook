@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java8/0.概述.md",
+                "file": "开发者/java/jdk/jdk特性/java8/6.Optional 解决NullPointerException.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java8/0.概述.md",
+                "file": "开发者/java/jdk/jdk特性/java8/6.Optional 解决NullPointerException.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java8/0.概述.md",
+                "file": "开发者/java/jdk/jdk特性/java8/6.Optional 解决NullPointerException.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java8/0.概述.md"
+                "file": "开发者/java/jdk/jdk特性/java8/6.Optional 解决NullPointerException.md"
               }
             }
           }
@@ -162,8 +162,9 @@
   },
   "active": "ee37ce1997c87d3d",
   "lastOpenFiles": [
-    "开发者/java/jdk/jdk特性/java8/5.Stream API 对元素流进行函数式操作.md",
     "开发者/java/jdk/jdk特性/java8/0.概述.md",
+    "开发者/java/jdk/jdk特性/java8/6.Optional 解决NullPointerException.md",
+    "开发者/java/jdk/jdk特性/java8/5.Stream API 对元素流进行函数式操作.md",
     "开发者/java/jdk/jdk特性/java8/4.默认方法.md",
     "开发者/java/jdk/jdk特性/java8/3.方法引用.md",
     "开发者/java/jdk/jdk特性/java8/2.函数式接口.md",
@@ -207,7 +208,6 @@
     "开发者/java/activiti7/5.消息事件/3.边界事件.md",
     "开发者/java/activiti7/6.错误事件",
     "开发者/java/activiti7/4.定时器事件/4.定时边界事件.md",
-    "开发者/java/activiti7/5.消息事件/2.消息中间事件.md",
     "开发者/java/activiti7/5.消息事件",
     "开发者/java/activiti7/4.定时器事件"
   ]
