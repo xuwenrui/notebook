@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a36591d9117667b5",
+        "id": "434b878f6de2a4ec",
         "type": "tabs",
         "children": [
           {
-            "id": "f9e9dcff2b0e4700",
+            "id": "878f993b36726fe0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java8/2.函数式接口.md",
+                "file": "开发者/java/基础/文件流/1.概念.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "ee37ce1997c87d3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发者/java/jdk/1.版本说明.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f79dd6182ff2ec65",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/jdk/1.版本说明.md",
+                "file": "开发者/java/基础/文件流/1.概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/jdk/1.版本说明.md",
+                "file": "开发者/java/基础/文件流/1.概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/jdk/1.版本说明.md"
+                "file": "开发者/java/基础/文件流/1.概念.md"
               }
             }
           }
@@ -170,18 +147,25 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "f79dd6182ff2ec65",
+  "active": "878f993b36726fe0",
   "lastOpenFiles": [
+    "obidian/obsidian同步方案.md",
+    "开发者/java/基础/文件流/1.概念.md",
+    "开发者/java/基础/文件流",
+    "开发者/java/基础",
+    "开发者/java/jdk/jdk特性/java8/2.函数式接口.md",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "attachment/images/2024/Pasted image 20240602172603.png",
+    "开发者/java/jdk/1.版本说明.md",
     "开发者/java/jdk/jdk特性/java8/0.概述.md",
     "开发者/java/jdk/jdk特性/java9",
     "开发者/java/jdk/jdk特性/java8/6.Optional 解决NullPointerException.md",
     "开发者/java/jdk/jdk特性/java8/5.Stream API 对元素流进行函数式操作.md",
     "开发者/java/jdk/jdk特性/java8/4.默认方法.md",
     "开发者/java/jdk/jdk特性/java8/3.方法引用.md",
-    "开发者/java/jdk/jdk特性/java8/2.函数式接口.md",
     "开发者/java/jdk/jdk特性/java8/1.lambada表达式.md",
     "开发者/java/jdk/jdk特性/java8",
-    "开发者/java/jdk/1.版本说明.md",
     "开发者/java/jdk/jdk特性",
     "开发者/java/jdk",
     "开发者/java/activiti7/7.信号事件/4.其他.md",
@@ -192,22 +176,19 @@
     "开发者/java/导入导出/pdf/图片自适应.md",
     "开发者/java/导入导出/图片处理/修改图片大小并旋转.md",
     "开发者/java/导入导出/图片处理/thumbnailator.md",
-    "未命名 1.canvas",
-    "未命名.canvas",
     "SignalBoundaryDelegate3.java",
-    "Pasted image 20240605222748.png",
-    "Pasted image 20240605222028.png",
-    "Pasted image 20240605221955.png",
-    "Pasted image 20240605221922.png",
-    "Pasted image 20240605211540.png",
-    "Pasted image 20240604213049.png",
-    "Pasted image 20240604212234.png",
+    "attachment/images/2024/Pasted image 20240605222748.png",
+    "attachment/images/2024/Pasted image 20240605222028.png",
+    "attachment/images/2024/Pasted image 20240605221955.png",
+    "attachment/images/2024/Pasted image 20240605221922.png",
+    "attachment/images/2024/Pasted image 20240605211540.png",
+    "attachment/images/2024/Pasted image 20240604213049.png",
+    "attachment/images/2024/Pasted image 20240604212234.png",
     "开发者/java/activiti7/6.错误事件/3.结束事件.md",
-    "Pasted image 20240604203213.png",
+    "attachment/images/2024/Pasted image 20240604203213.png",
     "开发者/java/activiti7/6.错误事件/2.边界事件.md",
     "开发者/java/activiti7/7.信号事件",
-    "Pasted image 20240604202809.png",
-    "Pasted image 20240604202757.png",
+    "attachment/images/2024/Pasted image 20240604202809.png",
     "开发者/java/activiti7/6.错误事件/1.开始事件.md",
     "开发者/java/activiti7/1.准备/4.设计器.md",
     "开发者/java/activiti7/1.准备/2.表说明.md",
@@ -215,9 +196,6 @@
     "开发者/java/activiti7/1.准备/1.准备.md",
     "开发者/AI/大模型1/1.提示词.md",
     "开发者/AI/大模型1",
-    "开发者/AI",
-    "开发者/java/activiti7/5.消息事件/3.边界事件.md",
-    "开发者/java/activiti7/6.错误事件",
-    "开发者/java/activiti7/5.消息事件"
+    "开发者/AI"
   ]
 }
