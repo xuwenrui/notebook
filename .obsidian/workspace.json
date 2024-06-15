@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/基础/文件流/1.概念.md",
+                "file": "开发者/java/jdk/1.版本说明.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/基础/文件流/1.概念.md",
+                "file": "开发者/java/jdk/1.版本说明.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/基础/文件流/1.概念.md",
+                "file": "开发者/java/jdk/1.版本说明.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/基础/文件流/1.概念.md"
+                "file": "开发者/java/jdk/1.版本说明.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "878f993b36726fe0",
   "lastOpenFiles": [
-    "obidian/obsidian同步方案.md",
+    "开发者/java/jdk/jdk特性/java9/0.概述.md",
     "开发者/java/基础/文件流/1.概念.md",
+    "obidian/obsidian同步方案.md",
     "开发者/java/基础/文件流",
     "开发者/java/基础",
     "开发者/java/jdk/jdk特性/java8/2.函数式接口.md",
@@ -194,7 +195,6 @@
     "开发者/java/activiti7/1.准备/2.表说明.md",
     "开发者/java/activiti7/1.准备/3.获取实例（自动初始化数据库）.md",
     "开发者/java/activiti7/1.准备/1.准备.md",
-    "开发者/AI/大模型1/1.提示词.md",
     "开发者/AI/大模型1",
     "开发者/AI"
   ]
