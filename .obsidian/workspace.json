@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f79dd6182ff2ec65",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +170,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ee37ce1997c87d3d",
+  "active": "f79dd6182ff2ec65",
   "lastOpenFiles": [
     "开发者/java/jdk/jdk特性/java8/0.概述.md",
     "开发者/java/jdk/jdk特性/java9",
