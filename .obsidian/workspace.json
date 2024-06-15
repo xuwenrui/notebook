@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java9/0.概述.md",
+                "file": "开发者/java/jdk/jdk特性/java9/1.模块化.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java9/0.概述.md",
+                "file": "开发者/java/jdk/jdk特性/java9/1.模块化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java9/0.概述.md",
+                "file": "开发者/java/jdk/jdk特性/java9/1.模块化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java9/0.概述.md"
+                "file": "开发者/java/jdk/jdk特性/java9/1.模块化.md"
               }
             }
           }
@@ -149,11 +149,12 @@
   },
   "active": "88366f60b6aa825b",
   "lastOpenFiles": [
+    "开发者/java/jdk/jdk特性/java9/0.概述.md",
+    "开发者/java/jdk/jdk特性/java9/1.模块化.md",
     "开发者/java/jdk/jdk特性/java8/0.概述.md",
     "开发者/java/jdk/1.版本说明.md",
     "开发者/java/jdk/虚拟机/0.资料.md",
     "开发者/java/jdk/虚拟机/未命名.md",
-    "开发者/java/jdk/jdk特性/java9/0.概述.md",
     "开发者/java/jdk/虚拟机",
     "开发者/java/基础/文件流/1.概念.md",
     "obidian/obsidian同步方案.md",
@@ -195,7 +196,6 @@
     "attachment/images/2024/Pasted image 20240604202809.png",
     "开发者/java/activiti7/6.错误事件/1.开始事件.md",
     "开发者/java/activiti7/1.准备/4.设计器.md",
-    "开发者/java/activiti7/1.准备/2.表说明.md",
     "开发者/AI/大模型1"
   ]
 }
