@@ -1,3 +1,9 @@
+https://openjdk.org/jeps/324
+支持Curve25519 和 Curve448 的关键协议
+
+> [!NOTE]
+> Curve25519 和 Curve448 是两种椭圆曲线，它们在密码学中主要用于密钥交换协议，特别是在实现前向安全的密钥协商上表现优秀。这两种曲线因其良好的安全性和性能特性，在现代加密通信中得到了广泛应用。
+
 ```java
   public static void main(String[] args) throws InvalidAlgorithmParameterException, InvalidKeyException, NoSuchAlgorithmException, InvalidKeySpecException {  
         KeyPairGenerator kpg = KeyPairGenerator.getInstance("XDH");  
