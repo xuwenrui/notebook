@@ -22,3 +22,6 @@ java.corba
 java.se.ee
 java.activation
 java.transaction被移除，但是java11新增一个java.transaction.xa模块
+
+
+##### [JDK 11 中是否有 CORBA 的替代库](https://segmentfault.com/q/1010000042942499)

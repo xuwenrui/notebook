@@ -121,14 +121,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "320：删除 Java EE 和 CORBA 模块.md",
+                "file": "开发者/java/jdk/jdk特性/java11/0.概述.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78b93eb6d63d8116",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开发者/java/jdk/jdk特性/java11/0.概述.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "320：删除 Java EE 和 CORBA 模块.md",
+                "file": "开发者/java/jdk/jdk特性/java11/0.概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "320：删除 Java EE 和 CORBA 模块.md",
+                "file": "开发者/java/jdk/jdk特性/java11/0.概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -234,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "320：删除 Java EE 和 CORBA 模块.md"
+                "file": "开发者/java/jdk/jdk特性/java11/0.概述.md"
               }
             }
           }
@@ -256,26 +268,29 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "7de69fd0bca53d50",
+  "active": "78b93eb6d63d8116",
   "lastOpenFiles": [
+    "开发者/java/jdk/jdk特性/java9/0.概述.md",
     "开发者/java/jdk/jdk特性/java11/0.概述.md",
     "320：删除 Java EE 和 CORBA 模块.md",
+    "开发者/java/jdk/jdk特性/java9/1.模块化.md",
+    "Pasted image 20240616163904.png",
+    "Pasted image 20240616163823.png",
+    "Pasted image 20240616163724.png",
+    "开发者/java/jdk/jdk特性/java10/0.概述.md",
     "开发者/java/jdk/jdk特性/java11/318：Epsilon：无操作垃圾收集器.md",
     "开发者/java/jdk/jdk特性/java11/315：改进 Aarch64 内部函数.md",
     "开发者/java/jdk/jdk特性/java11/181：基于嵌套的访问控制.md",
     "开发者/java/jdk/jdk特性/java11/309：动态类文件常量.md",
     "开发者/java/jdk/jdk特性/java10/根证书.md",
     "基于嵌套的访问控制.md",
-    "开发者/java/jdk/jdk特性/java10/0.概述.md",
     "开发者/java/jdk/jdk特性/java10/动态类文件常量.md",
     "开发者/java/jdk/jdk特性/java11",
     "开发者/java/jdk/jdk特性/java10/Unicode 语言标签扩展.md",
     "开发者/java/jdk/jdk特性/java10/不可变集合的改进.md",
     "开发者/java/jdk/jdk特性/java10/Thread-Local Handshakes.md",
     "开发者/java/jdk/1.版本说明.md",
-    "开发者/java/jdk/jdk特性/java9/1.模块化.md",
     "开发者/java/jdk/jdk特性/java8/0.概述.md",
-    "开发者/java/jdk/jdk特性/java9/0.概述.md",
     "开发者/java/jdk/jdk特性/java10",
     "开发者/java/jdk/虚拟机/0.资料.md",
     "开发者/java/jdk/虚拟机/未命名.md",
@@ -292,7 +307,6 @@
     "开发者/java/jdk/jdk特性/java8/6.Optional 解决NullPointerException.md",
     "开发者/java/jdk/jdk特性/java8/5.Stream API 对元素流进行函数式操作.md",
     "开发者/java/jdk/jdk特性/java8/4.默认方法.md",
-    "开发者/java/jdk/jdk特性/java8/3.方法引用.md",
     "开发者/java/jdk/jdk特性/java8",
     "开发者/java/jdk/jdk特性",
     "开发者/java/jdk",
@@ -302,9 +316,6 @@
     "attachment/images/2024/Pasted image 20240605221955.png",
     "attachment/images/2024/Pasted image 20240605221922.png",
     "attachment/images/2024/Pasted image 20240605211540.png",
-    "attachment/images/2024/Pasted image 20240604213049.png",
-    "attachment/images/2024/Pasted image 20240604212234.png",
-    "attachment/images/2024/Pasted image 20240604203213.png",
-    "attachment/images/2024/Pasted image 20240604202809.png"
+    "attachment/images/2024/Pasted image 20240604213049.png"
   ]
 }
