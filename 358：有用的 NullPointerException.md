@@ -18,3 +18,22 @@ public class Test {
     }
 }
 ```
+在Java 14之前，如果这段代码运行，你可能会看到类似这样的错误信息：
+```java
+Exception in thread "main" java.lang.NullPointerException
+    at Test.main(Test.java:4)
+```
+
+而在Java 14中，得益于“有用的NullPointerException”特性，错误信息可能被增强为：
+```java
+Exception in thread "main" java.lang.NullPointerException: Cannot invoke "String.length()" because "text" is null
+    at Test.main(Test.java:4)
+```
+这里明确指出是因为`text`变量为`null`，尝试调用`length()`方法引发了异常，这为开发者提供了直接的线索，无需进一步调试即可迅速定位问题。
+
+### 注意事项
+
+- 该特性在Java 14中是预览状态，需要通过`--enable-preview`编译选项启用，并且在运行时也需要开启预览特性。
+- 开发者应该意识到，虽然这一特性提高了调试效率，但最佳实践仍然是在编码时采取预防措施，比如使用Optional类或进行空值检查，以避免空指针异常的发生。
+
+“有用的NullPointerException”特性是Java语言朝着提供更友好、更易调试的错误信息迈出的重要一步，它能够显著提升开发者的日常工作效率。
