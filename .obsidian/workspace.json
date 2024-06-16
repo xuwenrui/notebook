@@ -30,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4cd617133981660e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开发者/java/jdk/jdk特性/java11/0.概述.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "409173ae07e9c175",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开发者/java/jdk/jdk特性/java11/0.概述.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2598d2221ef10630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "309：动态类文件常量.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java11/0.概述.md",
+                "file": "309：动态类文件常量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java11/0.概述.md",
+                "file": "309：动态类文件常量.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java11/0.概述.md"
+                "file": "309：动态类文件常量.md"
               }
             }
           }
@@ -160,15 +196,18 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "a5cd158b9c5beb4a",
+  "active": "2598d2221ef10630",
   "lastOpenFiles": [
-    "基于嵌套的访问控制.md",
     "开发者/java/jdk/jdk特性/java11/0.概述.md",
+    "309：动态类文件常量.md",
+    "开发者/java/jdk/jdk特性/java11/181：基于嵌套的访问控制.md",
+    "开发者/java/jdk/jdk特性/java10/根证书.md",
+    "基于嵌套的访问控制.md",
     "开发者/java/jdk/jdk特性/java10/0.概述.md",
+    "开发者/java/jdk/jdk特性/java10/动态类文件常量.md",
     "开发者/java/jdk/jdk特性/java11",
-    "Unicode 语言标签扩展.md",
+    "开发者/java/jdk/jdk特性/java10/Unicode 语言标签扩展.md",
     "开发者/java/jdk/jdk特性/java10/不可变集合的改进.md",
-    "根证书.md",
     "开发者/java/jdk/jdk特性/java10/Thread-Local Handshakes.md",
     "开发者/java/jdk/1.版本说明.md",
     "开发者/java/jdk/jdk特性/java9/1.模块化.md",
@@ -197,9 +236,6 @@
     "开发者/java/jdk",
     "开发者/java/activiti7/7.信号事件/4.其他.md",
     "开发者/java/activiti7/7.信号事件/1.开始事件.md",
-    "开发者/java/activiti7/7.信号事件/2.信号中间事件.md",
-    "开发者/java/activiti7/7.信号事件/3.信号边界事件.md",
-    "开发者/java/导入导出/pdf/flyingsaucer.md",
     "SignalBoundaryDelegate3.java",
     "attachment/images/2024/Pasted image 20240605222748.png",
     "attachment/images/2024/Pasted image 20240605222028.png",
