@@ -8,235 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7cf00dd4aa9679d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发者/java/jdk/jdk特性/java11/336：弃用Pack200工具和API.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8af601c708576b85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发者/java/jdk/jdk特性/java11/336：弃用Pack200工具和API.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ebc41aac731cf77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发者/java/jdk/jdk特性/java11/335：弃用 Nashorn JavaScript 引擎.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67e352bca3ef7eac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发者/java/jdk/jdk特性/java12/0.概述.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36ffd638b91acc8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发者/java/jdk/jdk特性/java12/0.概述.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af2fea41208ef1b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发者/java/jdk/jdk特性/java11/0.概述.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33484ce59ac94989",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发者/java/jdk/jdk特性/java12/0.概述.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e72e800a32395938",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发者/java/jdk/jdk特性/java12/0.概述.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40641590b07bfa8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发者/java/jdk/jdk特性/java12/230：微基准测试套件.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbc5ef1491a7fc7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发者/java/jdk/jdk特性/java13/0.概述.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16080b9593289632",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发者/java/jdk/jdk特性/java13/0.概述.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e4e98d80e5dd746",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发者/java/jdk/jdk特性/java13/0.概述.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3468703e49266ce2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发者/java/jdk/jdk特性/java13/0.概述.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6a7761582c6e043",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发者/java/jdk/jdk特性/java14/0.概述.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d80b0094d8ca3432",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发者/java/jdk/jdk特性/java14/0.概述.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04e63323cbf44dbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发者/java/jdk/jdk特性/java14/0.概述.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0384600ff18034c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发者/java/jdk/jdk特性/java14/0.概述.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99393526255105ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发者/java/jdk/jdk特性/java14/0.概述.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5ba5eacfebd97f50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java15/0.概述.md",
+                "file": "开发者/java/jdk/jdk特性/java17/0.概述.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 18
+        ]
       }
     ],
     "direction": "vertical"
@@ -302,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java15/0.概述.md",
+                "file": "开发者/java/jdk/jdk特性/java17/0.概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java15/0.概述.md",
+                "file": "开发者/java/jdk/jdk特性/java17/0.概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -342,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java15/0.概述.md"
+                "file": "开发者/java/jdk/jdk特性/java17/0.概述.md"
               }
             }
           }
@@ -367,8 +150,8 @@
   "active": "5ba5eacfebd97f50",
   "lastOpenFiles": [
     "开发者/java/jdk/jdk特性/java16/0.概述.md",
-    "开发者/java/jdk/jdk特性/java17/0.概述.md",
     "开发者/java/jdk/jdk特性/java15/0.概述.md",
+    "开发者/java/jdk/jdk特性/java17/0.概述.md",
     "359：记录（预览）.md",
     "开发者/java/jdk/jdk特性/java17",
     "开发者/java/jdk/jdk特性/java16",
