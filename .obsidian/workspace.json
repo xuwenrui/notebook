@@ -90,9 +90,81 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e72e800a32395938",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开发者/java/jdk/jdk特性/java12/0.概述.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40641590b07bfa8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开发者/java/jdk/jdk特性/java12/230：微基准测试套件.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbc5ef1491a7fc7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开发者/java/jdk/jdk特性/java13/0.概述.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16080b9593289632",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开发者/java/jdk/jdk特性/java13/0.概述.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e4e98d80e5dd746",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开发者/java/jdk/jdk特性/java13/0.概述.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3468703e49266ce2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "354：Switch 表达式（预览）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -158,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java12/0.概述.md",
+                "file": "354：Switch 表达式（预览）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java12/0.概述.md",
+                "file": "354：Switch 表达式（预览）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -198,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java12/0.概述.md"
+                "file": "354：Switch 表达式（预览）.md"
               }
             }
           }
@@ -220,13 +292,19 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "33484ce59ac94989",
+  "active": "3468703e49266ce2",
   "lastOpenFiles": [
+    "开发者/java/jdk/jdk特性/java13/0.概述.md",
+    "开发者/java/jdk/jdk特性/java12/341：默认 CDS 档案.md",
+    "开发者/java/jdk/jdk特性/java12/325：Switch 表达式（预览）.md",
+    "354：Switch 表达式（预览）.md",
+    "353：重新实现旧版套接字 API.md",
+    "开发者/java/jdk/jdk特性/java12/0.概述.md",
+    "开发者/java/jdk/jdk特性/java13",
+    "开发者/java/jdk/jdk特性/java12/230：微基准测试套件.md",
+    "开发者/java/jdk/jdk特性/java12/334：JVM 常量 API.md",
     "开发者/java/jdk/jdk特性/java11/315：改进 Aarch64 内部函数.md",
     "开发者/java/jdk/jdk特性/java11/0.概述.md",
-    "开发者/java/jdk/jdk特性/java12/0.概述.md",
-    "325：Switch 表达式（预览）.md",
-    "230：微基准测试套件.md",
     "开发者/java/jdk/jdk特性/java11/336：弃用Pack200工具和API.md",
     "开发者/java/jdk/jdk特性/java11/335：弃用 Nashorn JavaScript 引擎.md",
     "开发者/java/jdk/jdk特性/java12",
@@ -247,11 +325,6 @@
     "Pasted image 20240616163823.png",
     "Pasted image 20240616163724.png",
     "开发者/java/jdk/jdk特性/java10/0.概述.md",
-    "开发者/java/jdk/jdk特性/java11/181：基于嵌套的访问控制.md",
-    "开发者/java/jdk/jdk特性/java11/309：动态类文件常量.md",
-    "开发者/java/jdk/jdk特性/java10/根证书.md",
-    "基于嵌套的访问控制.md",
-    "开发者/java/jdk/jdk特性/java10/动态类文件常量.md",
     "开发者/java/jdk/jdk特性/java11",
     "开发者/java/jdk/jdk特性/java10",
     "开发者/java/jdk/虚拟机",
@@ -263,7 +336,6 @@
     "开发者/java/jdk/jdk特性/java9",
     "开发者/java/jdk/jdk特性/java8",
     "开发者/java/jdk/jdk特性",
-    "开发者/java/jdk",
     "attachment/images/2024/Pasted image 20240605222748.png",
     "attachment/images/2024/Pasted image 20240605222028.png",
     "attachment/images/2024/Pasted image 20240605221955.png",
