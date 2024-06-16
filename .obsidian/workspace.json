@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0274e8c2e38a5c3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发者/java/jdk/jdk特性/java10/0.概述.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9edb1f62f04c3037",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发者/java/jdk/jdk特性/java10/0.概述.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0bb41c7e676028b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发者/java/jdk/jdk特性/java10/0.概述.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3ad5d7ee9fffc030",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unicode 语言标签扩展.md",
+                "file": "开发者/java/jdk/jdk特性/java11/0.概述.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unicode 语言标签扩展.md",
+                "file": "开发者/java/jdk/jdk特性/java11/0.概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unicode 语言标签扩展.md",
+                "file": "开发者/java/jdk/jdk特性/java11/0.概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unicode 语言标签扩展.md"
+                "file": "开发者/java/jdk/jdk特性/java11/0.概述.md"
               }
             }
           }
@@ -187,6 +150,8 @@
   "active": "3ad5d7ee9fffc030",
   "lastOpenFiles": [
     "开发者/java/jdk/jdk特性/java10/0.概述.md",
+    "开发者/java/jdk/jdk特性/java11/0.概述.md",
+    "开发者/java/jdk/jdk特性/java11",
     "Unicode 语言标签扩展.md",
     "开发者/java/jdk/jdk特性/java10/不可变集合的改进.md",
     "根证书.md",
@@ -222,7 +187,6 @@
     "开发者/java/activiti7/7.信号事件/3.信号边界事件.md",
     "开发者/java/导入导出/pdf/flyingsaucer.md",
     "开发者/java/导入导出/pdf/图片自适应.md",
-    "开发者/java/导入导出/图片处理/修改图片大小并旋转.md",
     "SignalBoundaryDelegate3.java",
     "attachment/images/2024/Pasted image 20240605222748.png",
     "attachment/images/2024/Pasted image 20240605222028.png",
@@ -232,7 +196,6 @@
     "attachment/images/2024/Pasted image 20240604213049.png",
     "attachment/images/2024/Pasted image 20240604212234.png",
     "attachment/images/2024/Pasted image 20240604203213.png",
-    "开发者/java/activiti7/7.信号事件",
     "attachment/images/2024/Pasted image 20240604202809.png"
   ]
 }
