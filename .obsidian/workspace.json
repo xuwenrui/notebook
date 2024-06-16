@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "95520d4684a08c74",
+        "id": "e2ebb9e8798fc2b8",
         "type": "tabs",
         "children": [
           {
-            "id": "88366f60b6aa825b",
+            "id": "0274e8c2e38a5c3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,7 +104,7 @@
               "state": {
                 "file": "开发者/java/jdk/jdk特性/java10/0.概述.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -147,9 +147,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "88366f60b6aa825b",
+  "active": "0274e8c2e38a5c3d",
   "lastOpenFiles": [
-    "开发者/java/jdk/jdk特性/java10/2. 不可变集合的改进.md",
+    "开发者/java/jdk/jdk特性/java10/不可变集合的改进.md",
     "开发者/java/jdk/jdk特性/java10/0.概述.md",
     "开发者/java/jdk/jdk特性/java9/1.模块化.md",
     "开发者/java/jdk/jdk特性/java8/0.概述.md",
@@ -192,9 +192,7 @@
     "attachment/images/2024/Pasted image 20240605211540.png",
     "attachment/images/2024/Pasted image 20240604213049.png",
     "attachment/images/2024/Pasted image 20240604212234.png",
-    "开发者/java/activiti7/6.错误事件/3.结束事件.md",
     "attachment/images/2024/Pasted image 20240604203213.png",
-    "开发者/java/activiti7/6.错误事件/2.边界事件.md",
     "开发者/java/activiti7/7.信号事件",
     "attachment/images/2024/Pasted image 20240604202809.png"
   ]
