@@ -61,14 +61,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java11/181：基于嵌套的访问控制.md",
+                "file": "开发者/java/jdk/jdk特性/java11/0.概述.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b77f7f9114136058",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开发者/java/jdk/jdk特性/java11/0.概述.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60362835de65dd45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开发者/java/jdk/jdk特性/java11/0.概述.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "923b21188c907105",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开发者/java/jdk/jdk特性/java11/315：改进 Aarch64 内部函数.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ea90d861450cce8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开发者/java/jdk/jdk特性/java11/0.概述.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7de69fd0bca53d50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "320：删除 Java EE 和 CORBA 模块.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -134,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java11/181：基于嵌套的访问控制.md",
+                "file": "320：删除 Java EE 和 CORBA 模块.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java11/181：基于嵌套的访问控制.md",
+                "file": "320：删除 Java EE 和 CORBA 模块.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java11/181：基于嵌套的访问控制.md"
+                "file": "320：删除 Java EE 和 CORBA 模块.md"
               }
             }
           }
@@ -196,11 +256,14 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "2598d2221ef10630",
+  "active": "7de69fd0bca53d50",
   "lastOpenFiles": [
-    "309：动态类文件常量.md",
     "开发者/java/jdk/jdk特性/java11/0.概述.md",
+    "320：删除 Java EE 和 CORBA 模块.md",
+    "开发者/java/jdk/jdk特性/java11/318：Epsilon：无操作垃圾收集器.md",
+    "开发者/java/jdk/jdk特性/java11/315：改进 Aarch64 内部函数.md",
     "开发者/java/jdk/jdk特性/java11/181：基于嵌套的访问控制.md",
+    "开发者/java/jdk/jdk特性/java11/309：动态类文件常量.md",
     "开发者/java/jdk/jdk特性/java10/根证书.md",
     "基于嵌套的访问控制.md",
     "开发者/java/jdk/jdk特性/java10/0.概述.md",
@@ -230,12 +293,9 @@
     "开发者/java/jdk/jdk特性/java8/5.Stream API 对元素流进行函数式操作.md",
     "开发者/java/jdk/jdk特性/java8/4.默认方法.md",
     "开发者/java/jdk/jdk特性/java8/3.方法引用.md",
-    "开发者/java/jdk/jdk特性/java8/1.lambada表达式.md",
     "开发者/java/jdk/jdk特性/java8",
     "开发者/java/jdk/jdk特性",
     "开发者/java/jdk",
-    "开发者/java/activiti7/7.信号事件/4.其他.md",
-    "开发者/java/activiti7/7.信号事件/1.开始事件.md",
     "SignalBoundaryDelegate3.java",
     "attachment/images/2024/Pasted image 20240605222748.png",
     "attachment/images/2024/Pasted image 20240605222028.png",
