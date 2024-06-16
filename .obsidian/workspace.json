@@ -229,7 +229,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "359：记录（预览）.md",
+                "file": "开发者/java/jdk/jdk特性/java15/0.概述.md",
                 "mode": "source",
                 "source": false
               }
@@ -302,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "359：记录（预览）.md",
+                "file": "开发者/java/jdk/jdk特性/java15/0.概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,7 +319,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "359：记录（预览）.md",
+                "file": "开发者/java/jdk/jdk特性/java15/0.概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -342,7 +342,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "359：记录（预览）.md"
+                "file": "开发者/java/jdk/jdk特性/java15/0.概述.md"
               }
             }
           }
@@ -366,8 +366,14 @@
   },
   "active": "5ba5eacfebd97f50",
   "lastOpenFiles": [
-    "开发者/java/jdk/jdk特性/java14/0.概述.md",
+    "开发者/java/jdk/jdk特性/java16/0.概述.md",
+    "开发者/java/jdk/jdk特性/java17/0.概述.md",
+    "开发者/java/jdk/jdk特性/java15/0.概述.md",
     "359：记录（预览）.md",
+    "开发者/java/jdk/jdk特性/java17",
+    "开发者/java/jdk/jdk特性/java16",
+    "开发者/java/jdk/jdk特性/java15",
+    "开发者/java/jdk/jdk特性/java14/0.概述.md",
     "358：有用的 NullPointerException.md",
     "349：JFR 事件流.md",
     "开发者/java/jdk/jdk特性/java14/343：包装工具（孵化器）.md",
@@ -392,9 +398,6 @@
     "开发者/java/jdk/jdk特性/java11/330：启动单文件源代码程序.md",
     "开发者/java/jdk/jdk特性/java11/328：飞行记录器.md",
     "开发者/java/jdk/jdk特性/java11/327：Unicode 10.md",
-    "开发者/java/jdk/jdk特性/java11/324：key Curve25519 和 Curve448 的密钥协议.md",
-    "key Curve25519 和 Curve448 的密钥协议.md",
-    "Curve25519 和 Curve448 是两种椭圆曲线，它们在密码学中主要用于密钥交换协议，特别是在实现前向安全的密钥协商上表现优秀。这两种曲线因其良好的安全性和性能特性，在现代加密通信中得到了广泛应用。.md",
     "Pasted image 20240616163904.png",
     "Pasted image 20240616163823.png",
     "Pasted image 20240616163724.png",
@@ -402,12 +405,9 @@
     "开发者/java/jdk/jdk特性/java10",
     "开发者/java/jdk/虚拟机",
     "开发者/java/基础/文件流",
-    "开发者/java/基础",
     "未命名.canvas",
     "未命名 1.canvas",
     "attachment/images/2024/Pasted image 20240602172603.png",
-    "开发者/java/jdk/jdk特性/java9",
-    "开发者/java/jdk/jdk特性/java8",
     "attachment/images/2024/Pasted image 20240605222748.png",
     "attachment/images/2024/Pasted image 20240605222028.png",
     "attachment/images/2024/Pasted image 20240605221955.png",
