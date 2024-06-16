@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java17/0.概述.md",
+                "file": "开发者/java/jdk/jdk特性/spring jdk.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java17/0.概述.md",
+                "file": "开发者/java/jdk/jdk特性/spring jdk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java17/0.概述.md",
+                "file": "开发者/java/jdk/jdk特性/spring jdk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java17/0.概述.md"
+                "file": "开发者/java/jdk/jdk特性/spring jdk.md"
               }
             }
           }
@@ -149,9 +149,11 @@
   },
   "active": "5ba5eacfebd97f50",
   "lastOpenFiles": [
+    "Pasted image 20240616221929.png",
+    "开发者/java/jdk/jdk特性/java17/0.概述.md",
+    "开发者/java/jdk/jdk特性/spring jdk.md",
     "开发者/java/jdk/jdk特性/java16/0.概述.md",
     "开发者/java/jdk/jdk特性/java15/0.概述.md",
-    "开发者/java/jdk/jdk特性/java17/0.概述.md",
     "359：记录（预览）.md",
     "开发者/java/jdk/jdk特性/java17",
     "开发者/java/jdk/jdk特性/java16",
@@ -179,8 +181,6 @@
     "开发者/java/jdk/jdk特性/java12",
     "开发者/java/jdk/jdk特性/java11/331：低开销堆分析.md",
     "开发者/java/jdk/jdk特性/java11/330：启动单文件源代码程序.md",
-    "开发者/java/jdk/jdk特性/java11/328：飞行记录器.md",
-    "开发者/java/jdk/jdk特性/java11/327：Unicode 10.md",
     "Pasted image 20240616163904.png",
     "Pasted image 20240616163823.png",
     "Pasted image 20240616163724.png",
