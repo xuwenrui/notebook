@@ -20,19 +20,43 @@
             }
           },
           {
-            "id": "114b10d2af879387",
+            "id": "2299caf5566b85de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "367：删除 Pack200 工具和 API.md",
+                "file": "开发者/java/jdk/jdk特性/java15/0.概述.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc3ad500094009c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "360：密封Classes（预览）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6160ade74ad500fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开发者/java/jdk/jdk特性/java14/349：JFR 事件流.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "367：删除 Pack200 工具和 API.md",
+                "file": "360：密封Classes（预览）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "367：删除 Pack200 工具和 API.md",
+                "file": "360：密封Classes（预览）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "367：删除 Pack200 工具和 API.md"
+                "file": "360：密封Classes（预览）.md"
               }
             }
           }
@@ -160,21 +184,24 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "114b10d2af879387",
+  "active": "bc3ad500094009c6",
   "lastOpenFiles": [
-    "开发者/java/jdk/jdk特性/java14/0.概述.md",
-    "367：删除 Pack200 工具和 API.md",
     "开发者/java/jdk/jdk特性/java15/0.概述.md",
+    "360：密封Classes（预览）.md",
+    "370：外部内存访问 API（孵化器）.md",
+    "开发者/java/jdk/jdk特性/java14/0.概述.md",
+    "开发者/java/jdk/jdk特性/java14/349：JFR 事件流.md",
+    "开发者/java/jdk/jdk特性/java14/359：记录（预览）.md",
+    "开发者/java/jdk/jdk特性/java14/368：文本块（第二次预览）.md",
+    "开发者/java/jdk/jdk特性/java14/367：删除 Pack200 工具和 API.md",
     "开发者/java/jdk/jdk特性/java16/0.概述.md",
     "开发者/java/jdk/jdk特性/java17/0.概述.md",
     "开发者/java/jdk/jdk特性/spring jdk.md",
     "Pasted image 20240616221929.png",
-    "359：记录（预览）.md",
     "开发者/java/jdk/jdk特性/java17",
     "开发者/java/jdk/jdk特性/java16",
     "开发者/java/jdk/jdk特性/java15",
-    "358：有用的 NullPointerException.md",
-    "349：JFR 事件流.md",
+    "开发者/java/jdk/jdk特性/java14/358：有用的 NullPointerException.md",
     "开发者/java/jdk/jdk特性/java14/343：包装工具（孵化器）.md",
     "开发者/java/jdk/jdk特性/java14/305：instanceof 的模式匹配（预览）.md",
     "开发者/java/jdk/jdk特性/java13/0.概述.md",
@@ -191,10 +218,7 @@
     "开发者/java/jdk/jdk特性/java11/315：改进 Aarch64 内部函数.md",
     "开发者/java/jdk/jdk特性/java11/0.概述.md",
     "开发者/java/jdk/jdk特性/java11/336：弃用Pack200工具和API.md",
-    "开发者/java/jdk/jdk特性/java11/335：弃用 Nashorn JavaScript 引擎.md",
     "开发者/java/jdk/jdk特性/java12",
-    "开发者/java/jdk/jdk特性/java11/331：低开销堆分析.md",
-    "开发者/java/jdk/jdk特性/java11/330：启动单文件源代码程序.md",
     "Pasted image 20240616163904.png",
     "Pasted image 20240616163823.png",
     "Pasted image 20240616163724.png",
