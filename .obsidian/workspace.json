@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7841102315ef89bd",
+        "id": "7a94f24ba876d4ae",
         "type": "tabs",
         "children": [
           {
-            "id": "dd4030936248a248",
+            "id": "50f9548c43ecf689",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java16/0.概述.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f9b85ad1771c390",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "347：启用 C++14 语言特性.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9516e8d538719ca1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "338：向量 API（孵化器）.md",
+                "file": "开发者/java/jdk/jdk特性/java14/0.概述.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java16/0.概述.md",
+                "file": "开发者/java/jdk/jdk特性/java14/0.概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java16/0.概述.md",
+                "file": "开发者/java/jdk/jdk特性/java14/0.概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java16/0.概述.md"
+                "file": "开发者/java/jdk/jdk特性/java14/0.概述.md"
               }
             }
           }
@@ -171,16 +147,20 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "dd4030936248a248",
+  "active": "50f9548c43ecf689",
   "lastOpenFiles": [
-    "347：启用 C++14 语言特性.md",
+    "开发者/java/jdk/jdk特性/java14/343：打包工具（孵化器）.md",
+    "开发者/java/jdk/jdk特性/java14/0.概述.md",
     "开发者/java/jdk/jdk特性/java16/0.概述.md",
-    "338：向量 API（孵化器）.md",
+    "开发者/java/jdk/jdk特性/java16/338：向量 API（孵化器）.md",
+    "389：外部链接器 API（孵化器）.md",
+    "开发者/java/jdk/jdk特性/java16/387：弹性元空间.md",
+    "开发者/java/jdk/jdk特性/java16/380：Unix 域套接字通道.md",
+    "开发者/java/jdk/jdk特性/java16/347：启用 C++14 语言特性.md",
     "开发者/java/jdk/jdk特性/java15/373：重新实现旧版 DatagramSocket API.md",
     "开发者/java/jdk/jdk特性/java15/374：禁用并弃用偏向锁.md",
     "开发者/java/jdk/jdk特性/java15/385：弃用 RMI 激活并删除.md",
     "开发者/java/jdk/jdk特性/java15/0.概述.md",
-    "开发者/java/jdk/jdk特性/java14/0.概述.md",
     "开发者/java/jdk/jdk特性/java14/370：外部内存访问 API（孵化器）.md",
     "开发者/java/jdk/jdk特性/java15/360：密封Classes（预览）.md",
     "开发者/java/jdk/jdk特性/java15/371：隐藏Classes.md",
@@ -195,15 +175,11 @@
     "开发者/java/jdk/jdk特性/java16",
     "开发者/java/jdk/jdk特性/java15",
     "开发者/java/jdk/jdk特性/java14/358：有用的 NullPointerException.md",
-    "开发者/java/jdk/jdk特性/java14/343：包装工具（孵化器）.md",
     "开发者/java/jdk/jdk特性/java14/305：instanceof 的模式匹配（预览）.md",
     "开发者/java/jdk/jdk特性/java13/0.概述.md",
     "开发者/java/jdk/jdk特性/java14",
     "开发者/java/jdk/jdk特性/java13/355：文本块（预览）.md",
     "开发者/java/jdk/jdk特性/java13/354：Switch 表达式（预览）.md",
-    "开发者/java/jdk/jdk特性/java12/341：默认 CDS 档案.md",
-    "开发者/java/jdk/jdk特性/java12/325：Switch 表达式（预览）.md",
-    "开发者/java/jdk/jdk特性/java13/353：重新实现旧版套接字 API.md",
     "开发者/java/jdk/jdk特性/java13",
     "开发者/java/jdk/jdk特性/java12",
     "Pasted image 20240616163904.png",
