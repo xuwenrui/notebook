@@ -4,95 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "e2ebb9e8798fc2b8",
+        "id": "7841102315ef89bd",
         "type": "tabs",
         "children": [
           {
-            "id": "2299caf5566b85de",
+            "id": "dd4030936248a248",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java15/0.概述.md",
+                "file": "开发者/java/jdk/jdk特性/java16/0.概述.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8f4e5b6acbf68fc0",
+            "id": "8f9b85ad1771c390",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java15/0.概述.md",
+                "file": "347：启用 C++14 语言特性.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d290518ee7a9b302",
+            "id": "9516e8d538719ca1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java15/0.概述.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa20108bb9ddf1cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发者/java/jdk/jdk特性/java15/0.概述.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01dc0c83d3ff0086",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "373：重新实现旧版 DatagramSocket API.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc3ad500094009c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发者/java/jdk/jdk特性/java15/360：密封Classes（预览）.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6160ade74ad500fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发者/java/jdk/jdk特性/java14/349：JFR 事件流.md",
+                "file": "338：向量 API（孵化器）.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "373：重新实现旧版 DatagramSocket API.md",
+                "file": "开发者/java/jdk/jdk特性/java16/0.概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "373：重新实现旧版 DatagramSocket API.md",
+                "file": "开发者/java/jdk/jdk特性/java16/0.概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -198,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "373：重新实现旧版 DatagramSocket API.md"
+                "file": "开发者/java/jdk/jdk特性/java16/0.概述.md"
               }
             }
           }
@@ -220,12 +171,15 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "1234ab53d88e86c1",
+  "active": "dd4030936248a248",
   "lastOpenFiles": [
-    "374：禁用并弃用偏向锁.md",
-    "385：弃用 RMI 激活并删除.md",
+    "347：启用 C++14 语言特性.md",
+    "开发者/java/jdk/jdk特性/java16/0.概述.md",
+    "338：向量 API（孵化器）.md",
+    "开发者/java/jdk/jdk特性/java15/373：重新实现旧版 DatagramSocket API.md",
+    "开发者/java/jdk/jdk特性/java15/374：禁用并弃用偏向锁.md",
+    "开发者/java/jdk/jdk特性/java15/385：弃用 RMI 激活并删除.md",
     "开发者/java/jdk/jdk特性/java15/0.概述.md",
-    "373：重新实现旧版 DatagramSocket API.md",
     "开发者/java/jdk/jdk特性/java14/0.概述.md",
     "开发者/java/jdk/jdk特性/java14/370：外部内存访问 API（孵化器）.md",
     "开发者/java/jdk/jdk特性/java15/360：密封Classes（预览）.md",
@@ -234,7 +188,6 @@
     "开发者/java/jdk/jdk特性/java14/359：记录（预览）.md",
     "开发者/java/jdk/jdk特性/java14/368：文本块（第二次预览）.md",
     "开发者/java/jdk/jdk特性/java14/367：删除 Pack200 工具和 API.md",
-    "开发者/java/jdk/jdk特性/java16/0.概述.md",
     "开发者/java/jdk/jdk特性/java17/0.概述.md",
     "开发者/java/jdk/jdk特性/spring jdk.md",
     "Pasted image 20240616221929.png",
@@ -251,9 +204,7 @@
     "开发者/java/jdk/jdk特性/java12/341：默认 CDS 档案.md",
     "开发者/java/jdk/jdk特性/java12/325：Switch 表达式（预览）.md",
     "开发者/java/jdk/jdk特性/java13/353：重新实现旧版套接字 API.md",
-    "开发者/java/jdk/jdk特性/java12/0.概述.md",
     "开发者/java/jdk/jdk特性/java13",
-    "开发者/java/jdk/jdk特性/java12/230：微基准测试套件.md",
     "开发者/java/jdk/jdk特性/java12",
     "Pasted image 20240616163904.png",
     "Pasted image 20240616163823.png",
