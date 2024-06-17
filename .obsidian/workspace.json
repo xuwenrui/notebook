@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a5f2da1349effd4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开发者/java/jdk/jdk特性/java16/396：默认强封装 JDK 内部结构.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da8dbe97d2ceab09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开发者/java/jdk/jdk特性/java16/389：外部链接器 API（孵化器）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5eeb257edcbc9942",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开发者/java/jdk/jdk特性/java17/0.概述.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java16/0.概述.md",
+                "file": "开发者/java/jdk/jdk特性/java17/0.概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java16/0.概述.md",
+                "file": "开发者/java/jdk/jdk特性/java17/0.概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java16/0.概述.md"
+                "file": "开发者/java/jdk/jdk特性/java17/0.概述.md"
               }
             }
           }
@@ -147,13 +184,16 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "50f9548c43ecf689",
+  "active": "5eeb257edcbc9942",
   "lastOpenFiles": [
+    "开发者/java/jdk/jdk特性/spring jdk.md",
+    "attachment/images/2024/Pasted image 20240616163724.png",
+    "开发者/java/jdk/jdk特性/java16/396：默认强封装 JDK 内部结构.md",
+    "开发者/java/jdk/jdk特性/java16/389：外部链接器 API（孵化器）.md",
+    "开发者/java/jdk/jdk特性/java16/0.概述.md",
     "开发者/java/jdk/jdk特性/java14/0.概述.md",
     "开发者/java/jdk/jdk特性/java14/343：打包工具（孵化器）.md",
-    "开发者/java/jdk/jdk特性/java16/0.概述.md",
     "开发者/java/jdk/jdk特性/java16/338：向量 API（孵化器）.md",
-    "389：外部链接器 API（孵化器）.md",
     "开发者/java/jdk/jdk特性/java16/387：弹性元空间.md",
     "开发者/java/jdk/jdk特性/java16/380：Unix 域套接字通道.md",
     "开发者/java/jdk/jdk特性/java16/347：启用 C++14 语言特性.md",
@@ -169,8 +209,7 @@
     "开发者/java/jdk/jdk特性/java14/368：文本块（第二次预览）.md",
     "开发者/java/jdk/jdk特性/java14/367：删除 Pack200 工具和 API.md",
     "开发者/java/jdk/jdk特性/java17/0.概述.md",
-    "开发者/java/jdk/jdk特性/spring jdk.md",
-    "Pasted image 20240616221929.png",
+    "attachment/images/2024/Pasted image 20240616221929.png",
     "开发者/java/jdk/jdk特性/java17",
     "开发者/java/jdk/jdk特性/java16",
     "开发者/java/jdk/jdk特性/java15",
@@ -178,13 +217,10 @@
     "开发者/java/jdk/jdk特性/java14/305：instanceof 的模式匹配（预览）.md",
     "开发者/java/jdk/jdk特性/java13/0.概述.md",
     "开发者/java/jdk/jdk特性/java14",
-    "开发者/java/jdk/jdk特性/java13/355：文本块（预览）.md",
-    "开发者/java/jdk/jdk特性/java13/354：Switch 表达式（预览）.md",
     "开发者/java/jdk/jdk特性/java13",
     "开发者/java/jdk/jdk特性/java12",
-    "Pasted image 20240616163904.png",
-    "Pasted image 20240616163823.png",
-    "Pasted image 20240616163724.png",
+    "attachment/images/2024/Pasted image 20240616163904.png",
+    "attachment/images/2024/Pasted image 20240616163823.png",
     "开发者/java/jdk/jdk特性/java11",
     "开发者/java/jdk/jdk特性/java10",
     "开发者/java/jdk/虚拟机",
