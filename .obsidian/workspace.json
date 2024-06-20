@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java17/0.概述.md",
+                "file": "开发者/AI/AI大模型/1.AIGC.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java17/0.概述.md",
+                "file": "开发者/AI/AI大模型/1.AIGC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java17/0.概述.md",
+                "file": "开发者/AI/AI大模型/1.AIGC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java17/0.概述.md"
+                "file": "开发者/AI/AI大模型/1.AIGC.md"
               }
             }
           }
@@ -186,6 +186,12 @@
   },
   "active": "5eeb257edcbc9942",
   "lastOpenFiles": [
+    "Pasted image 20240620204139.png",
+    "Pasted image 20240620204036.png",
+    "开发者/AI/大模型1/1.提示词.md",
+    "开发者/AI/AI大模型/1.AIGC.md",
+    "开发者/AI/AI大模型",
+    "开发者/java/jdk/jdk特性/java17/0.概述.md",
     "jdk新特性.ppt",
     "开发者/java/jdk/jdk新特性.ppt",
     "开发者/java/jdk/jdk特性/spring jdk.md",
@@ -210,29 +216,23 @@
     "开发者/java/jdk/jdk特性/java14/359：记录（预览）.md",
     "开发者/java/jdk/jdk特性/java14/368：文本块（第二次预览）.md",
     "开发者/java/jdk/jdk特性/java14/367：删除 Pack200 工具和 API.md",
-    "开发者/java/jdk/jdk特性/java17/0.概述.md",
     "attachment/images/2024/Pasted image 20240616221929.png",
     "开发者/java/jdk/jdk特性/java17",
     "开发者/java/jdk/jdk特性/java16",
     "开发者/java/jdk/jdk特性/java15",
     "开发者/java/jdk/jdk特性/java14/358：有用的 NullPointerException.md",
-    "开发者/java/jdk/jdk特性/java14/305：instanceof 的模式匹配（预览）.md",
-    "开发者/java/jdk/jdk特性/java13/0.概述.md",
     "开发者/java/jdk/jdk特性/java14",
     "开发者/java/jdk/jdk特性/java13",
     "开发者/java/jdk/jdk特性/java12",
     "attachment/images/2024/Pasted image 20240616163904.png",
     "attachment/images/2024/Pasted image 20240616163823.png",
     "开发者/java/jdk/jdk特性/java11",
-    "开发者/java/jdk/jdk特性/java10",
-    "开发者/java/jdk/虚拟机",
     "未命名.canvas",
     "未命名 1.canvas",
     "attachment/images/2024/Pasted image 20240602172603.png",
     "attachment/images/2024/Pasted image 20240605222748.png",
     "attachment/images/2024/Pasted image 20240605222028.png",
     "attachment/images/2024/Pasted image 20240605221955.png",
-    "attachment/images/2024/Pasted image 20240605221922.png",
-    "attachment/images/2024/Pasted image 20240605211540.png"
+    "attachment/images/2024/Pasted image 20240605221922.png"
   ]
 }
