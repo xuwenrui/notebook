@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/AI/AI大模型/1.AIGC.md",
+                "file": "开发者/AI/AI大模型/2.LLM.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/AI/AI大模型/1.AIGC.md",
+                "file": "开发者/AI/AI大模型/2.LLM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/AI/AI大模型/1.AIGC.md",
+                "file": "开发者/AI/AI大模型/2.LLM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/AI/AI大模型/1.AIGC.md"
+                "file": "开发者/AI/AI大模型/2.LLM.md"
               }
             }
           }
@@ -186,6 +186,12 @@
   },
   "active": "5eeb257edcbc9942",
   "lastOpenFiles": [
+    "Pasted image 20240620211418.png",
+    "Pasted image 20240620211304.png",
+    "Pasted image 20240620211124.png",
+    "开发者/AI/AI大模型/1.AIGC.md",
+    "开发者/AI/AI大模型/2.LLM.md",
+    "Pasted image 20240620210859.png",
     "Pasted image 20240620210143.png",
     "Pasted image 20240620210008.png",
     "Pasted image 20240620205736.png",
@@ -193,7 +199,6 @@
     "Pasted image 20240620204139.png",
     "Pasted image 20240620204036.png",
     "开发者/AI/大模型1/1.提示词.md",
-    "开发者/AI/AI大模型/1.AIGC.md",
     "开发者/AI/AI大模型",
     "开发者/java/jdk/jdk特性/java17/0.概述.md",
     "jdk新特性.ppt",
@@ -220,19 +225,14 @@
     "开发者/java/jdk/jdk特性/java14/359：记录（预览）.md",
     "开发者/java/jdk/jdk特性/java14/368：文本块（第二次预览）.md",
     "开发者/java/jdk/jdk特性/java14/367：删除 Pack200 工具和 API.md",
-    "attachment/images/2024/Pasted image 20240616221929.png",
     "开发者/java/jdk/jdk特性/java17",
     "开发者/java/jdk/jdk特性/java16",
     "开发者/java/jdk/jdk特性/java15",
-    "开发者/java/jdk/jdk特性/java14/358：有用的 NullPointerException.md",
     "开发者/java/jdk/jdk特性/java14",
     "开发者/java/jdk/jdk特性/java13",
     "开发者/java/jdk/jdk特性/java12",
-    "attachment/images/2024/Pasted image 20240616163904.png",
-    "attachment/images/2024/Pasted image 20240616163823.png",
     "开发者/java/jdk/jdk特性/java11",
     "未命名.canvas",
-    "未命名 1.canvas",
-    "attachment/images/2024/Pasted image 20240602172603.png"
+    "未命名 1.canvas"
   ]
 }
