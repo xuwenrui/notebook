@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/AI/python/2.pycharm.md",
+                "file": "开发者/AI/python/1.环境.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/AI/python/2.pycharm.md",
+                "file": "开发者/AI/python/1.环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/AI/python/2.pycharm.md",
+                "file": "开发者/AI/python/1.环境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/AI/python/2.pycharm.md"
+                "file": "开发者/AI/python/1.环境.md"
               }
             }
           }
@@ -174,10 +174,10 @@
   },
   "active": "da8dbe97d2ceab09",
   "lastOpenFiles": [
+    "开发者/AI/python/2.pycharm.md",
     "Pasted image 20240622181056.png",
     "Pasted image 20240622180820.png",
     "开发者/AI/python/1.环境.md",
-    "开发者/AI/python/2.pycharm.md",
     "开发者/java/jdk/jdk特性/java16/389：外部链接器 API（孵化器）.md",
     "开发者/AI/python",
     "attachment/images/2024/AI/Pasted image 20240620204036.png",
@@ -191,7 +191,6 @@
     "attachment/images/2024/AI/Pasted image 20240620212404.png",
     "attachment/images/2024/AI/Pasted image 20240620211418.png",
     "attachment/images/2024/AI/Pasted image 20240620211304.png",
-    "attachment/images/2024/AI/Pasted image 20240620211124.png",
     "开发者/AI/AI大模型/1.AIGC.md",
     "开发者/AI/大模型1/1.提示词.md",
     "开发者/AI/AI大模型",
