@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5eeb257edcbc9942",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发者/AI/AI大模型/2.LLM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/AI/AI大模型/2.LLM.md",
+                "file": "开发者/java/jdk/jdk特性/java16/389：外部链接器 API（孵化器）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/AI/AI大模型/2.LLM.md",
+                "file": "开发者/java/jdk/jdk特性/java16/389：外部链接器 API（孵化器）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/AI/AI大模型/2.LLM.md"
+                "file": "开发者/java/jdk/jdk特性/java16/389：外部链接器 API（孵化器）.md"
               }
             }
           }
@@ -184,21 +172,23 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "5eeb257edcbc9942",
+  "active": "da8dbe97d2ceab09",
   "lastOpenFiles": [
-    "Pasted image 20240620212425.png",
-    "Pasted image 20240620212404.png",
-    "Pasted image 20240620211418.png",
-    "Pasted image 20240620211304.png",
-    "Pasted image 20240620211124.png",
-    "开发者/AI/AI大模型/1.AIGC.md",
+    "attachment/images/2024/AI/Pasted image 20240620204036.png",
+    "attachment/images/2024/nomal/Pasted image 20240604201440.png",
+    "attachment/images/2024/nomal/Pasted image 20240528214442.png",
+    "attachment/images/2024/nomal/Pasted image 20240510220434.png",
     "开发者/AI/AI大模型/2.LLM.md",
-    "Pasted image 20240620210859.png",
-    "Pasted image 20240620210143.png",
-    "Pasted image 20240620210008.png",
-    "Pasted image 20240620205736.png",
-    "Pasted image 20240620205507.png",
-    "Pasted image 20240620204139.png",
+    "attachment/images/2024/nomal",
+    "attachment/images/2024/AI",
+    "attachment/images/2024/AI/Pasted image 20240620212425.png",
+    "attachment/images/2024/AI/Pasted image 20240620212404.png",
+    "attachment/images/2024/AI/Pasted image 20240620211418.png",
+    "attachment/images/2024/AI/Pasted image 20240620211304.png",
+    "attachment/images/2024/AI/Pasted image 20240620211124.png",
+    "开发者/AI/AI大模型/1.AIGC.md",
+    "attachment/images/2024/AI/Pasted image 20240620210859.png",
+    "attachment/images/2024/AI/Pasted image 20240620210143.png",
     "开发者/AI/大模型1/1.提示词.md",
     "开发者/AI/AI大模型",
     "开发者/java/jdk/jdk特性/java17/0.概述.md",
@@ -230,8 +220,6 @@
     "开发者/java/jdk/jdk特性/java15",
     "开发者/java/jdk/jdk特性/java14",
     "开发者/java/jdk/jdk特性/java13",
-    "开发者/java/jdk/jdk特性/java12",
-    "开发者/java/jdk/jdk特性/java11",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
