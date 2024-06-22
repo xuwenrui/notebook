@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java16/389：外部链接器 API（孵化器）.md",
+                "file": "开发者/AI/python/1.环境.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java16/389：外部链接器 API（孵化器）.md",
+                "file": "开发者/AI/python/1.环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java16/389：外部链接器 API（孵化器）.md",
+                "file": "开发者/AI/python/1.环境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/jdk/jdk特性/java16/389：外部链接器 API（孵化器）.md"
+                "file": "开发者/AI/python/1.环境.md"
               }
             }
           }
@@ -174,6 +174,9 @@
   },
   "active": "da8dbe97d2ceab09",
   "lastOpenFiles": [
+    "开发者/java/jdk/jdk特性/java16/389：外部链接器 API（孵化器）.md",
+    "开发者/AI/python/1.环境.md",
+    "开发者/AI/python",
     "attachment/images/2024/AI/Pasted image 20240620204036.png",
     "attachment/images/2024/nomal/Pasted image 20240604201440.png",
     "attachment/images/2024/nomal/Pasted image 20240528214442.png",
@@ -188,7 +191,6 @@
     "attachment/images/2024/AI/Pasted image 20240620211124.png",
     "开发者/AI/AI大模型/1.AIGC.md",
     "attachment/images/2024/AI/Pasted image 20240620210859.png",
-    "attachment/images/2024/AI/Pasted image 20240620210143.png",
     "开发者/AI/大模型1/1.提示词.md",
     "开发者/AI/AI大模型",
     "开发者/java/jdk/jdk特性/java17/0.概述.md",
@@ -196,7 +198,6 @@
     "开发者/java/jdk/jdk新特性.ppt",
     "开发者/java/jdk/jdk特性/spring jdk.md",
     "开发者/java/jdk/jdk特性/java16/396：默认强封装 JDK 内部结构.md",
-    "开发者/java/jdk/jdk特性/java16/389：外部链接器 API（孵化器）.md",
     "开发者/java/jdk/jdk特性/java16/0.概述.md",
     "开发者/java/jdk/jdk特性/java14/0.概述.md",
     "开发者/java/jdk/jdk特性/java14/343：打包工具（孵化器）.md",
@@ -219,7 +220,6 @@
     "开发者/java/jdk/jdk特性/java16",
     "开发者/java/jdk/jdk特性/java15",
     "开发者/java/jdk/jdk特性/java14",
-    "开发者/java/jdk/jdk特性/java13",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
