@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/AI/AI大模型/6.增强大模型.md",
+                "file": "开发者/AI/大模型1/1.提示词.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/AI/AI大模型/6.增强大模型.md",
+                "file": "开发者/AI/大模型1/1.提示词.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/AI/AI大模型/6.增强大模型.md",
+                "file": "开发者/AI/大模型1/1.提示词.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/AI/AI大模型/6.增强大模型.md"
+                "file": "开发者/AI/大模型1/1.提示词.md"
               }
             }
           }
@@ -174,9 +174,11 @@
   },
   "active": "da8dbe97d2ceab09",
   "lastOpenFiles": [
+    "开发者/AI/AI大模型/6.增强大模型.md",
+    "Pasted image 20240623193249.png",
+    "Pasted image 20240623192832.png",
     "Pasted image 20240623192531.png",
     "开发者/AI/AI大模型/5.调节ChatGPT.md",
-    "开发者/AI/AI大模型/6.增强大模型.md",
     "Pasted image 20240623125058.png",
     "Pasted image 20240623124804.png",
     "Pasted image 20240623124347.png",
@@ -185,9 +187,6 @@
     "Pasted image 20240623123956.png",
     "Pasted image 20240623123919.png",
     "Pasted image 20240623123852.png",
-    "Pasted image 20240623123705.png",
-    "Pasted image 20240623123417.png",
-    "Pasted image 20240623122857.png",
     "开发者/AI/AI大模型/3.transformer.md",
     "开发者/AI/AI大模型/2.LLM.md",
     "开发者/AI/AI大模型/1.AIGC.md",
