@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/AI/AI大模型/2.LLM.md",
+                "file": "开发者/AI/AI大模型/3.transformer.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/AI/AI大模型/2.LLM.md",
+                "file": "开发者/AI/AI大模型/3.transformer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/AI/AI大模型/2.LLM.md",
+                "file": "开发者/AI/AI大模型/3.transformer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/AI/AI大模型/2.LLM.md"
+                "file": "开发者/AI/AI大模型/3.transformer.md"
               }
             }
           }
@@ -174,9 +174,15 @@
   },
   "active": "da8dbe97d2ceab09",
   "lastOpenFiles": [
+    "Pasted image 20240623114009.png",
+    "Pasted image 20240623113915.png",
+    "Pasted image 20240623113747.png",
+    "Pasted image 20240623113659.png",
+    "Pasted image 20240623113421.png",
+    "开发者/AI/AI大模型/2.LLM.md",
+    "开发者/AI/AI大模型/3.transformer.md",
     "开发者/AI/AI大模型/1.AIGC.md",
     "开发者/AI/实战/库.md",
-    "开发者/AI/AI大模型/2.LLM.md",
     "开发者/AI/实战",
     "开发者/AI/python/1.环境.md",
     "开发者/AI/python/2.pycharm.md",
@@ -190,10 +196,6 @@
     "attachment/images/2024/nomal/Pasted image 20240510220434.png",
     "attachment/images/2024/nomal",
     "attachment/images/2024/AI",
-    "attachment/images/2024/AI/Pasted image 20240620212425.png",
-    "attachment/images/2024/AI/Pasted image 20240620212404.png",
-    "attachment/images/2024/AI/Pasted image 20240620211418.png",
-    "attachment/images/2024/AI/Pasted image 20240620211304.png",
     "开发者/AI/大模型1/1.提示词.md",
     "开发者/AI/AI大模型",
     "开发者/java/jdk/jdk特性/java17/0.概述.md",
@@ -215,8 +217,6 @@
     "开发者/java/jdk/jdk特性/java14/370：外部内存访问 API（孵化器）.md",
     "开发者/java/jdk/jdk特性/java15/360：密封Classes（预览）.md",
     "开发者/java/jdk/jdk特性/java15/371：隐藏Classes.md",
-    "开发者/java/jdk/jdk特性/java14/349：JFR 事件流.md",
-    "开发者/java/jdk/jdk特性/java14/359：记录（预览）.md",
     "开发者/java/jdk/jdk特性/java17",
     "开发者/java/jdk/jdk特性/java16",
     "开发者/java/jdk/jdk特性/java15",
