@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/AI/python/1.环境.md",
+                "file": "开发者/AI/实战/库.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/AI/python/1.环境.md",
+                "file": "开发者/AI/实战/库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/AI/python/1.环境.md",
+                "file": "开发者/AI/实战/库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/AI/python/1.环境.md"
+                "file": "开发者/AI/实战/库.md"
               }
             }
           }
@@ -174,17 +174,19 @@
   },
   "active": "da8dbe97d2ceab09",
   "lastOpenFiles": [
+    "开发者/AI/AI大模型/2.LLM.md",
+    "开发者/AI/实战/库.md",
+    "开发者/AI/实战",
+    "开发者/AI/python/1.环境.md",
     "开发者/AI/python/2.pycharm.md",
     "Pasted image 20240622181056.png",
     "Pasted image 20240622180820.png",
-    "开发者/AI/python/1.环境.md",
     "开发者/java/jdk/jdk特性/java16/389：外部链接器 API（孵化器）.md",
     "开发者/AI/python",
     "attachment/images/2024/AI/Pasted image 20240620204036.png",
     "attachment/images/2024/nomal/Pasted image 20240604201440.png",
     "attachment/images/2024/nomal/Pasted image 20240528214442.png",
     "attachment/images/2024/nomal/Pasted image 20240510220434.png",
-    "开发者/AI/AI大模型/2.LLM.md",
     "attachment/images/2024/nomal",
     "attachment/images/2024/AI",
     "attachment/images/2024/AI/Pasted image 20240620212425.png",
@@ -218,7 +220,6 @@
     "开发者/java/jdk/jdk特性/java17",
     "开发者/java/jdk/jdk特性/java16",
     "开发者/java/jdk/jdk特性/java15",
-    "开发者/java/jdk/jdk特性/java14",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
