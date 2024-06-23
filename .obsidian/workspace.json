@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/AI/AI大模型/4.训练大模型.md",
+                "file": "开发者/AI/AI大模型/5.调节GPT.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/AI/AI大模型/4.训练大模型.md",
+                "file": "开发者/AI/AI大模型/5.调节GPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/AI/AI大模型/4.训练大模型.md",
+                "file": "开发者/AI/AI大模型/5.调节GPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/AI/AI大模型/4.训练大模型.md"
+                "file": "开发者/AI/AI大模型/5.调节GPT.md"
               }
             }
           }
@@ -174,19 +174,19 @@
   },
   "active": "da8dbe97d2ceab09",
   "lastOpenFiles": [
+    "开发者/AI/AI大模型/4.训练大模型.md",
+    "开发者/AI/AI大模型/5.调节GPT.md",
+    "Pasted image 20240623123956.png",
+    "Pasted image 20240623123919.png",
+    "Pasted image 20240623123852.png",
+    "Pasted image 20240623123705.png",
+    "Pasted image 20240623123417.png",
     "Pasted image 20240623122857.png",
     "Pasted image 20240623122746.png",
     "Pasted image 20240623122715.png",
     "Pasted image 20240623122644.png",
     "Pasted image 20240623122606.png",
-    "attachment/images/2024/AI/Pasted image 20240623121606.png",
-    "attachment/images/2024/AI/Pasted image 20240622180820.png",
     "开发者/AI/AI大模型/3.transformer.md",
-    "attachment/images/2024/AI/Pasted image 20240623122506.png",
-    "attachment/images/2024/AI/Pasted image 20240623122448.png",
-    "attachment/images/2024/AI/Pasted image 20240623122239.png",
-    "attachment/images/2024/AI/Pasted image 20240623122211.png",
-    "开发者/AI/AI大模型/4.训练大模型.md",
     "开发者/AI/AI大模型/2.LLM.md",
     "开发者/AI/AI大模型/1.AIGC.md",
     "开发者/AI/实战/库.md",
