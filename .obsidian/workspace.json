@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/AI/实战/库.md",
+                "file": "开发者/AI/AI大模型/2.LLM.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/AI/实战/库.md",
+                "file": "开发者/AI/AI大模型/2.LLM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/AI/实战/库.md",
+                "file": "开发者/AI/AI大模型/2.LLM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/AI/实战/库.md"
+                "file": "开发者/AI/AI大模型/2.LLM.md"
               }
             }
           }
@@ -174,8 +174,9 @@
   },
   "active": "da8dbe97d2ceab09",
   "lastOpenFiles": [
-    "开发者/AI/AI大模型/2.LLM.md",
+    "开发者/AI/AI大模型/1.AIGC.md",
     "开发者/AI/实战/库.md",
+    "开发者/AI/AI大模型/2.LLM.md",
     "开发者/AI/实战",
     "开发者/AI/python/1.环境.md",
     "开发者/AI/python/2.pycharm.md",
@@ -193,7 +194,6 @@
     "attachment/images/2024/AI/Pasted image 20240620212404.png",
     "attachment/images/2024/AI/Pasted image 20240620211418.png",
     "attachment/images/2024/AI/Pasted image 20240620211304.png",
-    "开发者/AI/AI大模型/1.AIGC.md",
     "开发者/AI/大模型1/1.提示词.md",
     "开发者/AI/AI大模型",
     "开发者/java/jdk/jdk特性/java17/0.概述.md",
