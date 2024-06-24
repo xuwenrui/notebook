@@ -47,9 +47,11 @@
             "id": "be04e57c7a2b1785",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240623122606.png"
+                "file": "开发者/AI/大模型1/2.Langchain.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240623122606.png",
+                "file": "开发者/AI/大模型1/2.Langchain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240623122606.png",
+                "file": "开发者/AI/大模型1/2.Langchain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240623122606.png"
+                "file": "开发者/AI/大模型1/2.Langchain.md"
               }
             }
           }
@@ -184,23 +186,24 @@
   },
   "active": "be04e57c7a2b1785",
   "lastOpenFiles": [
+    "attachment/images/2024/AI/Pasted image 20240623122606.png",
     "开发者/AI/大模型1/4.部署.md",
-    "Pasted image 20240623204159.png",
+    "attachment/images/2024/AI/Pasted image 20240623204159.png",
     "开发者/AI/大模型1/3.ChatGLM2+Langchain.md",
-    "Pasted image 20240623200255.png",
+    "attachment/images/2024/AI/Pasted image 20240623200255.png",
     "开发者/AI/大模型1/2.Langchain.md",
     "开发者/AI/大模型1/1.提示词.md",
     "开发者/AI/AI大模型/6.增强大模型.md",
-    "Pasted image 20240623193249.png",
-    "Pasted image 20240623192832.png",
-    "Pasted image 20240623192531.png",
+    "attachment/images/2024/AI/Pasted image 20240623193249.png",
+    "attachment/images/2024/AI/Pasted image 20240623192832.png",
+    "attachment/images/2024/AI/Pasted image 20240623192531.png",
     "开发者/AI/AI大模型/5.调节ChatGPT.md",
-    "Pasted image 20240623125058.png",
-    "Pasted image 20240623124804.png",
-    "Pasted image 20240623124347.png",
-    "Pasted image 20240623124257.png",
+    "attachment/images/2024/AI/Pasted image 20240623125058.png",
+    "attachment/images/2024/AI/Pasted image 20240623124804.png",
+    "attachment/images/2024/AI/Pasted image 20240623124347.png",
+    "attachment/images/2024/AI/Pasted image 20240623124257.png",
     "开发者/AI/AI大模型/4.训练大模型.md",
-    "Pasted image 20240623123956.png",
+    "attachment/images/2024/AI/Pasted image 20240623123956.png",
     "开发者/AI/AI大模型/3.transformer.md",
     "开发者/AI/AI大模型/2.LLM.md",
     "开发者/AI/AI大模型/1.AIGC.md",
