@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/AI/大模型1/2.Langchain.md",
+                "file": "开发者/AI/大模型1/3.ChatGLM2+Langchain.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/AI/大模型1/2.Langchain.md",
+                "file": "开发者/AI/大模型1/3.ChatGLM2+Langchain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/AI/大模型1/2.Langchain.md",
+                "file": "开发者/AI/大模型1/3.ChatGLM2+Langchain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/AI/大模型1/2.Langchain.md"
+                "file": "开发者/AI/大模型1/3.ChatGLM2+Langchain.md"
               }
             }
           }
@@ -186,10 +186,11 @@
   },
   "active": "be04e57c7a2b1785",
   "lastOpenFiles": [
-    "开发者/AI/大模型1/1.提示词.md",
-    "开发者/AI/大模型1/3.ChatGLM2+Langchain.md",
+    "Pasted image 20240624205938.png",
     "开发者/AI/大模型1/4.部署.md",
     "开发者/AI/大模型1/2.Langchain.md",
+    "开发者/AI/大模型1/1.提示词.md",
+    "开发者/AI/大模型1/3.ChatGLM2+Langchain.md",
     "attachment/images/2024/AI/Pasted image 20240623122606.png",
     "attachment/images/2024/AI/Pasted image 20240623204159.png",
     "attachment/images/2024/AI/Pasted image 20240623200255.png",
