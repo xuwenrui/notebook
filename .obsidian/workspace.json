@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "326a4ab6de2434a1",
+        "id": "fb5e02db4fcb4fae",
         "type": "tabs",
         "children": [
           {
-            "id": "499bcfa0839ccfcc",
+            "id": "1a3ef6eeee5e54f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/web/工具/vscode插件/2.mockserver.md",
+                "file": "开发者/java/jdk/新特性实例/1.模块化.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/web/工具/vscode插件/2.mockserver.md",
+                "file": "开发者/java/jdk/新特性实例/1.模块化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/web/工具/vscode插件/2.mockserver.md",
+                "file": "开发者/java/jdk/新特性实例/1.模块化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/web/工具/vscode插件/2.mockserver.md"
+                "file": "开发者/java/jdk/新特性实例/1.模块化.md"
               }
             }
           }
@@ -147,8 +147,12 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "499bcfa0839ccfcc",
+  "active": "1a3ef6eeee5e54f1",
   "lastOpenFiles": [
+    "开发者/java/jdk/新特性实例/1.模块化.md",
+    "开发者/web/工具/vscode插件/2.mockserver.md",
+    "开发者/java/jdk/新特性实例/1.模块化",
+    "开发者/java/jdk/新特性实例",
     "Pasted image 20240626203116.png",
     "开发者/web/工具/vscode插件/1.列表.md",
     "开发者/web/工具/vscode插件/未命名.md",
@@ -156,7 +160,6 @@
     "开发者/web/工具/列表.md",
     "Pasted image 20240624205938.png",
     "开发者/web/工具/vscode插件/未命名 1.md",
-    "开发者/web/工具/vscode插件/2.mockserver.md",
     "开发者/AI/大模型1/3.ChatGLM2+Langchain.md",
     "开发者/web/工具/vscode插件",
     "开发者/web/工具",
@@ -173,7 +176,6 @@
     "开发者/AI/AI大模型/5.调节ChatGPT.md",
     "attachment/images/2024/AI/Pasted image 20240623125058.png",
     "attachment/images/2024/AI/Pasted image 20240623124804.png",
-    "attachment/images/2024/AI/Pasted image 20240623124347.png",
     "开发者/AI/AI大模型/4.训练大模型.md",
     "开发者/AI/AI大模型/3.transformer.md",
     "开发者/AI/AI大模型/2.LLM.md",
@@ -189,12 +191,10 @@
     "开发者/AI/AI大模型",
     "开发者/java/jdk/jdk特性/java17/0.概述.md",
     "jdk新特性.ppt",
-    "开发者/java/jdk/jdk新特性.ppt",
     "开发者/java/jdk/jdk特性/spring jdk.md",
     "开发者/java/jdk/jdk特性/java16/396：默认强封装 JDK 内部结构.md",
     "开发者/java/jdk/jdk特性/java16/0.概述.md",
     "开发者/java/jdk/jdk特性/java14/0.概述.md",
-    "开发者/java/jdk/jdk特性/java17",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
