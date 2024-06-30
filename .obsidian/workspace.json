@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/jdk/新特性实例/1.模块化.md",
+                "file": "开发者/java/jdk/新特性实例/链接/2.jshell.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/jdk/新特性实例/1.模块化.md",
+                "file": "开发者/java/jdk/新特性实例/链接/2.jshell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/jdk/新特性实例/1.模块化.md",
+                "file": "开发者/java/jdk/新特性实例/链接/2.jshell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/jdk/新特性实例/1.模块化.md"
+                "file": "开发者/java/jdk/新特性实例/链接/2.jshell.md"
               }
             }
           }
@@ -149,9 +149,10 @@
   },
   "active": "1a3ef6eeee5e54f1",
   "lastOpenFiles": [
+    "开发者/java/jdk/新特性实例/1.模块化.md",
+    "开发者/java/jdk/新特性实例/链接/2.jshell.md",
     "module-info.java",
     "开发者/java/jdk/新特性实例/链接/模块化和maven的关系.md",
-    "开发者/java/jdk/新特性实例/1.模块化.md",
     "开发者/java/jdk/新特性实例/链接",
     "开发者/java/jdk/jdk特性/未命名",
     "开发者/web/工具/vscode插件/2.mockserver.md",
@@ -191,7 +192,6 @@
     "开发者/java/jdk/jdk特性/java16/389：外部链接器 API（孵化器）.md",
     "开发者/AI/python",
     "attachment/images/2024/nomal",
-    "attachment/images/2024/AI",
     "开发者/java/jdk/jdk特性/java17/0.概述.md",
     "开发者/java/jdk/jdk特性/spring jdk.md",
     "开发者/java/jdk/jdk特性/java16/396：默认强封装 JDK 内部结构.md",
