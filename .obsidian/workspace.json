@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/jdk/新特性实例/链接/模块化和maven的关系.md",
+                "file": "开发者/java/jdk/新特性实例/1.JPMS模块化.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/jdk/新特性实例/链接/模块化和maven的关系.md",
+                "file": "开发者/java/jdk/新特性实例/1.JPMS模块化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/jdk/新特性实例/链接/模块化和maven的关系.md",
+                "file": "开发者/java/jdk/新特性实例/1.JPMS模块化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/jdk/新特性实例/链接/模块化和maven的关系.md"
+                "file": "开发者/java/jdk/新特性实例/1.JPMS模块化.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "2f05f2beebb54543",
   "lastOpenFiles": [
-    "开发者/java/jdk/新特性实例/链接/2.jshell.md",
     "开发者/java/jdk/新特性实例/链接/模块化和maven的关系.md",
+    "开发者/java/jdk/新特性实例/链接/2.jshell.md",
     "开发者/java/jdk/新特性实例/1.JPMS模块化.md",
     "开发者/java/jdk/虚拟机/0.资料.md",
     "开发者/java/jdk/虚拟机/未命名.md",
