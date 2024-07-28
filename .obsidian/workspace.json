@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fb5e02db4fcb4fae",
+        "id": "f92c5308d2ce4612",
         "type": "tabs",
         "children": [
           {
-            "id": "1a3ef6eeee5e54f1",
+            "id": "6665cf1949efade8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/jdk/新特性实例/1.JPMS模块化.md",
+                "file": "开发者/中间件/docker/1.安装.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "a11bcfe2ebbd4d29",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/jdk/新特性实例/1.JPMS模块化.md",
+                "file": "开发者/中间件/docker/1.安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/jdk/新特性实例/1.JPMS模块化.md",
+                "file": "开发者/中间件/docker/1.安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/jdk/新特性实例/1.JPMS模块化.md"
+                "file": "开发者/中间件/docker/1.安装.md"
               }
             }
           }
@@ -158,10 +147,14 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "a11bcfe2ebbd4d29",
+  "active": "6665cf1949efade8",
   "lastOpenFiles": [
-    "开发者/java/jdk/新特性实例/链接/2.jshell.md",
+    "开发者/中间件/docker/0.资料.md",
+    "开发者/中间件/docker/1.安装.md",
     "开发者/java/jdk/新特性实例/1.JPMS模块化.md",
+    "开发者/中间件/docker",
+    "开发者/中间件",
+    "开发者/java/jdk/新特性实例/链接/2.jshell.md",
     "module-info.java",
     "开发者/java/jdk/新特性实例/链接/模块化和maven的关系.md",
     "开发者/java/jdk/新特性实例/链接",
@@ -201,11 +194,7 @@
     "开发者/AI/python/1.环境.md",
     "开发者/AI/python/2.pycharm.md",
     "开发者/java/jdk/jdk特性/java16/389：外部链接器 API（孵化器）.md",
-    "开发者/AI/python",
-    "attachment/images/2024/nomal",
     "开发者/java/jdk/jdk特性/java17/0.概述.md",
-    "开发者/java/jdk/jdk特性/spring jdk.md",
-    "开发者/java/jdk/jdk特性/java16/396：默认强封装 JDK 内部结构.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
