@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b715441b1a2e0ace",
+        "id": "f4d07768704fa60b",
         "type": "tabs",
         "children": [
           {
-            "id": "8fc21cc7b0486a5e",
+            "id": "2f05f2beebb54543",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,20 +147,22 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "8fc21cc7b0486a5e",
+  "active": "2f05f2beebb54543",
   "lastOpenFiles": [
     "开发者/java/jdk/新特性实例/链接/2.jshell.md",
+    "开发者/java/jdk/新特性实例/链接/模块化和maven的关系.md",
+    "开发者/java/jdk/新特性实例/1.JPMS模块化.md",
+    "开发者/java/jdk/虚拟机/0.资料.md",
+    "开发者/java/jdk/虚拟机/未命名.md",
     "开发者/中间件/docker/1.安装.md",
     "开发者/中间件/docker/3.实战.md",
     "开发者/中间件/docker/0.资料.md",
     "开发者/中间件/docker/2.命令.md",
     "Pasted image 20240728125814.png",
     "Pasted image 20240728125806.png",
-    "开发者/java/jdk/新特性实例/1.JPMS模块化.md",
     "开发者/中间件/docker",
     "开发者/中间件",
     "module-info.java",
-    "开发者/java/jdk/新特性实例/链接/模块化和maven的关系.md",
     "开发者/java/jdk/新特性实例/链接",
     "开发者/java/jdk/jdk特性/未命名",
     "开发者/web/工具/vscode插件/2.mockserver.md",
@@ -193,7 +195,6 @@
     "开发者/AI/AI大模型/1.AIGC.md",
     "开发者/AI/实战/库.md",
     "开发者/AI/实战",
-    "开发者/AI/python/1.环境.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
