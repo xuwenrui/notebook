@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a11bcfe2ebbd4d29",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +158,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "1a3ef6eeee5e54f1",
+  "active": "a11bcfe2ebbd4d29",
   "lastOpenFiles": [
     "开发者/java/jdk/新特性实例/链接/2.jshell.md",
     "开发者/java/jdk/新特性实例/1.JPMS模块化.md",
