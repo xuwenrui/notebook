@@ -23,9 +23,11 @@
             "id": "d6a2154bad39e9f7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "开发者/java/未命名.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/web/工具/参考/1.图.md",
+                "file": "开发者/java/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/web/工具/参考/1.图.md",
+                "file": "开发者/java/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/web/工具/参考/1.图.md"
+                "file": "开发者/java/未命名.md"
               }
             }
           }
@@ -160,6 +162,7 @@
   },
   "active": "d6a2154bad39e9f7",
   "lastOpenFiles": [
+    "开发者/java/未命名.md",
     "开发者/java/jdk/新特性实例/2.JPMS模块化.md",
     "开发者/web/工具/参考/1.图.md",
     "开发者/web/工具/参考",
@@ -205,7 +208,6 @@
     "开发者/AI/AI大模型/5.调节ChatGPT.md",
     "开发者/AI/AI大模型/4.训练大模型.md",
     "开发者/AI/AI大模型/3.transformer.md",
-    "开发者/AI/AI大模型/2.LLM.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
