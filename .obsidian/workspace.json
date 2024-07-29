@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d6a2154bad39e9f7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +158,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "2f05f2beebb54543",
+  "active": "d6a2154bad39e9f7",
   "lastOpenFiles": [
     "开发者/java/jdk/新特性实例/2.JPMS模块化.md",
     "开发者/web/工具/参考/1.图.md",
