@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/未命名.md",
+                "file": "开发者/web/vue/1.基本配置.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/未命名.md",
+                "file": "开发者/web/vue/1.基本配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/未命名.md",
+                "file": "开发者/web/vue/1.基本配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/未命名.md"
+                "file": "开发者/web/vue/1.基本配置.md"
               }
             }
           }
@@ -162,6 +162,9 @@
   },
   "active": "d6a2154bad39e9f7",
   "lastOpenFiles": [
+    "开发者/web/vue/Promise.md",
+    "开发者/web/vue/1.基本配置.md",
+    "开发者/web/vue/axios.md",
     "开发者/java/未命名.md",
     "开发者/java/jdk/新特性实例/2.JPMS模块化.md",
     "开发者/web/工具/参考/1.图.md",
@@ -205,9 +208,6 @@
     "attachment/images/2024/AI/Pasted image 20240623193249.png",
     "attachment/images/2024/AI/Pasted image 20240623192832.png",
     "attachment/images/2024/AI/Pasted image 20240623192531.png",
-    "开发者/AI/AI大模型/5.调节ChatGPT.md",
-    "开发者/AI/AI大模型/4.训练大模型.md",
-    "开发者/AI/AI大模型/3.transformer.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
