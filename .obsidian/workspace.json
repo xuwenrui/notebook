@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f4d07768704fa60b",
+        "id": "2aa980fea1b28bdb",
         "type": "tabs",
         "children": [
           {
-            "id": "2f05f2beebb54543",
+            "id": "b50d2597ba99486b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/web/工具/参考/1.图.md",
+                "file": "开发者/移动端/鸿蒙/1.资料.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/web/工具/参考/1.图.md",
+                "file": "开发者/移动端/鸿蒙/1.资料.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/web/工具/参考/1.图.md",
+                "file": "开发者/移动端/鸿蒙/1.资料.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/web/工具/参考/1.图.md"
+                "file": "开发者/移动端/鸿蒙/1.资料.md"
               }
             }
           }
@@ -147,14 +147,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "2f05f2beebb54543",
+  "active": "b50d2597ba99486b",
   "lastOpenFiles": [
+    "开发者/移动端/鸿蒙/1.资料.md",
+    "开发者/移动端",
+    "开发者/移动端/鸿蒙",
+    "开发者/web/工具/参考/1.图.md",
     "开发者/web/vue/1.基本配置.md",
     "开发者/web/vue/Promise.md",
     "开发者/web/vue/axios.md",
     "开发者/java/未命名.md",
     "开发者/java/jdk/新特性实例/2.JPMS模块化.md",
-    "开发者/web/工具/参考/1.图.md",
     "开发者/web/工具/参考",
     "开发者/java/jdk/新特性实例/1.JPMS.md",
     "开发者/java/jdk/新特性实例/链接/模块化和maven的关系.md",
@@ -183,15 +186,12 @@
     "Pasted image 20240624205938.png",
     "开发者/web/工具/vscode插件/未命名 1.md",
     "开发者/AI/大模型1/3.ChatGLM2+Langchain.md",
-    "开发者/web/工具/vscode插件",
-    "开发者/web/工具",
     "开发者/AI/大模型1/4.部署.md",
     "开发者/AI/大模型1/2.Langchain.md",
     "开发者/AI/大模型1/1.提示词.md",
     "attachment/images/2024/AI/Pasted image 20240623122606.png",
     "attachment/images/2024/AI/Pasted image 20240623204159.png",
     "attachment/images/2024/AI/Pasted image 20240623200255.png",
-    "开发者/AI/AI大模型/6.增强大模型.md",
     "attachment/images/2024/AI/Pasted image 20240623193249.png",
     "attachment/images/2024/AI/Pasted image 20240623192832.png",
     "attachment/images/2024/AI/Pasted image 20240623192531.png",
