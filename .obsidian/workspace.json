@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/web/js/3.数组.md",
+                "file": "开发者/web/js/2.字符串.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/web/js/3.数组.md",
+                "file": "开发者/web/js/2.字符串.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/web/js/3.数组.md",
+                "file": "开发者/web/js/2.字符串.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/web/js/3.数组.md"
+                "file": "开发者/web/js/2.字符串.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "620dc653c4ccff41",
   "lastOpenFiles": [
-    "开发者/移动端/React Native",
     "开发者/web/js/3.数组.md",
+    "开发者/移动端/React Native",
     "开发者/web/js/2.字符串.md",
     "开发者/web/js/1.资料.md",
     "开发者/web/js",
@@ -180,7 +180,6 @@
     "开发者/java/jdk/新特性实例/链接",
     "开发者/java/jdk/jdk特性/未命名",
     "开发者/web/工具/vscode插件/2.mockserver.md",
-    "开发者/java/jdk/新特性实例/1.模块化",
     "Pasted image 20240626203116.png",
     "开发者/web/工具/vscode插件/1.列表.md",
     "开发者/web/工具/vscode插件/未命名.md",
