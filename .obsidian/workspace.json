@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2aa980fea1b28bdb",
+        "id": "83a9f1f79cdba609",
         "type": "tabs",
         "children": [
           {
-            "id": "b50d2597ba99486b",
+            "id": "620dc653c4ccff41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/web/js/2.字符串.md",
+                "file": "开发者/web/js/3.数组.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/web/js/2.字符串.md",
+                "file": "开发者/web/js/3.数组.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/web/js/2.字符串.md",
+                "file": "开发者/web/js/3.数组.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/web/js/2.字符串.md"
+                "file": "开发者/web/js/3.数组.md"
               }
             }
           }
@@ -147,10 +147,12 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "b50d2597ba99486b",
+  "active": "620dc653c4ccff41",
   "lastOpenFiles": [
-    "开发者/web/js/1.资料.md",
+    "开发者/移动端/React Native",
+    "开发者/web/js/3.数组.md",
     "开发者/web/js/2.字符串.md",
+    "开发者/web/js/1.资料.md",
     "开发者/web/js",
     "开发者/移动端",
     "开发者/移动端/鸿蒙",
@@ -187,8 +189,6 @@
     "Pasted image 20240624205938.png",
     "开发者/web/工具/vscode插件/未命名 1.md",
     "开发者/AI/大模型1/3.ChatGLM2+Langchain.md",
-    "开发者/AI/大模型1/4.部署.md",
-    "开发者/AI/大模型1/2.Langchain.md",
     "attachment/images/2024/AI/Pasted image 20240623122606.png",
     "attachment/images/2024/AI/Pasted image 20240623204159.png",
     "attachment/images/2024/AI/Pasted image 20240623200255.png",
