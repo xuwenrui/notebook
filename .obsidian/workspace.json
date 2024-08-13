@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/移动端/鸿蒙/2.环境.md",
+                "file": "开发者/移动端/鸿蒙/1.资料.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/移动端/鸿蒙/2.环境.md",
+                "file": "开发者/移动端/鸿蒙/1.资料.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/移动端/鸿蒙/2.环境.md",
+                "file": "开发者/移动端/鸿蒙/1.资料.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/移动端/鸿蒙/2.环境.md"
+                "file": "开发者/移动端/鸿蒙/1.资料.md"
               }
             }
           }
@@ -149,11 +149,11 @@
   },
   "active": "991219907ec386e2",
   "lastOpenFiles": [
+    "开发者/移动端/鸿蒙/2.环境.md",
     "Pasted image 20240810203850.png",
     "Pasted image 20240810193210.png",
     "Pasted image 20240810192839.png",
     "开发者/移动端/鸿蒙/1.资料.md",
-    "开发者/移动端/鸿蒙/2.环境.md",
     "开发者/web/js/3.数组.md",
     "开发者/web/js/2.字符串.md",
     "开发者/移动端/React Native",
@@ -194,7 +194,6 @@
     "attachment/images/2024/AI/Pasted image 20240623122606.png",
     "attachment/images/2024/AI/Pasted image 20240623204159.png",
     "attachment/images/2024/AI/Pasted image 20240623200255.png",
-    "attachment/images/2024/AI/Pasted image 20240623193249.png",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
