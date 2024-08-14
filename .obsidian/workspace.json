@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/web/react/1.入门.md",
+                "file": "开发者/web/react/2.jsx.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/web/react/1.入门.md",
+                "file": "开发者/web/react/2.jsx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/web/react/1.入门.md",
+                "file": "开发者/web/react/2.jsx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/web/react/1.入门.md"
+                "file": "开发者/web/react/2.jsx.md"
               }
             }
           }
@@ -149,7 +149,9 @@
   },
   "active": "77fb8bc3de67d11e",
   "lastOpenFiles": [
+    "Pasted image 20240814214740.png",
     "开发者/web/react/1.入门.md",
+    "开发者/web/react/2.jsx.md",
     "开发者/移动端/鸿蒙/1.资料.md",
     "开发者/web/react",
     "开发者/移动端/鸿蒙/2.环境.md",
@@ -189,9 +191,7 @@
     "开发者/web/工具/vscode插件/1.列表.md",
     "开发者/web/工具/vscode插件/未命名.md",
     "开发者/web/工具/vscode插件/未命名 2.md",
-    "开发者/web/工具/列表.md",
     "Pasted image 20240624205938.png",
-    "开发者/web/工具/vscode插件/未命名 1.md",
     "attachment/images/2024/AI/Pasted image 20240623122606.png",
     "attachment/images/2024/AI/Pasted image 20240623204159.png",
     "attachment/images/2024/AI/Pasted image 20240623200255.png",
