@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/web/react/6.获取DOM.md",
+                "file": "开发者/web/react/6.组件通信.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/web/react/6.获取DOM.md",
+                "file": "开发者/web/react/6.组件通信.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/web/react/6.获取DOM.md",
+                "file": "开发者/web/react/6.组件通信.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/web/react/6.获取DOM.md"
+                "file": "开发者/web/react/6.组件通信.md"
               }
             }
           }
@@ -149,10 +149,11 @@
   },
   "active": "77fb8bc3de67d11e",
   "lastOpenFiles": [
+    "开发者/web/react/6.获取DOM.md",
+    "开发者/web/react/6.组件通信.md",
     "Pasted image 20240815220034.png",
     "开发者/web/react/1.入门.md",
     "开发者/web/react/4.样式处理.md",
-    "开发者/web/react/6.获取DOM.md",
     "Pasted image 20240815215223.png",
     "Pasted image 20240815215206.png",
     "Pasted image 20240815215008.png",
@@ -164,7 +165,6 @@
     "Pasted image 20240815213015.png",
     "Pasted image 20240815212838.png",
     "开发者/web/react/3.组件.md",
-    "Pasted image 20240815212428.png",
     "开发者/web/react/2.jsx.md",
     "开发者/移动端/鸿蒙/1.资料.md",
     "开发者/web/react",
