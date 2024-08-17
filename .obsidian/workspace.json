@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "12d23fa25c5b5fc9",
+        "id": "cfd41019f042f7f4",
         "type": "tabs",
         "children": [
           {
-            "id": "77fb8bc3de67d11e",
+            "id": "535438723446e733",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/导入导出/pdf/flyingsaucer.md",
+                "file": "开发者/web/react/6.组件通信.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/导入导出/pdf/flyingsaucer.md",
+                "file": "开发者/web/react/6.组件通信.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/导入导出/pdf/flyingsaucer.md",
+                "file": "开发者/web/react/6.组件通信.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/导入导出/pdf/flyingsaucer.md"
+                "file": "开发者/web/react/6.组件通信.md"
               }
             }
           }
@@ -147,26 +147,28 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "77fb8bc3de67d11e",
+  "active": "535438723446e733",
   "lastOpenFiles": [
-    "开发者/java/导入导出/pdf/itext生成目录.md",
+    "attachment/images/2024/08/Pasted image 20240624205938.png",
+    "attachment/images/2024/08",
     "开发者/java/导入导出/pdf/flyingsaucer.md",
+    "开发者/java/导入导出/pdf/itext生成目录.md",
     "开发者/java/导入导出/图片处理/thumbnailator.md",
     "开发者/web/react/6.组件通信.md",
     "开发者/web/react/6.获取DOM.md",
-    "Pasted image 20240815220034.png",
+    "attachment/images/2024/08/Pasted image 20240815220034.png",
     "开发者/web/react/1.入门.md",
     "开发者/web/react/4.样式处理.md",
-    "Pasted image 20240815215223.png",
-    "Pasted image 20240815215206.png",
-    "Pasted image 20240815215008.png",
+    "attachment/images/2024/08/Pasted image 20240815215223.png",
+    "attachment/images/2024/08/Pasted image 20240815215206.png",
+    "attachment/images/2024/08/Pasted image 20240815215008.png",
     "开发者/web/react/5.受控表单绑定.md",
-    "Pasted image 20240815214801.png",
-    "Pasted image 20240815214013.png",
-    "Pasted image 20240815213912.png",
-    "Pasted image 20240815213638.png",
-    "Pasted image 20240815213015.png",
-    "Pasted image 20240815212838.png",
+    "attachment/images/2024/08/Pasted image 20240815214801.png",
+    "attachment/images/2024/08/Pasted image 20240815214013.png",
+    "attachment/images/2024/08/Pasted image 20240815213912.png",
+    "attachment/images/2024/08/Pasted image 20240815213638.png",
+    "attachment/images/2024/08/Pasted image 20240815213015.png",
+    "attachment/images/2024/08/Pasted image 20240815212838.png",
     "开发者/web/react/3.组件.md",
     "开发者/web/react/2.jsx.md",
     "开发者/移动端/鸿蒙/1.资料.md",
@@ -190,11 +192,9 @@
     "开发者/java/jdk/新特性实例/链接/2.jshell.md",
     "开发者/java/jdk/虚拟机/0.资料.md",
     "开发者/java/jdk/虚拟机/未命名.md",
-    "开发者/中间件/docker/1.安装.md",
     "开发者/中间件/docker",
     "开发者/中间件",
     "module-info.java",
-    "开发者/java/jdk/新特性实例/链接",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
