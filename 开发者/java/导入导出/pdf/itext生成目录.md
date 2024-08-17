@@ -112,3 +112,8 @@ public class GenTocDemo extends PdfPageEventHelper {
     }  
 }
 ```
+
+
+官方参考：
+[Creating Table of Contents using events](https://kb.itextpdf.com/itext/creating-table-of-contents-using-events)
+https://kb.itextpdf.com/search.html?l=en&max=10&ol=&q=TOC&s=it5kb&start=0
