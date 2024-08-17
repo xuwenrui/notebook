@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/web/react/6.组件通信.md",
+                "file": "开发者/java/导入导出/pdf/flyingsaucer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/web/react/6.组件通信.md",
+                "file": "开发者/java/导入导出/pdf/flyingsaucer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/web/react/6.组件通信.md",
+                "file": "开发者/java/导入导出/pdf/flyingsaucer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/web/react/6.组件通信.md"
+                "file": "开发者/java/导入导出/pdf/flyingsaucer.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "77fb8bc3de67d11e",
   "lastOpenFiles": [
-    "开发者/web/react/6.获取DOM.md",
+    "开发者/java/导入导出/图片处理/thumbnailator.md",
     "开发者/web/react/6.组件通信.md",
+    "开发者/web/react/6.获取DOM.md",
     "Pasted image 20240815220034.png",
     "开发者/web/react/1.入门.md",
     "开发者/web/react/4.样式处理.md",
@@ -190,7 +191,6 @@
     "开发者/中间件/docker/1.安装.md",
     "开发者/中间件/docker/3.实战.md",
     "开发者/中间件/docker/0.资料.md",
-    "开发者/中间件/docker/2.命令.md",
     "开发者/中间件/docker",
     "开发者/中间件",
     "module-info.java",
