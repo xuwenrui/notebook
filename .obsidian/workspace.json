@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/web/react/6.组件通信.md",
+                "file": "开发者/web/react/7.useEffect.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/web/react/6.组件通信.md",
+                "file": "开发者/web/react/7.useEffect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/web/react/6.组件通信.md",
+                "file": "开发者/web/react/7.useEffect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/web/react/6.组件通信.md"
+                "file": "开发者/web/react/7.useEffect.md"
               }
             }
           }
@@ -149,6 +149,10 @@
   },
   "active": "535438723446e733",
   "lastOpenFiles": [
+    "开发者/web/react/6.组件通信.md",
+    "开发者/web/react/7.useEffect.md",
+    "Pasted image 20240821203736.png",
+    "Pasted image 20240821203321.png",
     "Pasted image 20240821203220.png",
     "Pasted image 20240821202953.png",
     "Pasted image 20240821202908.png",
@@ -157,11 +161,7 @@
     "Pasted image 20240821202522.png",
     "Pasted image 20240821201712.png",
     "Pasted image 20240821200723.png",
-    "Pasted image 20240821200537.png",
-    "Pasted image 20240821200415.png",
-    "Pasted image 20240821195955.png",
     "开发者/web/react/6.获取DOM.md",
-    "开发者/web/react/6.组件通信.md",
     "attachment/images/2024/08",
     "开发者/java/导入导出/pdf/flyingsaucer.md",
     "开发者/java/导入导出/pdf/itext生成目录.md",
