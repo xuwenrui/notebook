@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/web/工具/nvm/1.nvm使用.md",
+                "file": "开发者/移动端/鸿蒙/2.环境.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/web/工具/nvm/1.nvm使用.md",
+                "file": "开发者/移动端/鸿蒙/2.环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/web/工具/nvm/1.nvm使用.md",
+                "file": "开发者/移动端/鸿蒙/2.环境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/web/工具/nvm/1.nvm使用.md"
+                "file": "开发者/移动端/鸿蒙/2.环境.md"
               }
             }
           }
@@ -149,6 +149,10 @@
   },
   "active": "7b8f836ca479855d",
   "lastOpenFiles": [
+    "开发者/移动端/鸿蒙/1.资料.md",
+    "开发者/web/工具/nvm/1.nvm使用.md",
+    "开发者/移动端/鸿蒙/2.环境.md",
+    "开发者/移动端/vant",
     "开发者/java/导入导出/JasperReports.md",
     "开发者/web/react/9.Redux.md",
     "Pasted image 20240824194410.png",
@@ -161,10 +165,7 @@
     "开发者/AI/大模型1/3.ChatGLM2+Langchain.md",
     "开发者/AI/大模型1/2.Langchain.md",
     "开发者/AI/大模型1/1.提示词.md",
-    "开发者/移动端/鸿蒙/1.资料.md",
-    "开发者/移动端/鸿蒙/2.环境.md",
     "开发者/项目/vms/1.资料.md",
-    "开发者/web/工具/nvm/1.nvm使用.md",
     "开发者/项目/vms",
     "开发者/项目",
     "Pasted image 20240824123513.png",
@@ -193,8 +194,6 @@
     "开发者/移动端/鸿蒙",
     "开发者/web/工具/参考/1.图.md",
     "开发者/web/vue/1.基本配置.md",
-    "开发者/web/vue/Promise.md",
-    "开发者/web/工具/参考",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
