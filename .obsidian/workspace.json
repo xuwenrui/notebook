@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/web/工具/nvm/1.nvm使用.md",
+                "file": "开发者/项目/vms/1.资料.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/web/工具/nvm/1.nvm使用.md",
+                "file": "开发者/项目/vms/1.资料.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/web/工具/nvm/1.nvm使用.md",
+                "file": "开发者/项目/vms/1.资料.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/web/工具/nvm/1.nvm使用.md"
+                "file": "开发者/项目/vms/1.资料.md"
               }
             }
           }
@@ -149,9 +149,12 @@
   },
   "active": "535438723446e733",
   "lastOpenFiles": [
+    "开发者/web/工具/nvm/1.nvm使用.md",
+    "开发者/项目/vms/1.资料.md",
+    "开发者/项目/vms",
+    "开发者/项目",
     "Pasted image 20240824123513.png",
     "开发者/web/react/9.Redux.md",
-    "开发者/web/工具/nvm/1.nvm使用.md",
     "开发者/web/工具/nvm",
     "Pasted image 20240824101148.png",
     "Pasted image 20240824101137.png",
@@ -163,7 +166,6 @@
     "Pasted image 20240824094027.png",
     "Pasted image 20240824093831.png",
     "开发者/web/react/8.自定义hook.md",
-    "Pasted image 20240821205731.png",
     "开发者/web/react/7.useEffect.md",
     "开发者/web/react/6.组件通信.md",
     "开发者/web/react/6.获取DOM.md",
@@ -193,8 +195,6 @@
     "开发者/java/jdk/新特性实例/2.JPMS模块化.md",
     "开发者/web/工具/参考",
     "开发者/java/jdk/新特性实例/1.JPMS.md",
-    "开发者/中间件/docker",
-    "开发者/中间件",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
