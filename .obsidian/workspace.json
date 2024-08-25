@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/移动端/鸿蒙/1.资料.md",
+                "file": "开发者/移动端/鸿蒙/2.环境.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/移动端/鸿蒙/1.资料.md",
+                "file": "开发者/移动端/鸿蒙/2.环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/移动端/鸿蒙/1.资料.md",
+                "file": "开发者/移动端/鸿蒙/2.环境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/移动端/鸿蒙/1.资料.md"
+                "file": "开发者/移动端/鸿蒙/2.环境.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "7b8f836ca479855d",
   "lastOpenFiles": [
+    "开发者/移动端/鸿蒙/1.资料.md",
+    "开发者/移动端/鸿蒙/2.环境.md",
     "开发者/AI/AI大模型/0.资料.md",
     "开发者/AI/AI大模型/1.AIGC.md",
     "开发者/java/导入导出/pdf/flyingsaucer.md",
@@ -162,8 +164,6 @@
     "Pasted image 20240825082209.png",
     "开发者/java/导入导出/pdf/JasperReports/1.环境.md",
     "开发者/java/导入导出/pdf/JasperReports",
-    "开发者/移动端/鸿蒙/2.环境.md",
-    "开发者/移动端/鸿蒙/1.资料.md",
     "开发者/web/工具/nvm/1.nvm使用.md",
     "开发者/移动端/vant",
     "开发者/web/react/9.Redux.md",
