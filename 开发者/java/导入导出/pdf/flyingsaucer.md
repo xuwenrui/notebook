@@ -1,6 +1,8 @@
 github:https://github.com/flyingsaucerproject/flyingsaucer
 文档：https://flyingsaucerproject.github.io/flyingsaucer/r8/guide/users-guide-R8.html
 
+#### SpringBoot+FreeMarker+flying-saucer-pdf
+https://blog.csdn.net/myNameIssls/article/details/124643983
 #### 跳到制定位置
 直接使用
 ```
