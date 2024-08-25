@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/移动端/鸿蒙/Arkts/声明式ui/1.介绍.md",
+                "file": "开发者/移动端/鸿蒙/Arkts/声明式ui/3.配置样式和布局.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/移动端/鸿蒙/Arkts/声明式ui/1.介绍.md",
+                "file": "开发者/移动端/鸿蒙/Arkts/声明式ui/3.配置样式和布局.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/移动端/鸿蒙/Arkts/声明式ui/1.介绍.md",
+                "file": "开发者/移动端/鸿蒙/Arkts/声明式ui/3.配置样式和布局.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/移动端/鸿蒙/Arkts/声明式ui/1.介绍.md"
+                "file": "开发者/移动端/鸿蒙/Arkts/声明式ui/3.配置样式和布局.md"
               }
             }
           }
@@ -149,25 +149,27 @@
   },
   "active": "7b8f836ca479855d",
   "lastOpenFiles": [
-    "Pasted image 20240825195255.png",
-    "Pasted image 20240825195222.png",
-    "开发者/移动端/鸿蒙/Arkts/基础/1.概念.md",
+    "Pasted image 20240825200211.png",
+    "Pasted image 20240825200116.png",
+    "开发者/移动端/鸿蒙/Arkts/声明式ui/2.自定义组件.md",
+    "开发者/移动端/鸿蒙/Arkts/声明式ui/3.配置样式和布局.md",
+    "Pasted image 20240825195948.png",
+    "Pasted image 20240825195922.png",
+    "Pasted image 20240825195805.png",
+    "Pasted image 20240825195746.png",
     "开发者/移动端/鸿蒙/Arkts/声明式ui/1.介绍.md",
+    "Pasted image 20240825195546.png",
+    "Pasted image 20240825195445.png",
+    "Pasted image 20240825195440.png",
+    "Pasted image 20240825195316.png",
+    "Pasted image 20240825195255.png",
+    "开发者/移动端/鸿蒙/Arkts/基础/1.概念.md",
     "开发者/移动端/鸿蒙/Arkts/声明式ui",
     "开发者/移动端/鸿蒙/Arkts/基础/2.声明变量.md",
     "开发者/移动端/鸿蒙/Arkts/基础/7.模块.md",
     "开发者/移动端/鸿蒙/Arkts/基础",
-    "Pasted image 20240825194938.png",
-    "Pasted image 20240825194913.png",
-    "Pasted image 20240825194837.png",
-    "Pasted image 20240825194814.png",
     "开发者/移动端/鸿蒙/Arkts/基础/6.接口.md",
-    "Pasted image 20240825194648.png",
-    "Pasted image 20240825194608.png",
     "开发者/移动端/鸿蒙/Arkts/基础/5.类.md",
-    "Pasted image 20240825194526.png",
-    "Pasted image 20240825194502.png",
-    "Pasted image 20240825194424.png",
     "开发者/移动端/鸿蒙/Arkts/基础/4.函数.md",
     "开发者/移动端/鸿蒙/Arkts/基础/3.语句.md",
     "开发者/移动端/鸿蒙/2.环境.md",
@@ -191,8 +193,6 @@
     "开发者/web/工具/nvm",
     "开发者/web/react/8.自定义hook.md",
     "开发者/web/react/7.useEffect.md",
-    "开发者/web/react/6.组件通信.md",
-    "开发者/web/react/6.获取DOM.md",
     "attachment/images/2024/08",
     "开发者/web/react",
     "未命名.canvas",
