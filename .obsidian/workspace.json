@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/移动端/鸿蒙/2.环境.md",
+                "file": "开发者/移动端/鸿蒙/Arkts/2.声明变量.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/移动端/鸿蒙/2.环境.md",
+                "file": "开发者/移动端/鸿蒙/Arkts/2.声明变量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/移动端/鸿蒙/2.环境.md",
+                "file": "开发者/移动端/鸿蒙/Arkts/2.声明变量.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/移动端/鸿蒙/2.环境.md"
+                "file": "开发者/移动端/鸿蒙/Arkts/2.声明变量.md"
               }
             }
           }
@@ -149,8 +149,19 @@
   },
   "active": "7b8f836ca479855d",
   "lastOpenFiles": [
-    "开发者/移动端/鸿蒙/1.资料.md",
+    "Pasted image 20240825193251.png",
+    "Pasted image 20240825193203.png",
+    "Pasted image 20240825193141.png",
+    "Pasted image 20240825193128.png",
+    "开发者/移动端/鸿蒙/Arkts/1.概念.md",
+    "开发者/移动端/鸿蒙/Arkts/2.声明变量.md",
+    "Pasted image 20240825193027.png",
+    "Pasted image 20240825193008.png",
+    "Pasted image 20240825192932.png",
+    "Pasted image 20240825192834.png",
     "开发者/移动端/鸿蒙/2.环境.md",
+    "开发者/移动端/鸿蒙/Arkts",
+    "开发者/移动端/鸿蒙/1.资料.md",
     "开发者/AI/AI大模型/0.资料.md",
     "开发者/AI/AI大模型/1.AIGC.md",
     "开发者/java/导入导出/pdf/flyingsaucer.md",
@@ -158,18 +169,11 @@
     "Pasted image 20240825090139.png",
     "Pasted image 20240825083554.png",
     "Pasted image 20240825083006.png",
-    "Pasted image 20240825082957.png",
-    "Pasted image 20240825082856.png",
-    "Pasted image 20240825082322.png",
-    "Pasted image 20240825082209.png",
     "开发者/java/导入导出/pdf/JasperReports/1.环境.md",
     "开发者/java/导入导出/pdf/JasperReports",
     "开发者/web/工具/nvm/1.nvm使用.md",
     "开发者/移动端/vant",
     "开发者/web/react/9.Redux.md",
-    "Pasted image 20240824194410.png",
-    "Pasted image 20240824194330.png",
-    "Pasted image 20240824192349.png",
     "开发者/AI/大模型1/3.ChatGLM2+Langchain.md",
     "开发者/AI/大模型1/2.Langchain.md",
     "开发者/AI/大模型1/1.提示词.md",
@@ -188,13 +192,9 @@
     "开发者/web/react/4.样式处理.md",
     "开发者/web/react/5.受控表单绑定.md",
     "开发者/web/react/3.组件.md",
-    "开发者/web/react/2.jsx.md",
     "开发者/web/react",
-    "开发者/web/js/3.数组.md",
-    "开发者/web/js/2.字符串.md",
     "开发者/移动端/React Native",
     "开发者/web/js",
-    "开发者/移动端",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
