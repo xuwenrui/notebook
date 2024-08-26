@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/1.IOC.md",
+                "file": "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/2.aop.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/1.IOC.md",
+                "file": "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/2.aop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/1.IOC.md",
+                "file": "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/2.aop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/1.IOC.md"
+                "file": "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/2.aop.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "bf2feadd46360151",
   "lastOpenFiles": [
+    "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/1.IOC.md",
+    "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/2.aop.md",
     "Pasted image 20240826105336.png",
     "Pasted image 20240826103753.png",
     "Pasted image 20240826103734.png",
@@ -156,7 +158,6 @@
     "attachment/images/2024/08/Pasted image 20240825195445.png",
     "bbraun/().md",
     "bbraun/开发者/java/spring/1.spring基础/面试/1.spring循环依赖问题.md",
-    "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/1.IOC.md",
     "bbraun/开发者/web/移动端/h5/1.资料.md",
     "bbraun/开发者/web/移动端/Android/3.gradle.md",
     "bbraun/开发者/web/移动端/Android/2.环境.md",
@@ -194,7 +195,6 @@
     "bbraun/Pasted image 20240704093600.png",
     "bb/Pasted image 20240826095755.png",
     "bb/Pasted image 20240814094542.png",
-    "bb/Pasted image 20240704093600.png",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
