@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/web/vue/Vue3从入门到精通/1.介绍.md",
+                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.2 setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/web/vue/Vue3从入门到精通/1.介绍.md",
+                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.2 setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/web/vue/Vue3从入门到精通/1.介绍.md",
+                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.2 setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/web/vue/Vue3从入门到精通/1.介绍.md"
+                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.2 setup.md"
               }
             }
           }
@@ -149,6 +149,14 @@
   },
   "active": "bf2feadd46360151",
   "lastOpenFiles": [
+    "Pasted image 20240826121715.png",
+    "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.1 options api和composition api.md",
+    "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.2 setup.md",
+    "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法",
+    "Pasted image 20240826121500.png",
+    "Pasted image 20240826121322.png",
+    "Pasted image 20240826121137.png",
+    "开发者/web/vue/Vue3从入门到精通/1.介绍.md",
     "Pasted image 20240826112330.png",
     "Pasted image 20240826112129.png",
     "Pasted image 20240826112103.png",
@@ -156,14 +164,9 @@
     "Pasted image 20240826111520.png",
     "Pasted image 20240826111415.png",
     "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/2.aop.md",
-    "开发者/web/vue/Vue3从入门到精通/1.介绍.md",
     "开发者/web/vue/Vue3从入门到精通",
     "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/1.IOC.md",
     "Pasted image 20240826105336.png",
-    "Pasted image 20240826103753.png",
-    "Pasted image 20240826103734.png",
-    "Pasted image 20240826103440.png",
-    "attachment/images/2024/08/Pasted image 20240825195445.png",
     "bbraun/().md",
     "bbraun/开发者/java/spring/1.spring基础/面试/1.spring循环依赖问题.md",
     "bbraun/开发者/web/移动端/h5/1.资料.md",
@@ -189,12 +192,9 @@
     "bbraun/开发者/web/css/2.选择器.md",
     "bbraun/开发者/web/react/React组件的数据.md",
     "bbraun/开发者/web/react/1.环境.md",
-    "bbraun/开发者/web/css/1.资料.md",
     "bbraun/开发者/java/spring/2.springboot",
     "bbraun/开发者/java/spring/1.spring基础",
-    "bbraun/开发者/java/jdk17/1.环境.md",
     "bbraun/开发者/java/认证方式",
-    "bbraun/开发者/web/移动端",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
