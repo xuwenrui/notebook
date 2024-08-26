@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/3.访问数据库.md",
+                "file": "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/4.整合MyBatis框架.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/3.访问数据库.md",
+                "file": "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/4.整合MyBatis框架.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/3.访问数据库.md",
+                "file": "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/4.整合MyBatis框架.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/3.访问数据库.md"
+                "file": "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/4.整合MyBatis框架.md"
               }
             }
           }
@@ -149,9 +149,10 @@
   },
   "active": "3a87adbf8aca5a8e",
   "lastOpenFiles": [
+    "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/3.访问数据库.md",
+    "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/4.整合MyBatis框架.md",
     "Pasted image 20240826201008.png",
     "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/2.aop.md",
-    "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/3.访问数据库.md",
     "Pasted image 20240826194012.png",
     "Pasted image 20240826193058.png",
     "Pasted image 20240826191443.png",
@@ -163,7 +164,6 @@
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5 watch.md",
     "attachment/images/2024/08/Pasted image 20240826170655.png",
     "attachment/images/2024/08/Pasted image 20240826170508.png",
-    "attachment/images/2024/08/Pasted image 20240826155652.png",
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.3 ref，reactive.md",
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.4 computed.md",
     "开发者/web/vue/Vue3从入门到精通/1.介绍.md",
