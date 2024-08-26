@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/2.aop.md",
+                "file": "开发者/web/vue/Vue3从入门到精通/1.介绍.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/2.aop.md",
+                "file": "开发者/web/vue/Vue3从入门到精通/1.介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/2.aop.md",
+                "file": "开发者/web/vue/Vue3从入门到精通/1.介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/2.aop.md"
+                "file": "开发者/web/vue/Vue3从入门到精通/1.介绍.md"
               }
             }
           }
@@ -149,8 +149,13 @@
   },
   "active": "bf2feadd46360151",
   "lastOpenFiles": [
-    "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/1.IOC.md",
+    "Pasted image 20240826111721.png",
+    "Pasted image 20240826111520.png",
+    "Pasted image 20240826111415.png",
     "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/2.aop.md",
+    "开发者/web/vue/Vue3从入门到精通/1.介绍.md",
+    "开发者/web/vue/Vue3从入门到精通",
+    "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/1.IOC.md",
     "Pasted image 20240826105336.png",
     "Pasted image 20240826103753.png",
     "Pasted image 20240826103734.png",
@@ -187,14 +192,9 @@
     "bbraun/开发者/java/jdk17/1.环境.md",
     "bbraun/开发者/java/认证方式",
     "bbraun/开发者/web/移动端",
-    "bbraun/开发者/运维/kubernetes",
-    "bbraun/开发者/运维/jumpserver.md",
-    "bbraun/开发者/开源/1.字体.md",
     "bbraun/Pasted image 20240826095755.png",
     "bbraun/Pasted image 20240814094542.png",
     "bbraun/Pasted image 20240704093600.png",
-    "bb/Pasted image 20240826095755.png",
-    "bb/Pasted image 20240814094542.png",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
