@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5 watch.md",
+                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.6.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5 watch.md",
+                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5 watch.md",
+                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5 watch.md"
+                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.6.md"
               }
             }
           }
@@ -149,6 +149,10 @@
   },
   "active": "bf2feadd46360151",
   "lastOpenFiles": [
+    "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5 watch.md",
+    "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.6.md",
+    "Pasted image 20240826170655.png",
+    "Pasted image 20240826170508.png",
     "Pasted image 20240826155652.png",
     "Pasted image 20240826155545.png",
     "Pasted image 20240826155503.png",
@@ -158,10 +162,6 @@
     "Pasted image 20240826154027.png",
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.3 ref，reactive.md",
     "Pasted image 20240826153527.png",
-    "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5 watch.md",
-    "Pasted image 20240826152503.png",
-    "Pasted image 20240826140330.png",
-    "Pasted image 20240826135653.png",
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.4 computed.md",
     "开发者/web/vue/Vue3从入门到精通/1.介绍.md",
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.2 setup.md",
