@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/spring/2.springboot/深入浅出 springboot3/7.异步线程池.md",
+                "file": "开发者/java/spring/2.springboot/深入浅出 springboot3/8.异步消息——RabbitMQ.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/spring/2.springboot/深入浅出 springboot3/7.异步线程池.md",
+                "file": "开发者/java/spring/2.springboot/深入浅出 springboot3/8.异步消息——RabbitMQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/spring/2.springboot/深入浅出 springboot3/7.异步线程池.md",
+                "file": "开发者/java/spring/2.springboot/深入浅出 springboot3/8.异步消息——RabbitMQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/spring/2.springboot/深入浅出 springboot3/7.异步线程池.md"
+                "file": "开发者/java/spring/2.springboot/深入浅出 springboot3/8.异步消息——RabbitMQ.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "2b9c1b578914168b",
   "lastOpenFiles": [
-    "开发者/java/spring/2.springboot/深入浅出 springboot3/6.使用性能利器——Redis.md",
+    "Pasted image 20240827094353.png",
     "开发者/java/spring/2.springboot/深入浅出 springboot3/7.异步线程池.md",
+    "开发者/java/spring/2.springboot/深入浅出 springboot3/8.异步消息——RabbitMQ.md",
+    "开发者/java/spring/2.springboot/深入浅出 springboot3/6.使用性能利器——Redis.md",
     "Pasted image 20240827091826.png",
     "Pasted image 20240827091533.png",
     "Pasted image 20240827090455.png",
@@ -186,8 +188,6 @@
     "开发者/java/spring/1.spring基础/面试/1.spring循环依赖问题.md",
     "开发者/web/移动端/h5/1.资料.md",
     "开发者/web/移动端/Android/3.gradle.md",
-    "开发者/web/移动端/Android/2.环境.md",
-    "开发者/web/移动端/Android/1.资料.md",
     "开发者/java/spring/2.springboot/深入浅出 springboot3",
     "开发者/java/spring/1.spring基础/面试",
     "开发者/web/移动端/h5",
