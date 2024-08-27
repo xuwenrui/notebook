@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7886841bbb6c1d86",
+        "id": "7fecc8f8cff40b2d",
         "type": "tabs",
         "children": [
           {
-            "id": "3a87adbf8aca5a8e",
+            "id": "2b9c1b578914168b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/5.数据库事务处理.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/5.数据库事务处理.md",
+                "file": "开发者/web/工具/参考/1.图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/5.数据库事务处理.md",
+                "file": "开发者/web/工具/参考/1.图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/5.数据库事务处理.md"
+                "file": "开发者/web/工具/参考/1.图.md"
               }
             }
           }
@@ -147,23 +143,29 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "3a87adbf8aca5a8e",
+  "active": "1234ab53d88e86c1",
   "lastOpenFiles": [
-    "Pasted image 20240827081406.png",
-    "Pasted image 20240827081227.png",
-    "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/4.整合MyBatis框架.md",
-    "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/5.数据库事务处理.md",
-    "Pasted image 20240827074957.png",
-    "Pasted image 20240827074922.png",
-    "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/3.访问数据库.md",
-    "Pasted image 20240826201008.png",
-    "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/2.aop.md",
-    "Pasted image 20240826194012.png",
-    "Pasted image 20240826193058.png",
-    "Pasted image 20240826191443.png",
-    "Pasted image 20240826185919.png",
-    "attachment/images/2024/nomal/Pasted image 20240510220434.png",
-    "attachment/images/2024/08/Pasted image 20240826135306.png",
+    "开发者/java/未命名",
+    "bbraun/开发者/web/gatsbyjs.md",
+    "开发者/web/工具/参考/1.图.md",
+    "obidian/obsidian同步方案.md",
+    "obidian/1.基本使用.md",
+    "attachment/images/2024/08/Pasted image 20240826185919.png",
+    "attachment/images/2024/08/Pasted image 20240826095755.png",
+    "attachment/images/2024/08/Pasted image 20240704093600.png",
+    "开发者/java/spring/2.springboot/深入浅出 springboot3/5.数据库事务处理.md",
+    "bbraun/开发者/java/jdk17/1.环境.md",
+    "开发者/java/未命名.md",
+    "attachment/images/2024/08/Pasted image 20240827081406.png",
+    "attachment/images/2024/08/Pasted image 20240827081227.png",
+    "开发者/java/spring/2.springboot/深入浅出 springboot3/4.整合MyBatis框架.md",
+    "attachment/images/2024/08/Pasted image 20240827074957.png",
+    "attachment/images/2024/08/Pasted image 20240827074922.png",
+    "开发者/java/spring/2.springboot/深入浅出 springboot3/3.访问数据库.md",
+    "attachment/images/2024/08/Pasted image 20240826201008.png",
+    "开发者/java/spring/2.springboot/深入浅出 springboot3/2.aop.md",
+    "attachment/images/2024/08/Pasted image 20240826194012.png",
+    "attachment/images/2024/08/Pasted image 20240826193058.png",
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.6.md",
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5 watch.md",
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.3 ref，reactive.md",
@@ -173,28 +175,22 @@
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.1 options api和composition api.md",
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法",
     "开发者/web/vue/Vue3从入门到精通",
-    "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/1.IOC.md",
+    "开发者/java/spring/2.springboot/深入浅出 springboot3/1.IOC.md",
     "bbraun/().md",
-    "bbraun/开发者/java/spring/1.spring基础/面试/1.spring循环依赖问题.md",
-    "bbraun/开发者/web/移动端/h5/1.资料.md",
-    "bbraun/开发者/web/移动端/Android/3.gradle.md",
-    "bbraun/开发者/web/移动端/Android/2.环境.md",
-    "bbraun/开发者/web/移动端/Android/1.资料.md",
-    "bbraun/开发者/web/css/标签/2.多个背景.md",
-    "bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3",
-    "bbraun/开发者/java/spring/1.spring基础/面试",
-    "bbraun/开发者/java/认证方式/2.公钥加密.md",
-    "bbraun/开发者/java/认证方式/4.不超过64位非对称加密.md",
-    "bbraun/开发者/java/认证方式/3.RAS签名.md",
-    "bbraun/开发者/java/认证方式/1.签名.md",
-    "bbraun/开发者/web/移动端/h5",
-    "bbraun/开发者/web/移动端/Android",
-    "bbraun/开发者/运维/kubernetes/2.kubectl命令.md",
-    "bbraun/开发者/运维/kubernetes/1.环境.md",
-    "bbraun/开发者/web/css/标签",
-    "bbraun/开发者/java/spring/2.springboot",
-    "bbraun/开发者/java/spring/1.spring基础",
-    "bbraun/开发者/java/认证方式",
+    "开发者/java/spring/1.spring基础/面试/1.spring循环依赖问题.md",
+    "开发者/web/移动端/h5/1.资料.md",
+    "开发者/web/移动端/Android/3.gradle.md",
+    "开发者/web/移动端/Android/2.环境.md",
+    "开发者/web/移动端/Android/1.资料.md",
+    "开发者/web/css/标签/2.多个背景.md",
+    "开发者/java/spring/2.springboot/深入浅出 springboot3",
+    "开发者/java/spring/1.spring基础/面试",
+    "开发者/web/移动端/h5",
+    "开发者/web/移动端/Android",
+    "开发者/web/css/标签",
+    "开发者/java/spring/2.springboot",
+    "开发者/java/spring/1.spring基础",
+    "开发者/java/基础/认证方式",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
