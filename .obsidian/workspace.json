@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5.4 父传子.md",
+                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.6 组件的声明周期.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5.4 父传子.md",
+                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.6 组件的声明周期.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5.4 父传子.md",
+                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.6 组件的声明周期.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5.4 父传子.md"
+                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.6 组件的声明周期.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "2b9c1b578914168b",
   "lastOpenFiles": [
-    "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5.3 接口.md",
+    "Pasted image 20240827195847.png",
+    "Pasted image 20240827195534.png",
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5.4 父传子.md",
+    "Pasted image 20240827195022.png",
+    "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5.3 接口.md",
     "Pasted image 20240827161844.png",
     "Pasted image 20240827161812.png",
     "Pasted image 20240827161625.png",
@@ -161,10 +164,8 @@
     "Pasted image 20240827160256.png",
     "Pasted image 20240827155828.png",
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5.1 watchEffect.md",
-    "Pasted image 20240827155656.png",
-    "Pasted image 20240827154904.png",
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5 watch.md",
-    "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.6.md",
+    "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.6 组件的声明周期.md",
     "开发者/web/react 1/React组件的数据.md",
     "开发者/web/react 1/1.环境.md",
     "开发者/java/基础/高并发编程/2.原子类型.md",
@@ -187,7 +188,6 @@
     "开发者/java/spring/2.springboot/深入浅出 springboot3/2.aop.md",
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.3 ref，reactive.md",
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.4 computed.md",
-    "开发者/web/vue/Vue3从入门到精通/1.介绍.md",
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法",
     "开发者/web/vue/Vue3从入门到精通",
     "开发者/java/spring/2.springboot/深入浅出 springboot3",
