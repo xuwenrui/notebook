@@ -11,8 +11,12 @@
             "id": "2b9c1b578914168b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "开发者/java/spring/2.springboot/深入浅出 springboot3/5.数据库事务处理.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/web/工具/参考/1.图.md",
+                "file": "开发者/java/spring/2.springboot/深入浅出 springboot3/5.数据库事务处理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/web/工具/参考/1.图.md",
+                "file": "开发者/java/spring/2.springboot/深入浅出 springboot3/5.数据库事务处理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/web/工具/参考/1.图.md"
+                "file": "开发者/java/spring/2.springboot/深入浅出 springboot3/5.数据库事务处理.md"
               }
             }
           }
@@ -143,11 +147,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "1234ab53d88e86c1",
+  "active": "2b9c1b578914168b",
   "lastOpenFiles": [
-    "开发者/java/未命名",
-    "bbraun/开发者/web/gatsbyjs.md",
     "开发者/web/工具/参考/1.图.md",
+    "开发者/java/面试",
+    "bbraun/开发者/web/gatsbyjs.md",
     "obidian/obsidian同步方案.md",
     "obidian/1.基本使用.md",
     "attachment/images/2024/08/Pasted image 20240826185919.png",
@@ -190,7 +194,6 @@
     "开发者/web/css/标签",
     "开发者/java/spring/2.springboot",
     "开发者/java/spring/1.spring基础",
-    "开发者/java/基础/认证方式",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
