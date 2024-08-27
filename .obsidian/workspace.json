@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/spring/2.springboot/深入浅出 springboot3/8.异步消息——RabbitMQ.md",
+                "file": "开发者/java/基础/高并发编程/1.JMH.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/spring/2.springboot/深入浅出 springboot3/8.异步消息——RabbitMQ.md",
+                "file": "开发者/java/基础/高并发编程/1.JMH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/spring/2.springboot/深入浅出 springboot3/8.异步消息——RabbitMQ.md",
+                "file": "开发者/java/基础/高并发编程/1.JMH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/spring/2.springboot/深入浅出 springboot3/8.异步消息——RabbitMQ.md"
+                "file": "开发者/java/基础/高并发编程/1.JMH.md"
               }
             }
           }
@@ -149,9 +149,12 @@
   },
   "active": "2b9c1b578914168b",
   "lastOpenFiles": [
+    "开发者/java/spring/2.springboot/深入浅出 springboot3/8.异步消息——RabbitMQ.md",
+    "开发者/java/基础/高并发编程/1.JMH.md",
+    "开发者/java/基础/高并发编程",
+    "开发者/java/未命名",
     "Pasted image 20240827094353.png",
     "开发者/java/spring/2.springboot/深入浅出 springboot3/7.异步线程池.md",
-    "开发者/java/spring/2.springboot/深入浅出 springboot3/8.异步消息——RabbitMQ.md",
     "开发者/java/spring/2.springboot/深入浅出 springboot3/6.使用性能利器——Redis.md",
     "Pasted image 20240827091826.png",
     "Pasted image 20240827091533.png",
@@ -170,7 +173,6 @@
     "bbraun/开发者/java/jdk17/1.环境.md",
     "开发者/java/未命名.md",
     "attachment/images/2024/08/Pasted image 20240827081406.png",
-    "attachment/images/2024/08/Pasted image 20240827081227.png",
     "开发者/java/spring/2.springboot/深入浅出 springboot3/4.整合MyBatis框架.md",
     "开发者/java/spring/2.springboot/深入浅出 springboot3/3.访问数据库.md",
     "开发者/java/spring/2.springboot/深入浅出 springboot3/2.aop.md",
@@ -193,8 +195,6 @@
     "开发者/web/移动端/h5",
     "开发者/web/移动端/Android",
     "开发者/web/css/标签",
-    "开发者/java/spring/2.springboot",
-    "开发者/java/spring/1.spring基础",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
