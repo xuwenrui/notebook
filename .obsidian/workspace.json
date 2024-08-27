@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/基础/高并发编程/2.原子类型.md",
+                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5 watch.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/基础/高并发编程/2.原子类型.md",
+                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5 watch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/基础/高并发编程/2.原子类型.md",
+                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5 watch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/基础/高并发编程/2.原子类型.md"
+                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5 watch.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "2b9c1b578914168b",
   "lastOpenFiles": [
-    "开发者/java/基础/高并发编程/1.JMH.md",
+    "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.6.md",
+    "开发者/web/react 1/React组件的数据.md",
+    "开发者/web/react 1/1.环境.md",
     "开发者/java/基础/高并发编程/2.原子类型.md",
+    "开发者/java/基础/高并发编程/1.JMH.md",
     "开发者/java/spring/2.springboot/深入浅出 springboot3/8.异步消息——RabbitMQ.md",
     "开发者/java/基础/高并发编程",
     "开发者/java/未命名",
@@ -177,7 +180,6 @@
     "开发者/java/spring/2.springboot/深入浅出 springboot3/4.整合MyBatis框架.md",
     "开发者/java/spring/2.springboot/深入浅出 springboot3/3.访问数据库.md",
     "开发者/java/spring/2.springboot/深入浅出 springboot3/2.aop.md",
-    "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.6.md",
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5 watch.md",
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.3 ref，reactive.md",
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.4 computed.md",
@@ -188,8 +190,6 @@
     "开发者/web/vue/Vue3从入门到精通",
     "开发者/java/spring/2.springboot/深入浅出 springboot3/1.IOC.md",
     "bbraun/().md",
-    "开发者/java/spring/1.spring基础/面试/1.spring循环依赖问题.md",
-    "开发者/web/移动端/h5/1.资料.md",
     "开发者/java/spring/2.springboot/深入浅出 springboot3",
     "开发者/java/spring/1.spring基础/面试",
     "开发者/web/移动端/h5",
