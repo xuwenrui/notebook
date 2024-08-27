@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5.1 watchEffect.md",
+                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5.2 标签的ref属性.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5.1 watchEffect.md",
+                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5.2 标签的ref属性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5.1 watchEffect.md",
+                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5.2 标签的ref属性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5.1 watchEffect.md"
+                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5.2 标签的ref属性.md"
               }
             }
           }
@@ -149,10 +149,14 @@
   },
   "active": "2b9c1b578914168b",
   "lastOpenFiles": [
+    "Pasted image 20240827160256.png",
+    "Pasted image 20240827155828.png",
+    "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5.1 watchEffect.md",
+    "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5.2 标签的ref属性.md",
+    "Pasted image 20240827155656.png",
     "Pasted image 20240827154904.png",
     "Pasted image 20240827153852.png",
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5 watch.md",
-    "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5.1 watchEffect.md",
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.6.md",
     "开发者/web/react 1/React组件的数据.md",
     "开发者/web/react 1/1.环境.md",
@@ -175,9 +179,6 @@
     "bbraun/开发者/web/gatsbyjs.md",
     "obidian/obsidian同步方案.md",
     "obidian/1.基本使用.md",
-    "attachment/images/2024/08/Pasted image 20240826185919.png",
-    "attachment/images/2024/08/Pasted image 20240826095755.png",
-    "attachment/images/2024/08/Pasted image 20240704093600.png",
     "bbraun/开发者/java/jdk17/1.环境.md",
     "开发者/java/未命名.md",
     "开发者/java/spring/2.springboot/深入浅出 springboot3/4.整合MyBatis框架.md",
@@ -187,7 +188,6 @@
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.4 computed.md",
     "开发者/web/vue/Vue3从入门到精通/1.介绍.md",
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.2 setup.md",
-    "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.1 options api和composition api.md",
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法",
     "开发者/web/vue/Vue3从入门到精通",
     "开发者/java/spring/2.springboot/深入浅出 springboot3",
