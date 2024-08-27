@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5.2 标签的ref属性.md",
+                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5.3 接口.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5.2 标签的ref属性.md",
+                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5.3 接口.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5.2 标签的ref属性.md",
+                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5.3 接口.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5.2 标签的ref属性.md"
+                "file": "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5.3 接口.md"
               }
             }
           }
@@ -149,11 +149,17 @@
   },
   "active": "2b9c1b578914168b",
   "lastOpenFiles": [
+    "Pasted image 20240827161844.png",
+    "Pasted image 20240827161812.png",
+    "Pasted image 20240827161625.png",
+    "Pasted image 20240827161440.png",
+    "Pasted image 20240827161413.png",
+    "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5.2 标签的ref属性.md",
+    "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5.3 接口.md",
     "Pasted image 20240827160913.png",
     "Pasted image 20240827160256.png",
     "Pasted image 20240827155828.png",
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5.1 watchEffect.md",
-    "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.5.2 标签的ref属性.md",
     "Pasted image 20240827155656.png",
     "Pasted image 20240827154904.png",
     "Pasted image 20240827153852.png",
@@ -166,13 +172,8 @@
     "开发者/java/spring/2.springboot/深入浅出 springboot3/8.异步消息——RabbitMQ.md",
     "开发者/java/基础/高并发编程",
     "开发者/java/未命名",
-    "Pasted image 20240827094353.png",
     "开发者/java/spring/2.springboot/深入浅出 springboot3/7.异步线程池.md",
     "开发者/java/spring/2.springboot/深入浅出 springboot3/6.使用性能利器——Redis.md",
-    "Pasted image 20240827091826.png",
-    "Pasted image 20240827091533.png",
-    "Pasted image 20240827090455.png",
-    "Pasted image 20240827090423.png",
     "开发者/java/spring/2.springboot/深入浅出 springboot3/5.数据库事务处理.md",
     "开发者/web/工具/参考/1.图.md",
     "开发者/java/面试",
@@ -187,7 +188,6 @@
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.3 ref，reactive.md",
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.4 computed.md",
     "开发者/web/vue/Vue3从入门到精通/1.介绍.md",
-    "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/2.2 setup.md",
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法",
     "开发者/web/vue/Vue3从入门到精通",
     "开发者/java/spring/2.springboot/深入浅出 springboot3",
