@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/面试/算法/5.链表遍历.md",
+                "file": "开发者/java/基础/内存/1.工具.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/面试/算法/5.链表遍历.md",
+                "file": "开发者/java/基础/内存/1.工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/面试/算法/5.链表遍历.md",
+                "file": "开发者/java/基础/内存/1.工具.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/面试/算法/5.链表遍历.md"
+                "file": "开发者/java/基础/内存/1.工具.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "2b9c1b578914168b",
   "lastOpenFiles": [
-    "开发者/java/面试/如何解决死锁问题？.md",
     "开发者/java/面试/算法/5.链表遍历.md",
+    "开发者/java/基础/内存/1.工具.md",
+    "开发者/java/基础/内存",
+    "开发者/java/基础/1. VisualVM未命名",
+    "开发者/java/面试/如何解决死锁问题？.md",
     "开发者/java/基础/集合/list初始大小和扩容机制.md",
     "开发者/java/面试/算法/4.合并两数组.md",
     "开发者/java/基础/集合",
@@ -187,14 +190,11 @@
     "Pasted image 20240828095620.png",
     "开发者/java/基础/高并发编程/2.原子类型.md",
     "开发者/数据库/mysql/blog",
-    "开发者/数据库/mysql",
-    "开发者/java/spring/2.springboot/深入浅出 springboot3/8.异步消息——RabbitMQ.md",
     "Pasted image 20240827204356.png",
     "Pasted image 20240827203642.png",
     "Pasted image 20240827203556.png",
     "Pasted image 20240827203418.png",
     "Pasted image 20240827203333.png",
-    "开发者/java/基础/高并发编程",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
