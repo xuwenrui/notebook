@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/数据库/mysql/面试/面试题.md",
+                "file": "开发者/java/基础/认证方式/1.签名.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/数据库/mysql/面试/面试题.md",
+                "file": "开发者/java/基础/认证方式/1.签名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/数据库/mysql/面试/面试题.md",
+                "file": "开发者/java/基础/认证方式/1.签名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/数据库/mysql/面试/面试题.md"
+                "file": "开发者/java/基础/认证方式/1.签名.md"
               }
             }
           }
@@ -149,8 +149,12 @@
   },
   "active": "2b9c1b578914168b",
   "lastOpenFiles": [
-    "开发者/数据库/mysql/面试/进阶知识/MySQL 的 binlog 日志是什么？.md",
+    "开发者/java/基础/认证方式/3.RAS签名.md",
+    "开发者/java/基础/认证方式/2.公钥加密.md",
+    "开发者/java/基础/认证方式/4.不超过64位非对称加密.md",
+    "开发者/java/基础/认证方式/1.签名.md",
     "开发者/数据库/mysql/面试/面试题.md",
+    "开发者/数据库/mysql/面试/进阶知识/MySQL 的 binlog 日志是什么？.md",
     "开发者/数据库/mysql/面试/基础知识/MySQL 的主从复制原理是什么？.md",
     "开发者/数据库/mysql/面试/进阶知识",
     "开发者/数据库/mysql/面试/基础知识/MySQL 的锁有哪些？.md",
@@ -187,10 +191,6 @@
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/1.options api和composition api.md",
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/5.5 组件的声明周期.md",
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/5.4 父传子.md",
-    "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/5.2 标签的ref属性.md",
-    "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/5.6 hooks.md",
-    "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/5.3 接口.md",
-    "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/5.1 watchEffect.md",
     "开发者/java/基础/高并发编程",
     "开发者/java/未命名",
     "开发者/java/面试",
