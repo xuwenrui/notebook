@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/spring/2.springboot/深入浅出 springboot3/8.异步消息——RabbitMQ.md",
+                "file": "开发者/java/面试/单例模式.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/spring/2.springboot/深入浅出 springboot3/8.异步消息——RabbitMQ.md",
+                "file": "开发者/java/面试/单例模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/spring/2.springboot/深入浅出 springboot3/8.异步消息——RabbitMQ.md",
+                "file": "开发者/java/面试/单例模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/spring/2.springboot/深入浅出 springboot3/8.异步消息——RabbitMQ.md"
+                "file": "开发者/java/面试/单例模式.md"
               }
             }
           }
@@ -149,7 +149,13 @@
   },
   "active": "2b9c1b578914168b",
   "lastOpenFiles": [
+    "开发者/java/面试/spring/spring和mysql事务级别的联系.md",
+    "开发者/java/面试/单例模式.md",
+    "开发者/java/spring/2.springboot/深入浅出 springboot3/8.异步消息——RabbitMQ.md",
     "开发者/java/spring/2.springboot/深入浅出 springboot3/7.异步线程池.md",
+    "开发者/java/spring/2.springboot/深入浅出 springboot3/2.aop.md",
+    "开发者/java/spring/2.springboot/深入浅出 springboot3/1.IOC.md",
+    "开发者/java/spring/2.springboot/深入浅出 springboot3/6.使用性能利器——Redis.md",
     "开发者/java/spring/1.spring基础/面试/1.spring循环依赖问题.md",
     "开发者/java/面试/spring/spring事务传播.md",
     "开发者/java/基础/内存/1.工具.md",
@@ -175,14 +181,8 @@
     "开发者/java/基础/认证方式/1.签名.md",
     "开发者/java/基础/认证方式/2.公钥加密.md",
     "开发者/java/基础/认证方式/4.不超过64位非对称加密.md",
-    "开发者/数据库/mysql/面试/进阶知识/MySQL 的 binlog 日志是什么？.md",
-    "开发者/数据库/mysql/面试/基础知识/MySQL 的主从复制原理是什么？.md",
     "开发者/数据库/mysql/面试/进阶知识",
     "开发者/数据库/mysql/面试/基础知识",
-    "开发者/数据库/mysql/基础/MVCC.md",
-    "开发者/数据库/mysql/基础/为什么不建议存NULL.md",
-    "开发者/数据库/mysql/基础/mysql 那些情况不走索引.md",
-    "开发者/数据库/mysql/基础/执行计划.md",
     "Pasted image 20240828103626.png",
     "开发者/数据库/mysql/基础",
     "开发者/数据库/mysql/面试",
