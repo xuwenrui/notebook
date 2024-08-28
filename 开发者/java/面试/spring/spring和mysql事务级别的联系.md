@@ -2,17 +2,17 @@ spring事务级别
 
 Spring 框架提供了多个事务级别，可以在使用 @Transactional 注解或者编程式事务管理时指定。这些事务级别定义了在事务执行期间允许的隔离程度，以及在并发访问时可能出现的问题。以下是 Spring 支持的常见事务级别：
 
-1. DEFAULT（默认级别）：
+#### 1. DEFAULT（默认级别）：
 
 - 如果没有指定事务级别，默认使用数据库的默认事务级别。通常情况下，这是数据库的默认隔离级别，例如，在大多数数据库中，默认是 READ COMMITTED。
 
-READ_UNCOMMITTED（读未提交）：
+#### READ_UNCOMMITTED（读未提交）：
 
 - 允许事务读取其他事务未提交的更改。这可能导致"脏读"、"不可重复读"和"幻读"的问题。
 
 @Transactional(isolation = Isolation.READ_UNCOMMITTED) public void someTransactionalMethod() { // 事务逻辑 }
 
-READ_COMMITTED（读已提交）：
+#### READ_COMMITTED（读已提交）：
 
 - 允许事务读取其他已提交事务的更改，但防止"脏读"。这是大多数数据库的默认隔离级别。
 
@@ -75,25 +75,33 @@ READ_COMMITTED
 - 当在 Spring 中指定事务隔离级别时，Spring 会将这个级别传递给底层的数据库连接，要求数据库以相应的级别执行事务。
 - 数据库连接驱动程序将负责确保事务隔离级别得到正确设置。
 
-脏读
+#### 脏读
 
 脏读（Dirty Read）是指在一个事务中读取了另一个事务中未提交的数据。当一个事务修改了数据，而这个修改尚未提交，另一个事务读取了这个未提交的数据，就发生了脏读。脏读可能导致读取到无效或不一致的数据，因为尚未提交的修改可能最终会被回滚。
 
--- Session 1 START TRANSACTION; UPDATE accounts SET balance = balance - 100 WHERE account_id = 123; -- Session 2 (脏读) SELECT balance FROM accounts WHERE account_id = 123; -- 可能读取到未提交的更改 balance - 100 COMMIT; -- 或 ROLLBACK
+-- Session 1 START TRANSACTION; 
+UPDATE accounts SET balance = balance - 100 WHERE account_id = 123; 
+-- Session 2 (脏读) SELECT balance FROM accounts WHERE account_id = 123; -- 可能读取到未提交的更改 balance - 100 COMMIT; -- 或 ROLLBACK
 
 不可重复读
 
 不可重复读（Non-repeatable Read）是指在一个事务中，由于其他事务的修改，同一查询操作可能返回不同的结果。这种情况发生在两次相同的查询之间，因为在这两次查询之间，其他事务可能对数据进行了修改并提交。
 
--- Session 1 START TRANSACTION; SELECT * FROM products WHERE product_id = 1; -- Session 2 START TRANSACTION; UPDATE products SET price = price + 10 WHERE product_id = 1; COMMIT; -- Session 1 (不可重复读) SELECT * FROM products WHERE product_id = 1; -- 返回的结果与上一次查询不同 COMMIT;
+-- Session 1 START TRANSACTION; 
+SELECT * FROM products WHERE product_id = 1; 
+-- Session 2 START TRANSACTION; 
+UPDATE products SET price = price + 10 WHERE product_id = 1; COMMIT; -- Session 1 (不可重复读) SELECT * FROM products WHERE product_id = 1; -- 返回的结果与上一次查询不同 COMMIT;
 
 在上述例子中，Session 1 在事务中执行了两次相同的查询，但在两次查询之间，Session 2 修改了产品1的价格并提交了事务。因此，第二次查询返回的结果与第一次查询不同，导致了不可重复读的问题。
 
-幻读
+### 幻读
 
 幻读（Phantom Read）是指在一个事务中，由于其他事务的插入或删除操作，同一查询可能返回不同数量的记录。这与不可重复读的区别在于，幻读通常涉及到一系列记录的插入或删除，而不是单个记录的修改。
 
--- Session 1 START TRANSACTION; SELECT * FROM products WHERE category = 'Electronics'; -- Session 2 START TRANSACTION; INSERT INTO products (name, category) VALUES ('Smartphone', 'Electronics'); COMMIT; -- Session 1 (幻读) SELECT * FROM products WHERE category = 'Electronics'; -- 返回的结果中多了一条记录 COMMIT;
+-- Session 1 START TRANSACTION; 
+SELECT * FROM products WHERE category = 'Electronics'; 
+-- Session 2 START TRANSACTION; INSERT INTO products (name, category) VALUES ('Smartphone', 'Electronics'); COMMIT; 
+-- Session 1 (幻读) SELECT * FROM products WHERE category = 'Electronics'; -- 返回的结果中多了一条记录 COMMIT;
 
 在上述例子中，Session 1 在事务中执行了两次相同的查询，但在两次查询之间，Session 2 插入了一个新的电子产品记录并提交了事务。因此，第二次查询返回的结果中多了一条记录，导致了幻读的问题。
 

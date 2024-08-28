@@ -8,7 +8,7 @@
 
 @Transactional(propagation = Propagation.SUPPORTS) public void methodB() { // 业务逻辑 }
 
-3. MANDATORY：
+#### 3. MANDATORY：
 
 @Transactional(propagation = Propagation.MANDATORY) public void methodC() { // 业务逻辑 }
 
