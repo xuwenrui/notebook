@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/数据库/mysql/blog/从数据页的角度看 B+ 树.md",
+                "file": "开发者/数据库/mysql/基础/STRAIGHT_JOIN.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/数据库/mysql/blog/从数据页的角度看 B+ 树.md",
+                "file": "开发者/数据库/mysql/基础/STRAIGHT_JOIN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/数据库/mysql/blog/从数据页的角度看 B+ 树.md",
+                "file": "开发者/数据库/mysql/基础/STRAIGHT_JOIN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/数据库/mysql/blog/从数据页的角度看 B+ 树.md"
+                "file": "开发者/数据库/mysql/基础/STRAIGHT_JOIN.md"
               }
             }
           }
@@ -149,12 +149,17 @@
   },
   "active": "2b9c1b578914168b",
   "lastOpenFiles": [
+    "开发者/数据库/mysql/面试/MySQL 的 binlog 日志是什么？.md",
+    "开发者/数据库/mysql/基础/STRAIGHT_JOIN.md",
+    "开发者/数据库/mysql/基础",
+    "开发者/数据库/mysql/面试/MySQL 的 InnoDB 存储引擎的 MVCC 原理是什么？.md",
+    "开发者/数据库/mysql/blog/从数据页的角度看 B+ 树.md",
+    "开发者/数据库/mysql/面试",
     "Pasted image 20240828095832.png",
     "Pasted image 20240828095813.png",
     "Pasted image 20240828095716.png",
     "Pasted image 20240828095620.png",
     "开发者/java/基础/高并发编程/2.原子类型.md",
-    "开发者/数据库/mysql/blog/从数据页的角度看 B+ 树.md",
     "开发者/数据库/mysql/blog",
     "开发者/数据库/mysql",
     "开发者/java/spring/2.springboot/深入浅出 springboot3/8.异步消息——RabbitMQ.md",
@@ -165,7 +170,6 @@
     "Pasted image 20240827203418.png",
     "Pasted image 20240827203333.png",
     "Pasted image 20240827203201.png",
-    "Pasted image 20240827203044.png",
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/5.watch.md",
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/4.computed.md",
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/3.ref，reactive.md",
@@ -188,13 +192,9 @@
     "开发者/web/工具/参考/1.图.md",
     "开发者/java/面试",
     "bbraun/开发者/web/gatsbyjs.md",
-    "obidian/obsidian同步方案.md",
-    "obidian/1.基本使用.md",
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法",
     "开发者/web/vue/Vue3从入门到精通",
     "开发者/java/spring/2.springboot/深入浅出 springboot3",
-    "开发者/java/spring/1.spring基础/面试",
-    "开发者/web/移动端/h5",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
