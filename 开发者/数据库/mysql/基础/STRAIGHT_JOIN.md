@@ -11,13 +11,9 @@ STRAIGHT_JOIN 是 MySQL 中的一种连接类型，用于强制连接顺序。�
 
 语法：
 
-SQL
-
+```sql
 SELECT * FROM table1 STRAIGHT_JOIN table2 ON table1.column = table2.column;
-
-请[谨慎使用](https://gemini.google.com/faq#coding)代码。
-
-content_copy
+```
 
 使用场景：
 
