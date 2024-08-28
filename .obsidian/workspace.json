@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/基础/内存/1.工具.md",
+                "file": "开发者/java/spring/2.springboot/深入浅出 springboot3/8.异步消息——RabbitMQ.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/基础/内存/1.工具.md",
+                "file": "开发者/java/spring/2.springboot/深入浅出 springboot3/8.异步消息——RabbitMQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/基础/内存/1.工具.md",
+                "file": "开发者/java/spring/2.springboot/深入浅出 springboot3/8.异步消息——RabbitMQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/基础/内存/1.工具.md"
+                "file": "开发者/java/spring/2.springboot/深入浅出 springboot3/8.异步消息——RabbitMQ.md"
               }
             }
           }
@@ -149,8 +149,12 @@
   },
   "active": "2b9c1b578914168b",
   "lastOpenFiles": [
-    "开发者/java/面试/算法/5.链表遍历.md",
+    "开发者/java/spring/2.springboot/深入浅出 springboot3/7.异步线程池.md",
+    "开发者/java/spring/1.spring基础/面试/1.spring循环依赖问题.md",
+    "开发者/java/面试/spring/spring事务传播.md",
     "开发者/java/基础/内存/1.工具.md",
+    "开发者/java/面试/spring",
+    "开发者/java/面试/算法/5.链表遍历.md",
     "开发者/java/基础/内存",
     "开发者/java/基础/1. VisualVM未命名",
     "开发者/java/面试/如何解决死锁问题？.md",
@@ -180,16 +184,12 @@
     "开发者/数据库/mysql/基础/mysql 那些情况不走索引.md",
     "开发者/数据库/mysql/基础/执行计划.md",
     "Pasted image 20240828103626.png",
-    "开发者/数据库/mysql/基础/STRAIGHT_JOIN.md",
     "开发者/数据库/mysql/基础",
-    "开发者/数据库/mysql/面试/进阶知识/MySQL 的 InnoDB 存储引擎的 MVCC 原理是什么？.md",
     "开发者/数据库/mysql/面试",
     "Pasted image 20240828095832.png",
     "Pasted image 20240828095813.png",
     "Pasted image 20240828095716.png",
     "Pasted image 20240828095620.png",
-    "开发者/java/基础/高并发编程/2.原子类型.md",
-    "开发者/数据库/mysql/blog",
     "Pasted image 20240827204356.png",
     "Pasted image 20240827203642.png",
     "Pasted image 20240827203556.png",
