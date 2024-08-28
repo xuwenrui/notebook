@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/数据库/mysql/面试/基础知识/MySQL 的事务隔离级别有哪些？.md",
+                "file": "开发者/数据库/mysql/面试/基础知识/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/数据库/mysql/面试/基础知识/MySQL 的事务隔离级别有哪些？.md",
+                "file": "开发者/数据库/mysql/面试/基础知识/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/数据库/mysql/面试/基础知识/MySQL 的事务隔离级别有哪些？.md",
+                "file": "开发者/数据库/mysql/面试/基础知识/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/数据库/mysql/面试/基础知识/MySQL 的事务隔离级别有哪些？.md"
+                "file": "开发者/数据库/mysql/面试/基础知识/未命名.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "2b9c1b578914168b",
   "lastOpenFiles": [
-    "开发者/数据库/mysql/面试/MySQL 的 binlog 日志是什么？.md",
     "开发者/数据库/mysql/面试/基础知识/MySQL 的事务隔离级别有哪些？.md",
+    "开发者/数据库/mysql/面试/基础知识/未命名.md",
+    "开发者/数据库/mysql/面试/MySQL 的 binlog 日志是什么？.md",
     "开发者/数据库/mysql/面试/基础知识",
     "开发者/数据库/mysql/基础/MVCC.md",
     "开发者/数据库/mysql/基础/为什么不建议存NULL.md",
@@ -189,7 +190,6 @@
     "开发者/web/vue/Vue3从入门到精通/2.vu3核心语法/5.1 watchEffect.md",
     "开发者/web/react 1/React组件的数据.md",
     "开发者/web/react 1/1.环境.md",
-    "开发者/java/基础/高并发编程/1.JMH.md",
     "开发者/java/基础/高并发编程",
     "开发者/java/未命名",
     "开发者/java/面试",
