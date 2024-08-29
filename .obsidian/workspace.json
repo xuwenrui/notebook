@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/数据库/mysql/blog/从数据页的角度看 B+ 树.md",
+                "file": "开发者/web/vue/vue3组件传值.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/数据库/mysql/blog/从数据页的角度看 B+ 树.md",
+                "file": "开发者/web/vue/vue3组件传值.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/数据库/mysql/blog/从数据页的角度看 B+ 树.md",
+                "file": "开发者/web/vue/vue3组件传值.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/数据库/mysql/blog/从数据页的角度看 B+ 树.md"
+                "file": "开发者/web/vue/vue3组件传值.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "2b9c1b578914168b",
   "lastOpenFiles": [
+    "开发者/数据库/mysql/blog/从数据页的角度看 B+ 树.md",
+    "开发者/web/vue/vue3组件传值.md",
     "开发者/java/面试/spring/mysql锁.md",
     "开发者/java/面试/spring/spring和mysql事务级别的联系.md",
     "开发者/java/面试/spring/spring事务传播.md",
@@ -177,11 +179,9 @@
     "开发者/java/面试/算法/1.冒泡排序.md",
     "开发者/java/面试/volatile.md",
     "开发者/java/面试/算法",
-    "开发者/数据库/mysql/blog/从数据页的角度看 B+ 树.md",
     "开发者/java/未命名",
     "开发者/数据库/mysql/面试/基础知识/MySQL 的事务隔离级别有哪些？.md",
     "开发者/数据库/mysql/面试/基础知识/MySQL 的锁有哪些？.md",
-    "开发者/数据库/mysql/面试/面试题.md",
     "开发者/数据库/mysql/面试/进阶知识",
     "开发者/数据库/mysql/面试/基础知识",
     "Pasted image 20240828103626.png",
