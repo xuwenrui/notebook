@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/spring/2.springboot/深入浅出 springboot3/1.IOC.md",
+                "file": "开发者/java/面试/基础/synchronized原理.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/spring/2.springboot/深入浅出 springboot3/1.IOC.md",
+                "file": "开发者/java/面试/基础/synchronized原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/spring/2.springboot/深入浅出 springboot3/1.IOC.md",
+                "file": "开发者/java/面试/基础/synchronized原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/spring/2.springboot/深入浅出 springboot3/1.IOC.md"
+                "file": "开发者/java/面试/基础/synchronized原理.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "2b9c1b578914168b",
   "lastOpenFiles": [
-    "开发者/java/spring/2.springboot/深入浅出 springboot3/2.aop.md",
     "开发者/java/spring/2.springboot/深入浅出 springboot3/1.IOC.md",
+    "开发者/java/面试/基础/synchronized原理.md",
+    "开发者/java/面试/基础",
+    "开发者/java/spring/2.springboot/深入浅出 springboot3/2.aop.md",
     "开发者/java/spring/2.springboot/深入浅出 springboot3/5.数据库事务处理.md",
     "开发者/java/spring/2.springboot/深入浅出 springboot3/4.整合MyBatis框架.md",
     "开发者/java/spring/2.springboot/深入浅出 springboot3/3.访问数据库.md",
@@ -181,10 +183,8 @@
     "开发者/java/面试/算法/5.链表遍历.md",
     "开发者/java/基础/内存",
     "开发者/java/基础/1. VisualVM未命名",
-    "开发者/java/面试/如何解决死锁问题？.md",
     "开发者/java/基础/集合",
     "开发者/java/面试/算法",
-    "开发者/java/未命名",
     "Pasted image 20240828103626.png",
     "Pasted image 20240828095832.png",
     "Pasted image 20240828095813.png",
