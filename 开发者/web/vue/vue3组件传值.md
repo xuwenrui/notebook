@@ -6,7 +6,7 @@
 
 假设我们有一个父组件 `Parent.vue` 和一个子组件 `Child.vue`。
 
-```html
+```vue
 1<template>
 2  <div>
 3    <h1>{{ message }}</h1>
@@ -23,11 +23,7 @@
 
 **Child.vue**
 
-vue
-
-深色版本
-
-```
+``` vue
 1<template>
 2  <div>
 3    <p>{{ message }}</p>
@@ -44,16 +40,9 @@ vue
 ### 2. 子组件向父组件传递数据（事件）
 
 子组件可以通过触发事件的方式将数据传递给父组件，父组件监听这些事件并做出相应的处理。
-
-#### 示例代码
-
 **Parent.vue**
 
-vue
-
-深色版本
-
-```
+```vue
 1<template>
 2  <div>
 3    <child-component @updateMessage="handleUpdate" />
@@ -74,12 +63,7 @@ vue
 ```
 
 **Child.vue**
-
-vue
-
-深色版本
-
-```
+```vue 
 1<template>
 2  <div>
 3    <input v-model="newMessage" @input="emitUpdate">
@@ -101,14 +85,7 @@ vue
 ### 3. 兄弟组件间通信（通过父组件）
 
 兄弟组件之间可以直接通过父组件作为中介来通信。
-
-#### 示例代码
-
 **Parent.vue**
-
-vue
-
-深色版本
 
 ```
 1<template>
@@ -132,10 +109,6 @@ vue
 ```
 
 **SiblingA.vue**
-
-vue
-
-深色版本
 
 ```
 1<template>
@@ -181,14 +154,8 @@ vue
 对于更复杂的应用，可以使用 Vuex 进行全局的状态管理。
 
 #### 示例代码
-
 **store.js**
-
-javascript
-
-深色版本
-
-```
+```js
 1import { createStore } from 'vuex';
 2
 3const store = createStore({
@@ -212,10 +179,6 @@ javascript
 
 **main.js**
 
-javascript
-
-深色版本
-
 ```
 1import { createApp } from 'vue';
 2import App from './App.vue';
@@ -225,10 +188,6 @@ javascript
 ```
 
 **App.vue**
-
-vue
-
-深色版本
 
 ```
 1<template>
@@ -248,7 +207,7 @@ vue
 
 深色版本
 
-```
+```vue
 1<template>
 2  <div>
 3    <button @click="updateMessage">Change Message</button>
@@ -278,10 +237,6 @@ vue
 
 **eventBus.js**
 
-javascript
-
-深色版本
-
 ```
 1import { createApp } from 'vue';
 2
@@ -292,11 +247,8 @@ javascript
 
 **Parent.vue**
 
-vue
 
-深色版本
-
-```
+```vue
 1<template>
 2  <div>
 3    <child-a @shareData="handleShareData" />
@@ -322,9 +274,6 @@ vue
 
 **ChildA.vue**
 
-vue
-
-深色版本
 
 ```
 1<template>
