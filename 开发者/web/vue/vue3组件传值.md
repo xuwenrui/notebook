@@ -87,7 +87,7 @@
 兄弟组件之间可以直接通过父组件作为中介来通信。
 **Parent.vue**
 
-```
+```vue
 1<template>
 2  <div>
 3    <sibling-a @shareData="handleShareData" />
