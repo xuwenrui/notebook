@@ -158,3 +158,77 @@ new Thread(() -> {
 }).start();
 ```
 在这个示例中，increment 方法使用 synchronized (this) 显式锁定当前对象实例，而 staticIncrement 方法使用 synchronized (MyClass.class) 显式锁定类的 Class 对象。
+
+
+### 成员变量作为锁
+如果使用类的成员变量作为锁对象，并且每次调用类方法时都获取的是同一个成员变量的引用，那么并不会每次都创建新的对象锁。相反，成员变量的引用指向的是同一个对象实例，因此所有的同步操作都会竞争同一个锁。
+```java
+public class MyClass {
+    private int count = 0;
+    private final Object lock = new Object();  // 成员变量作为锁
+
+    public void increment() {
+        synchronized (lock) {  // 使用成员变量作为锁
+            count++;
+        }
+    }
+
+    public int getCount() {
+        synchronized (lock) {  // 使用相同的锁
+            return count;
+        }
+    }
+}
+
+// 创建一个对象实例
+MyClass obj = new MyClass();
+
+// 两个线程分别访问同一个对象实例
+new Thread(() -> {
+    for (int i = 0; i < 1000; i++) {
+        obj.increment();
+    }
+}).start();
+
+new Thread(() -> {
+    for (int i = 0; i < 1000; i++) {
+        obj.increment();
+    }
+}).start();
+```
+
+在这个示例中，`MyClass` 类中的 `lock` 是一个成员变量，并且在 `increment` 方法和 `getCount` 方法中都被用作锁对象。因此，两个线程在调用 `increment` 方法时，会竞争同一个锁。
+
+### 静态方法上的锁
+当在静态方法上使用 `synchronized` 关键字时，锁定的是类的 `Class` 对象。这意味着所有调用该类的静态同步方法的线程都会竞争同一个锁。但是，静态方法上的 `synchronized` 锁并不会影响类的非静态方法或者实例方法上的锁。
+
+当一个静态方法被 `synchronized` 修饰时，它锁定的是类的 `Class` 对象。这意味着所有对该类的静态同步方法的调用都会受到同一个锁的影响。具体来说：
+
+- 如果多个线程同时调用同一个类的不同静态同步方法，它们会排队等待。
+- 如果一个线程正在执行某个静态同步方法，其他线程将无法执行同一个类的其他静态同步方法，直到当前线程释放锁。
+```java
+public class MyClass {
+    private static int staticCount = 0;
+    private int instanceCount = 0;
+
+    // 静态同步方法
+    public static synchronized void staticIncrement() {
+        staticCount++;
+    }
+
+    // 实例同步方法
+    public synchronized void increment() {
+        instanceCount++;
+    }
+
+    // 获取静态计数器的值
+    public static int getStaticCount() {
+        return staticCount;
+    }
+
+    // 获取实例计数器的值
+    public int getInstanceCount() {
+        return instanceCount;
+    }
+}
+```
