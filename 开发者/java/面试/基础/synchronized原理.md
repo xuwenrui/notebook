@@ -92,13 +92,69 @@ java
 
 
 ### 对象锁 vs 类锁
-
 #### 3.1 锁的作用范围
 
 - **对象锁**：作用于特定的对象实例，多个线程可以同时访问不同对象实例的同步方法或同步代码块。
 - **类锁**：作用于整个类的所有实例，多个线程不能同时访问同一个类的静态同步方法或静态同步代码块。
-
 #### 3.2 并发访问的粒度
-
 - **对象锁**：具有更高的并发度，因为多个线程可以同时访问不同的对象实例。
 - **类锁**：并发度较低，因为所有线程都需要竞争同一个锁。
+
+
+### 普通方法上的 `synchronized`
+当在普通方法上使用 `synchronized` 时，锁的作用域是当前对象实例。这意味着，如果有多个线程同时访问不同实例的方法，这些线程可以并发地执行这些方法，因为它们锁定的是不同的对象实例。
+```java
+public class MyClass {
+    private int count = 0;
+
+    // 使用 synchronized 修饰符的普通方法
+    public synchronized void increment() {
+        count++;
+    }
+}
+
+// 创建两个不同的对象实例
+MyClass obj1 = new MyClass();
+MyClass obj2 = new MyClass();
+
+// 两个线程分别访问不同的对象实例
+new Thread(() -> {
+    for (int i = 0; i < 1000; i++) {
+        obj1.increment();
+    }
+}).start();
+
+new Thread(() -> {
+    for (int i = 0; i < 1000; i++) {
+        obj2.increment();
+    }
+}).start();
+```
+在这个示例中，increment 方法是一个同步方法，它锁定的是当前对象实例 obj1 和 obj2。因此，两个线程可以并发地执行 obj1.increment() 和 obj2.increment()，因为它们锁定的是不同的对象实例。
+
+### 静态方法上的 `synchronized`
+当在静态方法上使用 synchronized 时，锁的作用域是类的 Class 对象。这意味着，如果有多个线程同时访问同一个类的不同静态方法，这些线程必须排队等待，因为它们锁定的是同一个类的 Class 对象。
+```java
+public class MyClass {
+    private static int count = 0;
+
+    // 使用 synchronized 修饰符的静态方法
+    public static synchronized void increment() {
+        count++;
+    }
+}
+
+// 调用静态方法
+new Thread(() -> {
+    for (int i = 0; i < 1000; i++) {
+        MyClass.increment();
+    }
+}).start();
+
+new Thread(() -> {
+    for (int i = 0; i < 1000; i++) {
+        MyClass.increment();
+    }
+}).start();
+```
+在这个示例中，increment 方法使用 synchronized (this) 显式锁定当前对象实例，而 staticIncrement 方法使用 synchronized (MyClass.class) 显式锁定类的 Class 对象。
