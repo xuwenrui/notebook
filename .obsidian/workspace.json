@@ -149,8 +149,9 @@
   },
   "active": "2b9c1b578914168b",
   "lastOpenFiles": [
-    "开发者/java/面试/基础/CAS.md",
+    "开发者/java/面试/基础/list.md",
     "开发者/java/面试/基础/HashMap.md",
+    "开发者/java/面试/基础/CAS.md",
     "开发者/java/面试/基础/synchronized原理.md",
     "开发者/java/spring/2.springboot/深入浅出 springboot3/1.IOC.md",
     "开发者/java/面试/基础",
@@ -179,7 +180,6 @@
     "开发者/java/基础/线程",
     "开发者/java/spring/2.springboot/深入浅出 springboot3/8.异步消息——RabbitMQ.md",
     "开发者/java/spring/2.springboot/深入浅出 springboot3/7.异步线程池.md",
-    "开发者/java/spring/2.springboot/深入浅出 springboot3/6.使用性能利器——Redis.md",
     "开发者/java/面试/spring",
     "开发者/java/基础/内存",
     "开发者/java/基础/1. VisualVM未命名",
