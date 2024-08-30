@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/面试/算法/2.字符串反转.md",
+                "file": "开发者/web/vue/vue3组件传值.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/面试/算法/2.字符串反转.md",
+                "file": "开发者/web/vue/vue3组件传值.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/面试/算法/2.字符串反转.md",
+                "file": "开发者/web/vue/vue3组件传值.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/面试/算法/2.字符串反转.md"
+                "file": "开发者/web/vue/vue3组件传值.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "2b9c1b578914168b",
   "lastOpenFiles": [
+    "开发者/web/vue/Vue3从入门到精通/1.介绍.md",
+    "开发者/java/面试/算法/2.字符串反转.md",
     "开发者/java/面试/基础/HashMap.md",
     "开发者/java/面试/基础/list.md",
     "开发者/java/面试/基础/CAS.md",
@@ -178,8 +180,6 @@
     "开发者/java/基础/线程/2.四种线程池创建.md",
     "开发者/java/基础/线程/1.线程池创建.md",
     "开发者/java/基础/线程",
-    "开发者/java/spring/2.springboot/深入浅出 springboot3/8.异步消息——RabbitMQ.md",
-    "开发者/java/spring/2.springboot/深入浅出 springboot3/7.异步线程池.md",
     "开发者/java/面试/spring",
     "开发者/java/基础/内存",
     "开发者/java/基础/1. VisualVM未命名",

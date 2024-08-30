@@ -2,7 +2,6 @@
 
 这是最常见的组件间通信方式之一，通过 props 将父组件的数据传递给子组件。
 
-#### 示例代码
 
 假设我们有一个父组件 `Parent.vue` 和一个子组件 `Child.vue`。
 
@@ -24,14 +23,14 @@
 **Child.vue**
 
 ``` vue
-1<template>
-2  <div>
-3    <p>{{ message }}</p>
-4  </div>
-5</template>
-6
-7<script setup>
-8defineProps({
+<template>
+  <div>
+    <p>{{ message }}</p>
+  </div>
+</template>
+
+<script setup>
+defineProps({
 9  message: String,
 10});
 11</script>
