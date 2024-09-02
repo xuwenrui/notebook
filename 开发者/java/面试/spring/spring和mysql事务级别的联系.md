@@ -86,15 +86,17 @@ UPDATE accounts SET balance = balance - 100 WHERE account_id = 123;
 
 不可重复读（Non-repeatable Read）是指在一个事务中，由于其他事务的修改，同一查询操作可能返回不同的结果。这种情况发生在两次相同的查询之间，因为在这两次查询之间，其他事务可能对数据进行了修改并提交。
 
+
+``` sql
 -- Session 1 START TRANSACTION; 
 SELECT * FROM products WHERE product_id = 1; 
 -- Session 2 START TRANSACTION; 
-UPDATE products SET price = price + 10 WHERE product_id = 1; COMMIT; -- Session 1 (不可重复读) SELECT * FROM products WHERE product_id = 1; -- 返回的结果与上一次查询不同 COMMIT;
-
+UPDATE products SET price = price + 10 WHERE product_id = 1; COMMIT; 
+-- Session 1 (不可重复读) SELECT * FROM products WHERE product_id = 1; -- 返回的结果与上一次查询不同 COMMIT;
+```
 在上述例子中，Session 1 在事务中执行了两次相同的查询，但在两次查询之间，Session 2 修改了产品1的价格并提交了事务。因此，第二次查询返回的结果与第一次查询不同，导致了不可重复读的问题。
 
 ### 幻读
-
 幻读（Phantom Read）是指在一个事务中，由于其他事务的插入或删除操作，同一查询可能返回不同数量的记录。这与不可重复读的区别在于，幻读通常涉及到一系列记录的插入或删除，而不是单个记录的修改。
 
 -- Session 1 START TRANSACTION; 
