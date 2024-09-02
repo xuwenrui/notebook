@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/面试/如何解决死锁问题？.md",
+                "file": "开发者/java/面试/spring/spring和mysql事务级别的联系.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/面试/如何解决死锁问题？.md",
+                "file": "开发者/java/面试/spring/spring和mysql事务级别的联系.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/面试/如何解决死锁问题？.md",
+                "file": "开发者/java/面试/spring/spring和mysql事务级别的联系.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/面试/如何解决死锁问题？.md"
+                "file": "开发者/java/面试/spring/spring和mysql事务级别的联系.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "2b9c1b578914168b",
   "lastOpenFiles": [
-    "开发者/java/面试/单例模式.md",
     "开发者/java/面试/如何解决死锁问题？.md",
+    "开发者/java/面试/单例模式.md",
     "开发者/java/面试/spring/spring和mysql事务级别的联系.md",
     "开发者/java/面试/spring/spring事务传播.md",
     "开发者/java/面试/spring/AOP.md",
