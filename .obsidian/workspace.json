@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/数据库/mysql/InnoDB存储引擎/2.InnoDB存储引擎.md",
+                "file": "开发者/数据库/mysql/InnoDB存储引擎/3.表.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/数据库/mysql/InnoDB存储引擎/2.InnoDB存储引擎.md",
+                "file": "开发者/数据库/mysql/InnoDB存储引擎/3.表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/数据库/mysql/InnoDB存储引擎/2.InnoDB存储引擎.md",
+                "file": "开发者/数据库/mysql/InnoDB存储引擎/3.表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/数据库/mysql/InnoDB存储引擎/2.InnoDB存储引擎.md"
+                "file": "开发者/数据库/mysql/InnoDB存储引擎/3.表.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "2b9c1b578914168b",
   "lastOpenFiles": [
+    "开发者/数据库/mysql/InnoDB存储引擎/2.InnoDB存储引擎.md",
+    "开发者/数据库/mysql/InnoDB存储引擎/3.表.md",
     "开发者/数据库/mysql/InnoDB存储引擎/1.MySQL体系结构和存储引擎.md",
     "开发者/移动端/鸿蒙/2.环境.md",
     "开发者/移动端/鸿蒙/1.资料.md",
@@ -161,7 +163,6 @@
     "开发者/web/vue/Promise.md",
     "attachment/images/2024/08/Pasted image 20240831135737.png",
     "开发者/数据库/clickhouse/1.概念.md",
-    "开发者/数据库/mysql/InnoDB存储引擎/2.InnoDB存储引擎.md",
     "开发者/数据库/mysql/blog/从数据页的角度看 B+ 树.md",
     "attachment/images/2024/08/Pasted image 20240831135009.png",
     "attachment/images/2024/08/Pasted image 20240831133621.png",
@@ -187,7 +188,6 @@
     "开发者/java/面试/数据库/mvcc.md",
     "开发者/java/面试/数据库/mysql.md",
     "开发者/java/面试/数据库",
-    "开发者/web/vue/Vue3从入门到精通/1.介绍.md",
     "开发者/java/面试/基础",
     "开发者/java/面试/中间件/kafka",
     "开发者/java/面试/中间件",
