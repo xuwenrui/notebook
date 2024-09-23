@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/基础/高并发编程/3.Java并发包工具.md",
+                "file": "开发者/java/基础/高并发编程/4.并发容器.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/基础/高并发编程/3.Java并发包工具.md",
+                "file": "开发者/java/基础/高并发编程/4.并发容器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/基础/高并发编程/3.Java并发包工具.md",
+                "file": "开发者/java/基础/高并发编程/4.并发容器.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/基础/高并发编程/3.Java并发包工具.md"
+                "file": "开发者/java/基础/高并发编程/4.并发容器.md"
               }
             }
           }
@@ -149,6 +149,11 @@
   },
   "active": "efef2dbe8176efe4",
   "lastOpenFiles": [
+    "Pasted image 20240923140243.png",
+    "开发者/java/基础/高并发编程/3.Java并发包工具.md",
+    "开发者/java/基础/高并发编程/4.并发容器.md",
+    "Pasted image 20240923135842.png",
+    "Pasted image 20240923135507.png",
     "Pasted image 20240923135329.png",
     "Pasted image 20240923115622.png",
     "Pasted image 20240923115552.png",
@@ -157,11 +162,7 @@
     "Pasted image 20240923115252.png",
     "Pasted image 20240923115204.png",
     "Pasted image 20240923115005.png",
-    "Pasted image 20240923114858.png",
-    "Pasted image 20240923114510.png",
-    "Pasted image 20240923105203.png",
     "开发者/java/基础/高并发编程/0.资料.md",
-    "开发者/java/基础/高并发编程/3.Java并发包工具.md",
     "开发者/web/低代码/amis/1.介绍.md",
     "开发者/web/低代码/lowcode-engine/2.环境.md",
     "开发者/web/低代码/amis",
@@ -189,7 +190,6 @@
     "开发者/java/面试/如何解决死锁问题？.md",
     "开发者/java/面试/单例模式.md",
     "开发者/java/面试/spring/spring事务传播.md",
-    "开发者/java/面试/spring/AOP.md",
     "开发者/数据库/mysql/InnoDB存储引擎",
     "开发者/数据库/mysql/高性能Mysql",
     "开发者/java/面试/数据库",
