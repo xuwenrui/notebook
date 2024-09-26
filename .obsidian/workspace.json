@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c685e84a37b593b5",
+        "id": "d920ff8afee061e4",
         "type": "tabs",
         "children": [
           {
-            "id": "efef2dbe8176efe4",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20240924135438.png"
-              }
-            }
-          },
-          {
-            "id": "34eff3df6ce952c7",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20240923115252.png"
-              }
-            }
-          },
-          {
-            "id": "3bca824b35510e23",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20240923115204.png"
-              }
-            }
-          },
-          {
-            "id": "dbece294ac4eb7a2",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20240902091244.png"
-              }
-            }
-          },
-          {
-            "id": "7d58480d99e6b00d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20240912173401.png"
-              }
-            }
-          },
-          {
-            "id": "821f9361983e16e1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20240912131530.png"
-              }
-            }
-          },
-          {
-            "id": "75795bdc7930be9c",
+            "id": "e568b8dd01356e34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/工具/gradle/1.入门.md",
+                "file": "开发者/java/spring/spring官网/guides/3.LDAP目录访问协议.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/工具/gradle/1.入门.md",
+                "file": "开发者/java/spring/spring官网/guides/3.LDAP目录访问协议.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/工具/gradle/1.入门.md",
+                "file": "开发者/java/spring/spring官网/guides/3.LDAP目录访问协议.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/工具/gradle/1.入门.md"
+                "file": "开发者/java/spring/spring官网/guides/3.LDAP目录访问协议.md"
               }
             }
           }
@@ -208,24 +147,24 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "75795bdc7930be9c",
+  "active": "e568b8dd01356e34",
   "lastOpenFiles": [
-    "开发者/java/工具/gradle/2.使用.md",
+    "Pasted image 20240924135438.png",
+    "Pasted image 20240923115252.png",
+    "Pasted image 20240923115204.png",
+    "Pasted image 20240902091244.png",
+    "Pasted image 20240912173401.png",
+    "Pasted image 20240912131530.png",
     "开发者/java/工具/gradle/1.入门.md",
+    "开发者/java/工具/gradle/2.使用.md",
     "Pasted image 20240926113654.png",
     "Pasted image 20240912162547.png",
-    "Pasted image 20240912131530.png",
-    "Pasted image 20240912173401.png",
-    "Pasted image 20240902091244.png",
     "attachment/images/2024/09/Pasted image 20240902084721.png",
     "attachment/images/2024/09",
     "Pasted image 20240912131346.png",
-    "Pasted image 20240923115204.png",
     "2024-09-12.md",
     "未命名.canvas",
     "未命名 1.canvas",
-    "Pasted image 20240923115252.png",
-    "Pasted image 20240924135438.png",
     "开发者/java/spring/spring官网/guides/3.LDAP目录访问协议.md",
     "开发者/java/工具/gradle",
     "开发者/java/spring/spring官网/guides/2.表单验证.md",
@@ -256,7 +195,6 @@
     "开发者/数据库/mysql/高性能Mysql/1.基础.md",
     "开发者/java/jdk/虚拟机/0.资料.md",
     "开发者/java/jdk/1.版本说明.md",
-    "开发者/java/面试/基础/HashMap.md",
     "开发者/数据库/mysql/InnoDB存储引擎"
   ]
 }
