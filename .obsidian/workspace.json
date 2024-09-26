@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/spring/spring官网/guides/2.表单验证.md",
+                "file": "开发者/java/spring/spring官网/guides/3.LDAP目录访问协议.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/spring/spring官网/guides/2.表单验证.md",
+                "file": "开发者/java/spring/spring官网/guides/3.LDAP目录访问协议.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/spring/spring官网/guides/2.表单验证.md",
+                "file": "开发者/java/spring/spring官网/guides/3.LDAP目录访问协议.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/spring/spring官网/guides/2.表单验证.md"
+                "file": "开发者/java/spring/spring官网/guides/3.LDAP目录访问协议.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "efef2dbe8176efe4",
   "lastOpenFiles": [
-    "开发者/java/spring/spring官网/guides/1.上传文件.md",
     "开发者/java/spring/spring官网/guides/2.表单验证.md",
+    "开发者/java/spring/spring官网/guides/3.LDAP目录访问协议.md",
+    "开发者/java/apache",
+    "开发者/java/spring/spring官网/guides/1.上传文件.md",
     "开发者/java/spring/spring官网/1.介绍.md",
     "开发者/java/spring/spring官网/guides",
     "开发者/数据库/Neo4j",
@@ -192,10 +194,8 @@
     "开发者/java/面试/基础/HashMap.md",
     "开发者/java/面试/基础/list.md",
     "开发者/java/面试/基础/synchronized原理.md",
-    "开发者/移动端/鸿蒙/1.资料.md",
     "开发者/数据库/mysql/InnoDB存储引擎",
     "开发者/数据库/mysql/高性能Mysql",
-    "开发者/java/面试/数据库",
-    "开发者/java/面试/基础"
+    "开发者/java/面试/数据库"
   ]
 }
