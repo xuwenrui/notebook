@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/spring/spring官网/guides/5.websocket.md",
+                "file": "开发者/java/工具/netty/netty权威指南/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/spring/spring官网/guides/5.websocket.md",
+                "file": "开发者/java/工具/netty/netty权威指南/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/spring/spring官网/guides/5.websocket.md",
+                "file": "开发者/java/工具/netty/netty权威指南/未命名.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/spring/spring官网/guides/5.websocket.md"
+                "file": "开发者/java/工具/netty/netty权威指南/未命名.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "a4ec47e66d3ef3a5",
   "lastOpenFiles": [
-    "开发者/java/基础/高并发编程/7.Metrics.md",
     "开发者/java/spring/spring官网/guides/5.websocket.md",
+    "开发者/java/工具/netty/netty权威指南/未命名.md",
+    "开发者/java/工具/netty/netty权威指南",
+    "开发者/java/工具/netty",
+    "开发者/java/基础/高并发编程/7.Metrics.md",
     "Pasted image 20240929120930.png",
     "Pasted image 20240929115932.png",
     "Pasted image 20240929115457.png",
@@ -188,14 +191,11 @@
     "开发者/web/低代码/lowcode-engine/1.介绍.md",
     "开发者/web/工具/nvm/2.npm.md",
     "开发者/web/低代码/lowcode-engine",
-    "开发者/web/低代码",
     "开发者/web/工具/nvm/1.nvm使用.md",
     "开发者/移动端/鸿蒙/2.环境.md",
     "开发者/java/基础/线程/2.四种线程池创建.md",
     "开发者/java/基础/高并发编程/2.原子类型.md",
     "开发者/java/基础/高并发编程/1.JMH.md",
-    "开发者/java/jdk/jdk特性/java8/1.lambada表达式.md",
-    "开发者/数据库/mysql/高性能Mysql/1.基础.md",
-    "开发者/数据库/mysql/InnoDB存储引擎"
+    "开发者/java/jdk/jdk特性/java8/1.lambada表达式.md"
   ]
 }
