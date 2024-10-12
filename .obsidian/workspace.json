@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/工具/netty/netty权威指南/4.TCP粘包拆包问题的解决之道.md",
+                "file": "英语/学习方法/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/java/工具/netty/netty权威指南/4.TCP粘包拆包问题的解决之道.md",
+                "file": "英语/学习方法/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/java/工具/netty/netty权威指南/4.TCP粘包拆包问题的解决之道.md",
+                "file": "英语/学习方法/未命名.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/java/工具/netty/netty权威指南/4.TCP粘包拆包问题的解决之道.md"
+                "file": "英语/学习方法/未命名.md"
               }
             }
           }
@@ -149,10 +149,14 @@
   },
   "active": "a4ec47e66d3ef3a5",
   "lastOpenFiles": [
+    "Pasted image 20241012102250.png",
+    "开发者/java/工具/netty/netty权威指南/4.TCP粘包拆包问题的解决之道.md",
+    "英语/学习方法/未命名.md",
+    "英语/学习方法",
+    "英语",
     "Pasted image 20241008120123.png",
     "Pasted image 20241008115544.png",
     "开发者/java/工具/netty/netty权威指南/3.Netty入门应用.md",
-    "开发者/java/工具/netty/netty权威指南/4.TCP粘包拆包问题的解决之道.md",
     "开发者/java/工具/netty/netty权威指南/2.NIO入门.md",
     "Pasted image 20240930120711.png",
     "Pasted image 20240930115602.png",
@@ -162,7 +166,6 @@
     "Pasted image 20240930111404.png",
     "Pasted image 20240930111046.png",
     "Pasted image 20240930103647.png",
-    "Pasted image 20240930103619.png",
     "开发者/java/工具/netty/netty权威指南/1.走进NIO.md",
     "开发者/java/spring/spring官网/guides/5.websocket.md",
     "开发者/java/工具/netty/netty权威指南",
@@ -191,11 +194,8 @@
     "开发者/java/基础/高并发编程/0.资料.md",
     "开发者/web/低代码/amis/1.介绍.md",
     "开发者/web/低代码/lowcode-engine/2.环境.md",
-    "开发者/web/低代码/amis",
     "开发者/web/低代码/lowcode-engine/1.介绍.md",
     "开发者/web/工具/nvm/2.npm.md",
-    "开发者/web/低代码/lowcode-engine",
-    "开发者/web/工具/nvm/1.nvm使用.md",
-    "开发者/移动端/鸿蒙/2.环境.md"
+    "开发者/web/工具/nvm/1.nvm使用.md"
   ]
 }
