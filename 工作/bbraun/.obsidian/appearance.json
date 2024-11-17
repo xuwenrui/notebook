@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Obsidian Nord",
+  "enabledCssSnippets": [
+    "page-width"
+  ],
+  "textFontFamily": "Courier New",
+  "interfaceFontFamily": "Courier New",
+  "monospaceFontFamily": "Courier New",
+  "theme": "obsidian"
+}

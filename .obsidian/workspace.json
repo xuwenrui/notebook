@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "34851b40502f9793",
+        "id": "a7a9f2cfbabeeda6",
         "type": "tabs",
         "children": [
           {
-            "id": "a4ec47e66d3ef3a5",
+            "id": "aedbdc06c65e33d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语/学习方法/未命名.md",
+                "file": "开发者/web/react 1/1.环境.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "英语/学习方法/未命名.md",
+                "file": "开发者/web/react 1/1.环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "英语/学习方法/未命名.md",
+                "file": "开发者/web/react 1/1.环境.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英语/学习方法/未命名.md"
+                "file": "开发者/web/react 1/1.环境.md"
               }
             }
           }
@@ -147,55 +147,57 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "a4ec47e66d3ef3a5",
+  "active": "aedbdc06c65e33d5",
   "lastOpenFiles": [
-    "Pasted image 20241012102250.png",
-    "开发者/java/工具/netty/netty权威指南/4.TCP粘包拆包问题的解决之道.md",
+    "开发者/web/react 1/React组件的数据.md",
+    "开发者/web/react 1/1.环境.md",
+    "开发者/web/react/入门/1.入门.md",
+    "开发者/web/react/入门/9.Redux.md",
+    "开发者/web/react/入门",
+    "开发者/web/react/入门/7.useEffect.md",
+    "开发者/web/react/入门/4.样式处理.md",
+    "开发者/web/react/入门/2.jsx.md",
+    "attachment/images/2024/09/Pasted image 20240927154940.png",
     "英语/学习方法/未命名.md",
-    "英语/学习方法",
-    "英语",
-    "Pasted image 20241008120123.png",
-    "Pasted image 20241008115544.png",
-    "开发者/java/工具/netty/netty权威指南/3.Netty入门应用.md",
-    "开发者/java/工具/netty/netty权威指南/2.NIO入门.md",
-    "Pasted image 20240930120711.png",
-    "Pasted image 20240930115602.png",
-    "Pasted image 20240930113135.png",
-    "Pasted image 20240930111644.png",
-    "Pasted image 20240930111450.png",
-    "Pasted image 20240930111404.png",
-    "Pasted image 20240930111046.png",
-    "Pasted image 20240930103647.png",
-    "开发者/java/工具/netty/netty权威指南/1.走进NIO.md",
-    "开发者/java/spring/spring官网/guides/5.websocket.md",
-    "开发者/java/工具/netty/netty权威指南",
-    "开发者/java/工具/netty",
-    "开发者/java/基础/高并发编程/7.Metrics.md",
-    "开发者/java/基础/高并发编程/6.stream并发.md",
-    "开发者/java/基础/高并发编程/4.并发容器.md",
-    "开发者/java/基础/高并发编程/5.线程池.md",
-    "开发者/java/spring/spring官网/guides/4.oath2.0.md",
-    "开发者/java/工具/gradle/2.使用.md",
-    "开发者/java/spring/spring官网/guides/3.LDAP目录访问协议.md",
-    "开发者/java/工具/gradle/1.入门.md",
-    "attachment/images/2024/09",
-    "2024-09-12.md",
+    "工作/bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/1.IOC.md",
+    "工作/bbraun/开发者/java/spring/1.spring基础/面试/1.spring循环依赖问题.md",
+    "工作/bbraun/开发者/web/移动端/Android/3.gradle.md",
+    "工作/bbraun/开发者/web/移动端/Android/2.环境.md",
+    "工作/bbraun/开发者/web/移动端/Android/1.资料.md",
+    "工作/bbraun/开发者/web/移动端/h5/1.资料.md",
+    "工作/bbraun/开发者/web/css/标签/2.多个背景.md",
+    "工作/bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3",
+    "工作/bbraun/开发者/java/spring/1.spring基础/面试",
+    "工作/bbraun/开发者/运维/kubernetes/2.kubectl命令.md",
+    "工作/bbraun/开发者/运维/kubernetes/1.环境.md",
+    "工作/bbraun/开发者/数据库/clickhouse/2.安装.md",
+    "工作/bbraun/开发者/数据库/clickhouse/1.概念.md",
+    "工作/bbraun/开发者/web/移动端/Android",
+    "工作/bbraun/开发者/web/移动端/h5",
+    "工作/bbraun/开发者/web/vue/框架.md",
+    "工作/bbraun/开发者/web/vue/devtools.md",
+    "工作/bbraun/开发者/web/react/React组件的数据.md",
+    "工作/bbraun/开发者/web/react/1.环境.md",
+    "工作/bbraun/开发者/web/css/标签",
+    "工作/bbraun/开发者/web/css/2.选择器.md",
+    "工作/bbraun/开发者/java/认证方式/3.RAS签名.md",
+    "工作/bbraun/开发者/java/认证方式/4.不超过64位非对称加密.md",
+    "工作/bbraun/开发者/java/spring/2.springboot",
+    "工作/bbraun/开发者/java/spring/1.spring基础",
+    "工作/bbraun/开发者/运维/kubernetes",
+    "工作/bbraun/开发者/数据库/clickhouse",
+    "工作/bbraun/未命名.canvas",
+    "工作/bbraun/Pasted image 20240826095755.png",
+    "工作/bbraun/Pasted image 20240814094542.png",
+    "工作/bbraun/Pasted image 20240704093600.png",
+    "工作/bb/未命名.canvas",
+    "工作/bb/Pasted image 20240826095755.png",
+    "工作/bb/Pasted image 20240814094542.png",
+    "工作/bb/Pasted image 20240704093600.png",
+    "attachment/images/2024/09/Pasted image 20241012102250.png",
+    "attachment/images/2024/09/Pasted image 20241008120123.png",
+    "attachment/images/2024/09/Pasted image 20241008115544.png",
     "未命名.canvas",
-    "未命名 1.canvas",
-    "开发者/java/工具/gradle",
-    "开发者/java/spring/spring官网/guides/2.表单验证.md",
-    "开发者/java/apache",
-    "开发者/java/spring/spring官网/guides/1.上传文件.md",
-    "开发者/java/spring/spring官网/1.介绍.md",
-    "开发者/java/spring/spring官网/guides",
-    "开发者/数据库/Neo4j",
-    "开发者/java/spring/spring官网",
-    "开发者/java/基础/高并发编程/3.Java并发包工具.md",
-    "开发者/java/基础/高并发编程/0.资料.md",
-    "开发者/web/低代码/amis/1.介绍.md",
-    "开发者/web/低代码/lowcode-engine/2.环境.md",
-    "开发者/web/低代码/lowcode-engine/1.介绍.md",
-    "开发者/web/工具/nvm/2.npm.md",
-    "开发者/web/工具/nvm/1.nvm使用.md"
+    "未命名 1.canvas"
   ]
 }

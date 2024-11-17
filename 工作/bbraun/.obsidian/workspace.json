@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "e9f7067718b4093d",
+    "type": "split",
+    "children": [
+      {
+        "id": "af28bc39180f9bfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47912b73340f9476",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开发者/web/移动端/Android/1.资料.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a366135657152b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "488b457a113c70f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e42c24fdfb59b2d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "34d63d55c3805162",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aebec8ffa8196d5a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 336.5
+  },
+  "right": {
+    "id": "510a8ef2c5e37b81",
+    "type": "split",
+    "children": [
+      {
+        "id": "53e52fa1470985e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cce24b29243529f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "开发者/web/移动端/Android/1.资料.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b7c793051f02b36",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "开发者/web/移动端/Android/1.资料.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d07de3ec8becf60",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d9d32fb9c581173e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "开发者/web/移动端/Android/1.资料.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "47912b73340f9476",
+  "lastOpenFiles": [
+    "开发者/web/移动端/Android/2.环境.md",
+    "开发者/web/移动端/Android/1.资料.md",
+    "开发者/运维/kubernetes/2.kubectl命令.md",
+    "开发者/数据库/clickhouse/1.概念.md",
+    "开发者/开源/1.字体.md",
+    "开发者/java/spring/1.spring基础/面试/1.spring循环依赖问题.md",
+    "2024-11-17.md",
+    "未命名.canvas",
+    "开发者/java/spring/2.springboot/深入浅出 springboot3/1.IOC.md",
+    "Pasted image 20240826095755.png",
+    "开发者/java/spring/2.springboot/深入浅出 springboot3",
+    "开发者/java/spring/1.spring基础/面试",
+    "开发者/java/认证方式/1.签名.md",
+    "开发者/java/spring/2.springboot",
+    "开发者/java/spring/1.spring基础",
+    "开发者/java/spring/1.spring基础.md",
+    "开发者/java/spring",
+    "开发者/java/jdk17/1.环境.md",
+    "开发者/运维/kubernetes/1.环境.md",
+    "开发者/运维/jumpserver.md",
+    "开发者/运维/kubernetes",
+    "Pasted image 20240814094542.png",
+    "开发者/java/认证方式/4.不超过64位非对称加密.md",
+    "开发者/java/认证方式/3.RAS签名.md",
+    "开发者/java/认证方式/2.公钥加密.md",
+    "开发者/web/移动端/Android/3.gradle.md",
+    "开发者/web/vue/框架.md",
+    "开发者/web/移动端/h5/1.资料.md",
+    "开发者/web/移动端/Android",
+    "开发者/web/react/React组件的数据.md",
+    "开发者/web/移动端/h5",
+    "开发者/web/移动端",
+    "开发者/web/react/1.环境.md",
+    "开发者/数据库/clickhouse/2.安装.md",
+    "开发者/开源",
+    "开发者/web/vue/devtools.md",
+    "开发者/web/gatsbyjs.md",
+    "开发者/web/css/1.资料.md",
+    "开发者/web/css/2.选择器.md",
+    "Pasted image 20240704093600.png",
+    "未命名 1.canvas",
+    "未命名 2.canvas"
+  ]
+}
