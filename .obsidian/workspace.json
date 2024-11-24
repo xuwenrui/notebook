@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/web/react/React & TypeScript/2.父子传值.md",
+                "file": "开发者/web/react/React & TypeScript/3.列表增删改查.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/web/react/React & TypeScript/2.父子传值.md",
+                "file": "开发者/web/react/React & TypeScript/3.列表增删改查.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发者/web/react/React & TypeScript/2.父子传值.md",
+                "file": "开发者/web/react/React & TypeScript/3.列表增删改查.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发者/web/react/React & TypeScript/2.父子传值.md"
+                "file": "开发者/web/react/React & TypeScript/3.列表增删改查.md"
               }
             }
           }
@@ -149,9 +149,10 @@
   },
   "active": "aedbdc06c65e33d5",
   "lastOpenFiles": [
+    "开发者/web/react/React & TypeScript/2.父子传值.md",
+    "开发者/web/react/React & TypeScript/3.列表增删改查.md",
     "Pasted image 20241117211621.png",
     "开发者/web/react/React & TypeScript/1.入门.md",
-    "开发者/web/react/React & TypeScript/2.父子传值.md",
     "开发者/web/react/入门/1.入门.md",
     "开发者/web/react/React & TypeScript",
     "开发者/web/react/资料.md",
@@ -196,7 +197,6 @@
     "工作/bb/Pasted image 20240704093600.png",
     "attachment/images/2024/09/Pasted image 20241012102250.png",
     "attachment/images/2024/09/Pasted image 20241008120123.png",
-    "attachment/images/2024/09/Pasted image 20241008115544.png",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
