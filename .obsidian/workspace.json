@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obidian/1.基本使用.md",
+                "file": "开发者/web/react/React & TypeScript/1.入门.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.基本使用"
+              "title": "1.入门"
             }
           }
         ]
@@ -166,8 +166,9 @@
   },
   "active": "397b6bf4bf8d9f5c",
   "lastOpenFiles": [
-    "obidian/obsidian同步方案.md",
     "obidian/1.基本使用.md",
+    "Pasted image 20241208183926.png",
+    "obidian/obsidian同步方案.md",
     "开发者/web/react/React & TypeScript/1.入门.md",
     "开发者/web/react/React & TypeScript/3.清单Demo.md",
     "Pasted image 20241208182559.png",
@@ -200,7 +201,6 @@
     "工作/bbraun/开发者/运维/kubernetes/2.kubectl命令.md",
     "工作/bbraun/开发者/运维/kubernetes/1.环境.md",
     "工作/bbraun/开发者/数据库/clickhouse/2.安装.md",
-    "工作/bbraun/开发者/数据库/clickhouse/1.概念.md",
     "工作/bbraun/开发者/web/移动端/Android",
     "工作/bbraun/开发者/web/移动端/h5",
     "工作/bbraun/开发者/web/css/标签",
@@ -213,7 +213,6 @@
     "工作/bbraun/Pasted image 20240704093600.png",
     "工作/bb/未命名.canvas",
     "工作/bb/Pasted image 20240826095755.png",
-    "工作/bb/Pasted image 20240814094542.png",
     "未命名.canvas",
     "未命名 1.canvas"
   ]

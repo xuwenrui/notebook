@@ -4,7 +4,7 @@
   "theme": "obsidian",
   "textFontFamily": "Consolas,Bodoni 72 Oldstyle",
   "interfaceFontFamily": "Consolas",
-  "baseFontSize": 14,
+  "baseFontSize": 16,
   "enabledCssSnippets": [
     "page-width"
   ]
