@@ -1,4 +1,5 @@
 ```yml
+
 spring:
   application:
     name: springboot3-demo
@@ -33,6 +34,12 @@ server:
     access-log-buffered: false
     access-log-rotate: true
     access-log-file-date-format: yyyy-MM-dd
+  ssl:
+    enabled: true
+    key-store: classpath:keystore.jks
+    key-store-password: secret
+    key-alias: tomcat
+    protocol: TLS
 
 
 ```
@@ -55,3 +62,21 @@ server.tomcat.max-http-request-size: HTTP 请求的最大大小，单位为字�
 server.tomcat.max-http-response-size: HTTP 响应的最大大小，单位为字节。
 server.tomcat.max-thread-idle-time: 线程的最大空闲时间，单位为秒。
 server.tomcat.protocol-header: 用于识别协议头的请求头名称。
+server.tomcat.remote-ip-header: 用于识别远程 IP 地址的请求头名称。
+server.tomcat.internal-proxies: 内部代理的正则表达式。
+server.tomcat.basedir: Tomcat 的基础目录。
+server.tomcat.access-log-enabled: 是否启用访问日志。
+server.tomcat.access-log-pattern: 访问日志的格式。
+server.tomcat.access-log-prefix: 访问日志文件的前缀。
+server.tomcat.access-log-suffix: 访问日志文件的后缀。
+server.tomcat.access-log-buffered: 访问日志是否缓冲。
+
+server.ssl.enabled: 是否启用 SSL。
+server.ssl.key-store: SSL 密钥库的位置。
+server.ssl.key-store-password: SSL 密钥库的密码。
+server.ssl.key-alias: SSL 密钥的别名。
+server.ssl.protocol: SSL 协议。
+
+
+默认值查看：org.springframework.boot.autoconfigure.web.ServerProperties.Tomcat#Tomcat
+或者：org\springframework\boot\spring-boot-autoconfigure\3.3.6\spring-boot-autoconfigure-3.3.6.jar!\META-INF\spring-configuration-metadata.json
