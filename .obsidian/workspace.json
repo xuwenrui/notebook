@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/spring/blog/springboot tomcat config test/connection-timeout test.md",
+                "file": "开发者/java/spring/blog/springboot tomcat config.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "connection-timeout test"
+              "title": "springboot tomcat config"
             }
           }
         ]
@@ -166,9 +166,9 @@
   },
   "active": "397b6bf4bf8d9f5c",
   "lastOpenFiles": [
+    "开发者/java/spring/blog/springboot tomcat config test/connection-timeout test.md",
     "Pasted image 20241214220517.png",
     "开发者/java/spring/blog/springboot tomcat config.md",
-    "开发者/java/spring/blog/springboot tomcat config test/connection-timeout test.md",
     "开发者/java/spring/blog/springboot tomcat config test",
     "开发者/java/spring/2.springboot/深入浅出 springboot3/1.IOC.md",
     "开发者/java/spring/blog",
@@ -202,7 +202,6 @@
     "开发者/web/react/入门",
     "开发者/web/react/入门/4.样式处理.md",
     "开发者/web/react/入门/2.jsx.md",
-    "attachment/images/2024/09/Pasted image 20240927154940.png",
     "英语/学习方法/未命名.md",
     "工作/bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/1.IOC.md",
     "工作/bbraun/开发者/java/spring/1.spring基础/面试/1.spring循环依赖问题.md",
