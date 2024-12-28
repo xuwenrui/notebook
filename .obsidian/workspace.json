@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/移动端/鸿蒙/frank_box/1.环境搭建.md",
+                "file": "开发者/移动端/鸿蒙/frank_box/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.环境搭建"
+              "title": "未命名"
             }
           }
         ]
@@ -166,9 +166,11 @@
   },
   "active": "397b6bf4bf8d9f5c",
   "lastOpenFiles": [
-    "开发者/移动端/鸿蒙/frank_box/2.基础使用.md",
-    "开发者/移动端/鸿蒙/frank_box/1.环境搭建.md",
     "开发者/移动端/鸿蒙/frank_box/5.图标.md",
+    "开发者/移动端/鸿蒙/frank_box/未命名.md",
+    "开发者/移动端/鸿蒙/frank_box/2.基础使用.md",
+    "开发者/移动端/鸿蒙/frank_box/3.基础配置.md",
+    "开发者/移动端/鸿蒙/frank_box/1.环境搭建.md",
     "开发者/移动端/鸿蒙/frank_box/4.路由.md",
     "开发者/移动端/鸿蒙/ArkUI/4.混合渲染.md",
     "开发者/移动端/鸿蒙/ArkUI/3.常用组件.md",
@@ -177,7 +179,6 @@
     "开发者/移动端/鸿蒙/ArkWeb/1.介绍.md",
     "开发者/移动端/鸿蒙/ArkWeb/2.加载网络页面.md",
     "Pasted image 20241217063537.png",
-    "开发者/移动端/鸿蒙/frank_box/3.基础配置.md",
     "开发者/移动端/鸿蒙/Arkts/1.基础/2.声明变量.md",
     "开发者/移动端/鸿蒙/Arkts/1.基础/3.语句.md",
     "开发者/web/工具/nvm/2.npm.md",
@@ -203,7 +204,6 @@
     "Pasted image 20241208191253.png",
     "Pasted image 20241208191204.png",
     "Pasted image 20241208191142.png",
-    "开发者/web/react/入门/1.入门.md",
     "Pasted image 20241208183926.png",
     "Pasted image 20241208182559.png",
     "开发者/web/react/React & TypeScript",
