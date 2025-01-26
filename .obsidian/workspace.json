@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/spring/1.spring基础/面试/1.spring循环依赖问题.md",
+                "file": "开发者/java/spring/springcloud alibaba/nacos/环境.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.spring循环依赖问题"
+              "title": "环境"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "并发",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,11 +166,16 @@
   },
   "active": "65d1773eb73f7883",
   "lastOpenFiles": [
+    "Pasted image 20250126155943.png",
+    "开发者/java/spring/springcloud alibaba/未命名.md",
+    "开发者/java/spring/springcloud alibaba/nacos/环境.md",
+    "开发者/java/spring/springcloud alibaba/nacos",
+    "开发者/java/spring/1.spring基础/面试/1.spring循环依赖问题.md",
+    "开发者/java/spring/springcloud alibaba",
     "开发者/java/基础/文件流/1.概念.md",
     "开发者/java/基础/线程/2.四种线程池创建.md",
     "开发者/java/基础/线程/1.线程池创建.md",
     "开发者/java/spring/1.spring基础/面试/2.介绍.md",
-    "开发者/java/spring/1.spring基础/面试/1.spring循环依赖问题.md",
     "开发者/java/spring/2.springboot/深入浅出 springboot3/4.整合MyBatis框架.md",
     "开发者/java/spring/2.springboot/深入浅出 springboot3/2.aop.md",
     "开发者/java/spring/2.springboot/深入浅出 springboot3/1.IOC.md",
@@ -189,10 +194,7 @@
     "工作/bbraun/开发者/运维/jumpserver.md",
     "工作/bbraun/开发者/java/认证方式/3.RAS签名.md",
     "工作/bbraun/开发者/java/认证方式/4.不超过64位非对称加密.md",
-    "工作/bbraun/开发者/web/gatsbyjs.md",
-    "工作/bbraun/2024-11-17.md",
     "未命名.canvas",
-    "开发者/java/工具/git.md",
     "Pasted image 20241217063537.png",
     "Pasted image 20241215115200.png",
     "Pasted image 20241215111907.png",
@@ -211,8 +213,6 @@
     "开发者/web/react/入门",
     "工作/bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3",
     "工作/bbraun/开发者/java/spring/1.spring基础/面试",
-    "工作/bbraun/开发者/web/移动端/Android",
-    "工作/bbraun/开发者/web/移动端/h5",
     "工作/bbraun/未命名.canvas",
     "工作/bb/未命名.canvas",
     "未命名 1.canvas"
