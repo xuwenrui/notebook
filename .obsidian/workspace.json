@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/java/spring/springcloud alibaba/1.版本说明.md",
+                "file": "开发者/java/spring/springcloud alibaba/nacos/环境.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.版本说明"
+              "title": "环境"
             }
           }
         ]
@@ -166,8 +166,8 @@
   },
   "active": "65d1773eb73f7883",
   "lastOpenFiles": [
-    "开发者/java/spring/springcloud alibaba/nacos/环境.md",
     "开发者/java/spring/springcloud alibaba/1.版本说明.md",
+    "开发者/java/spring/springcloud alibaba/nacos/环境.md",
     "Pasted image 20250126155943.png",
     "开发者/java/spring/springcloud alibaba/未命名.md",
     "开发者/java/spring/springcloud alibaba/nacos",
