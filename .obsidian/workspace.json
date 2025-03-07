@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "环境"
             }
+          },
+          {
+            "id": "9ad12779d95ea687",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -164,7 +178,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "65d1773eb73f7883",
+  "active": "9ad12779d95ea687",
   "lastOpenFiles": [
     "开发者/java/spring/springcloud alibaba/1.版本说明.md",
     "开发者/java/spring/springcloud alibaba/nacos/环境.md",
