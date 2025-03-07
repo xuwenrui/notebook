@@ -25,12 +25,14 @@
             "id": "9ad12779d95ea687",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "开发者/AI/工具/GTP.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "GTP"
             }
           }
         ],
@@ -180,6 +182,9 @@
   },
   "active": "9ad12779d95ea687",
   "lastOpenFiles": [
+    "开发者/AI/工具/IDE.md",
+    "开发者/AI/工具/GTP.md",
+    "开发者/AI/工具",
     "开发者/java/spring/springcloud alibaba/1.版本说明.md",
     "开发者/java/spring/springcloud alibaba/nacos/环境.md",
     "Pasted image 20250126155943.png",
@@ -207,8 +212,6 @@
     "工作/bbraun/开发者/开源/1.字体.md",
     "工作/bbraun/开发者/java/spring/1.spring基础/面试/1.spring循环依赖问题.md",
     "工作/bbraun/开发者/运维/jumpserver.md",
-    "工作/bbraun/开发者/java/认证方式/3.RAS签名.md",
-    "工作/bbraun/开发者/java/认证方式/4.不超过64位非对称加密.md",
     "未命名.canvas",
     "Pasted image 20241217063537.png",
     "Pasted image 20241215115200.png",
@@ -226,7 +229,6 @@
     "开发者/web/react/React & TypeScript",
     "开发者/web/react/入门",
     "工作/bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3",
-    "工作/bbraun/开发者/java/spring/1.spring基础/面试",
     "工作/bbraun/未命名.canvas",
     "工作/bb/未命名.canvas",
     "未命名 1.canvas"
