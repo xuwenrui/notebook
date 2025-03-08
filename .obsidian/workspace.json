@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "GTP"
             }
+          },
+          {
+            "id": "31e09c4bed4c9563",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,7 +192,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "9ad12779d95ea687",
+  "active": "31e09c4bed4c9563",
   "lastOpenFiles": [
     "开发者/AI/工具/IDE.md",
     "开发者/AI/工具/GTP.md",
