@@ -1,0 +1,1 @@
+./mvnw -s "E:/develop/apache-maven-3.9.6/conf/settings-ali.xml" -Dmaven.repo.local="/path/to/your/local/repository" spring-boot:run
