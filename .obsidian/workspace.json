@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/AI/工具/IDE.md",
+                "file": "开发者/java/基础/maven.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IDE"
+              "title": "maven"
             }
           }
         ],
@@ -196,8 +196,8 @@
   },
   "active": "31e09c4bed4c9563",
   "lastOpenFiles": [
-    "开发者/java/基础/maven.md",
     "开发者/AI/工具/IDE.md",
+    "开发者/java/基础/maven.md",
     "开发者/AI/工具/GTP.md",
     "开发者/AI/工具",
     "开发者/java/spring/springcloud alibaba/1.版本说明.md",
