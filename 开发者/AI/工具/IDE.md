@@ -1,4 +1,5 @@
 ### **WINSURF**
+https://windsurfai.org/zh
 
 - **用途**: WINSURF 是一款用于地质建模和可视化的软件，主要用于地质学家和工程师进行地质数据分析、建模和可视化。
     
