@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作/耕喜乐/api/初始化.md",
+                "file": "开发者/运维/docker/2.命令行.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "初始化"
+              "title": "2.命令行"
             }
           }
         ]
@@ -165,8 +165,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1234ab53d88e86c1",
+  "active": "6deb4854d2f644dd",
   "lastOpenFiles": [
+    "开发者/运维/docker/1.配置.md",
+    "开发者/运维/docker/2.命令行.md",
+    "Pasted image 20250412231058.png",
+    "工作/耕喜乐/api/初始化.md",
     "开发者/运维/linux in window",
     "开发者/运维/docker",
     "工作/耕喜乐/web/1.环境.md",
@@ -175,7 +179,6 @@
     "工作/耕喜乐/会议/2025-3-30.md",
     "工作/耕喜乐/android/1.webapp.md",
     "开发者/web/vscode.md",
-    "工作/耕喜乐/api/初始化.md",
     "开发者/运维/工具.md",
     "工作/耕喜乐/api",
     "开发者/AI/实战/库.md",
@@ -197,13 +200,11 @@
     "开发者/移动端/android",
     "开发者/java/工具/git.md",
     "attachment/images/2025/03",
-    "attachment/images/2025",
     "开发者/移动端/鸿蒙/frank_box/6.应用数据持久化.md",
     "开发者/移动端/鸿蒙/frank_box/未命名.md",
     "开发者/移动端/鸿蒙/frank_box/5.图标.md",
     "开发者/移动端/鸿蒙/frank_box/2.基础使用.md",
     "开发者/移动端/鸿蒙/frank_box/3.基础配置.md",
-    "开发者/移动端/鸿蒙/frank_box/1.环境搭建.md",
     "attachment/images/2025/03/Pasted image 20241217063537.png",
     "attachment/images/2025/03/Pasted image 20241215115200.png",
     "attachment/images/2025/03/Pasted image 20241215111907.png",
@@ -212,7 +213,6 @@
     "attachment/images/2025/03/Pasted image 20241208191253.png",
     "attachment/images/2025/03/Pasted image 20241208191204.png",
     "attachment/images/2025/03/Pasted image 20241208191142.png",
-    "attachment/images/2025/03/Pasted image 20241208183926.png",
     "工作/bbraun/未命名.canvas",
     "工作/bb/未命名.canvas",
     "未命名.canvas",
