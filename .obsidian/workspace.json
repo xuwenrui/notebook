@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/运维/docker/2.命令行.md",
+                "file": "工作/耕喜乐/web/1.环境.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.命令行"
+              "title": "1.环境"
             }
           }
         ]
@@ -165,11 +165,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1234ab53d88e86c1",
+  "active": "6deb4854d2f644dd",
   "lastOpenFiles": [
+    "开发者/运维/docker/2.命令行.md",
     "工作/耕喜乐/微信开发者",
     "工作/耕喜乐/api/初始化.md",
-    "开发者/运维/docker/2.命令行.md",
     "开发者/运维/docker/1.配置.md",
     "Pasted image 20250412231058.png",
     "开发者/运维/linux in window",
@@ -200,7 +200,6 @@
     "开发者/java/jdk/1.版本说明.md",
     "开发者/移动端/android",
     "开发者/java/工具/git.md",
-    "attachment/images/2025/03",
     "开发者/移动端/鸿蒙/frank_box/6.应用数据持久化.md",
     "开发者/移动端/鸿蒙/frank_box/未命名.md",
     "开发者/移动端/鸿蒙/frank_box/5.图标.md",
