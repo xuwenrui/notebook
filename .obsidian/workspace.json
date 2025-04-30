@@ -25,12 +25,14 @@
             "id": "85873a622617d0b4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "开发者/web/uni-app/1.环境.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "1.环境"
             }
           }
         ],
@@ -180,6 +182,8 @@
   },
   "active": "85873a622617d0b4",
   "lastOpenFiles": [
+    "开发者/web/uni-app/1.环境.md",
+    "开发者/web/uni-app",
     "开发者/运维/docker/2.命令行.md",
     "工作/耕喜乐/微信开发者",
     "工作/耕喜乐/api/初始化.md",
@@ -211,7 +215,6 @@
     "开发者/移动端/android/命令.md",
     "Pasted image 20250329100058.png",
     "开发者/java/jdk/1.版本说明.md",
-    "开发者/移动端/android",
     "开发者/java/工具/git.md",
     "开发者/移动端/鸿蒙/frank_box/6.应用数据持久化.md",
     "开发者/移动端/鸿蒙/frank_box/未命名.md",
