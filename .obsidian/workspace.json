@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ssh file:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,7 +180,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "85873a622617d0b4",
+  "active": "1234ab53d88e86c1",
   "lastOpenFiles": [
     "开发者/AI/MCP/千问3.md",
     "Pasted image 20250526215147.png",
