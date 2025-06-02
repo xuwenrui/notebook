@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/web/react/入门/1.入门.md",
+                "file": "开发者/AI/工具.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.入门"
+              "title": "工具"
             }
           }
         ],
@@ -180,14 +180,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1234ab53d88e86c1",
+  "active": "85873a622617d0b4",
   "lastOpenFiles": [
+    "开发者/AI/Untitled.md",
+    "开发者/AI/工具.md",
+    "开发者/AI/大模型1/1.提示词.md",
+    "开发者/AI/编排/工具.md",
+    "开发者/AI/spring AI/3.AI编排.md",
+    "开发者/AI/spring AI/2.text2SQL介绍.md",
+    "开发者/AI/spring AI/1.资料.md",
+    "开发者/AI/AI大模型/0.资料.md",
+    "开发者/web/react/入门/1.入门.md",
     "开发者/AI/MCP/千问3.md",
     "Pasted image 20250526215147.png",
-    "开发者/AI/spring AI/1.资料.md",
     "开发者/AI/MCP",
-    "开发者/AI/spring AI/2.text2SQL介绍.md",
-    "开发者/AI/spring AI/3.AI编排.md",
     "Pasted image 20250511165405.png",
     "Pasted image 20250511165308.png",
     "Pasted image 20250511112056.png",
@@ -200,7 +206,6 @@
     "开发者/web/QA.md",
     "开发者/AI/前端破局 AI 应用开发",
     "Pasted image 20250504214438.png",
-    "开发者/AI/编排/工具.md",
     "开发者/AI/实战/库.md",
     "开发者/AI/编排",
     "开发者/web/uni-app/1.环境.md",
@@ -222,11 +227,7 @@
     "工作/耕喜乐/api",
     "开发者/AI/python/2.pycharm.md",
     "开发者/AI/python/1.环境.md",
-    "开发者/移动端/android/gradle.md",
     "工作/耕喜乐/会议",
-    "工作/bbraun/开发者/web/vue/框架.md",
-    "工作/bbraun/开发者/web/vue/devtools.md",
-    "工作/bbraun/开发者/web/gatsbyjs.md",
     "工作/bbraun/未命名.canvas",
     "工作/bb/未命名.canvas",
     "未命名.canvas",
