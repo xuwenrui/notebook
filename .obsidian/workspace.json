@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/AI/MCP/准备.md",
+                "file": "开发者/AI/MCP/3.开发MCP项目.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "准备"
+              "title": "3.开发MCP项目"
             }
           }
         ],
@@ -182,11 +182,19 @@
   },
   "active": "85873a622617d0b4",
   "lastOpenFiles": [
-    "Pasted image 20250615182113.png",
-    "Pasted image 20250615181617.png",
-    "Pasted image 20250615181300.png",
-    "Pasted image 20250615180930.png",
-    "Pasted image 20250615180106.png",
+    "开发者/AI/MCP/2.原理.md",
+    "开发者/AI/MCP/3.开发MCP项目.md",
+    "Pasted image 20250615185953.png",
+    "Pasted image 20250615185850.png",
+    "Pasted image 20250615185828.png",
+    "Pasted image 20250615185806.png",
+    "Pasted image 20250615185737.png",
+    "Pasted image 20250615185704.png",
+    "Pasted image 20250615185640.png",
+    "Pasted image 20250615185554.png",
+    "Pasted image 20250615185523.png",
+    "Pasted image 20250615185434.png",
+    "开发者/AI/MCP/1.准备.md",
     "开发者/AI/工具.md",
     "开发者/AI/Untitled.md",
     "开发者/AI/大模型1/1.提示词.md",
@@ -196,14 +204,7 @@
     "开发者/AI/spring AI/1.资料.md",
     "开发者/AI/AI大模型/0.资料.md",
     "开发者/web/react/入门/1.入门.md",
-    "开发者/AI/MCP/准备.md",
-    "Pasted image 20250526215147.png",
     "开发者/AI/MCP",
-    "Pasted image 20250511165405.png",
-    "Pasted image 20250511165308.png",
-    "Pasted image 20250511112056.png",
-    "Pasted image 20250511112047.png",
-    "Pasted image 20250511111951.png",
     "开发者/AI/前端破局 AI 应用开发/1.LLM场景介绍.md",
     "开发者/AI/spring AI",
     "开发者/web/QA.md",
@@ -226,7 +227,6 @@
     "开发者/web/vscode.md",
     "开发者/运维/工具.md",
     "工作/耕喜乐/api",
-    "开发者/AI/python/2.pycharm.md",
     "工作/耕喜乐/会议",
     "工作/bbraun/未命名.canvas",
     "工作/bb/未命名.canvas",
