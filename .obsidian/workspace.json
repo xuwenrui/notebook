@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/AI/MCP/3.开发MCP项目.md",
+                "file": "开发者/AI/工具.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.开发MCP项目"
+              "title": "工具"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssh file:",
+                "query": "sur",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,8 +181,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "85873a622617d0b4",
+  "active": "b2f5027845efd525",
   "lastOpenFiles": [
+    "开发者/AI/编排/工具.md",
+    "开发者/AI/MCP/3.开发MCP项目.md",
     "Pasted image 20250615192408.png",
     "Pasted image 20250615192308.png",
     "Pasted image 20250615192234.png",
@@ -190,16 +193,13 @@
     "Pasted image 20250615191140.png",
     "Pasted image 20250615191022.png",
     "开发者/AI/MCP/2.原理.md",
-    "开发者/AI/MCP/3.开发MCP项目.md",
     "Pasted image 20250615185953.png",
     "Pasted image 20250615185850.png",
     "Pasted image 20250615185828.png",
-    "Pasted image 20250615185806.png",
     "开发者/AI/MCP/1.准备.md",
     "开发者/AI/工具.md",
     "开发者/AI/Untitled.md",
     "开发者/AI/大模型1/1.提示词.md",
-    "开发者/AI/编排/工具.md",
     "开发者/AI/spring AI/3.AI编排.md",
     "开发者/AI/spring AI/2.text2SQL介绍.md",
     "开发者/AI/spring AI/1.资料.md",
