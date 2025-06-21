@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/AI/MCP/2.环境/1.资料.md",
+                "file": "开发者/AI/MCP/2.入门/1.环境.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.资料"
+              "title": "1.环境"
             }
           },
           {
@@ -181,14 +181,14 @@
   },
   "active": "6deb4854d2f644dd",
   "lastOpenFiles": [
-    "开发者/AI/MCP/1.入门/3.开发MCP项目.md",
-    "开发者/AI/MCP/2.环境/1.资料.md",
+    "开发者/AI/MCP/1.了解/3.开发MCP项目.md",
+    "开发者/AI/MCP/2.入门/1.环境.md",
     "开发者/AI/python/2.pycharm.md",
     "开发者/AI/python/1.环境.md",
-    "开发者/AI/MCP/1.入门/1.准备.md",
-    "开发者/AI/MCP/1.入门",
-    "开发者/AI/MCP/2.环境",
-    "开发者/AI/MCP/1.入门/2.原理.md",
+    "开发者/AI/MCP/1.了解/1.准备.md",
+    "开发者/AI/MCP/1.了解",
+    "开发者/AI/MCP/2.入门",
+    "开发者/AI/MCP/1.了解/2.原理.md",
     "工作/耕喜乐/web/1.环境.md",
     "开发者/AI/工具.md",
     "开发者/AI/编排/工具.md",
