@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作/耕喜乐/web/1.环境.md",
+                "file": "开发者/AI/MCP/2.环境/1.资料.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.环境"
+              "title": "1.资料"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "工具"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sur",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +88,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,10 +179,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b2f5027845efd525",
+  "active": "6deb4854d2f644dd",
   "lastOpenFiles": [
+    "开发者/AI/MCP/1.入门/3.开发MCP项目.md",
+    "开发者/AI/MCP/2.环境/1.资料.md",
+    "开发者/AI/python/2.pycharm.md",
+    "开发者/AI/python/1.环境.md",
+    "开发者/AI/MCP/1.入门/1.准备.md",
+    "开发者/AI/MCP/1.入门",
+    "开发者/AI/MCP/2.环境",
+    "开发者/AI/MCP/1.入门/2.原理.md",
+    "工作/耕喜乐/web/1.环境.md",
+    "开发者/AI/工具.md",
     "开发者/AI/编排/工具.md",
-    "开发者/AI/MCP/3.开发MCP项目.md",
     "Pasted image 20250615192408.png",
     "Pasted image 20250615192308.png",
     "Pasted image 20250615192234.png",
@@ -192,12 +199,9 @@
     "Pasted image 20250615191356.png",
     "Pasted image 20250615191140.png",
     "Pasted image 20250615191022.png",
-    "开发者/AI/MCP/2.原理.md",
     "Pasted image 20250615185953.png",
     "Pasted image 20250615185850.png",
     "Pasted image 20250615185828.png",
-    "开发者/AI/MCP/1.准备.md",
-    "开发者/AI/工具.md",
     "开发者/AI/Untitled.md",
     "开发者/AI/大模型1/1.提示词.md",
     "开发者/AI/spring AI/3.AI编排.md",
@@ -220,14 +224,9 @@
     "开发者/运维/docker/1.配置.md",
     "开发者/运维/linux in window",
     "开发者/运维/docker",
-    "工作/耕喜乐/web/1.环境.md",
     "工作/耕喜乐/android/0.配置.md",
     "工作/耕喜乐/会议/资料.md",
     "工作/耕喜乐/会议/2025-3-30.md",
-    "工作/耕喜乐/android/1.webapp.md",
-    "开发者/web/vscode.md",
-    "工作/耕喜乐/api",
-    "工作/耕喜乐/会议",
     "工作/bbraun/未命名.canvas",
     "工作/bb/未命名.canvas",
     "未命名.canvas",
