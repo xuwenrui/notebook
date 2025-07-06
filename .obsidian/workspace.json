@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/web/react/入门/1.入门.md",
+                "file": "开发者/web/微前端/1.js包依赖.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.入门"
+              "title": "1.js包依赖"
             }
           },
           {
@@ -181,6 +181,7 @@
   },
   "active": "6deb4854d2f644dd",
   "lastOpenFiles": [
+    "开发者/web/react/入门/1.入门.md",
     "开发者/web/微前端/1.js包依赖.md",
     "Pasted image 20250706161409.png",
     "开发者/运维/docker/2.命令行.md",
@@ -212,7 +213,6 @@
     "开发者/AI/spring AI/2.text2SQL介绍.md",
     "开发者/AI/spring AI/1.资料.md",
     "开发者/AI/AI大模型/0.资料.md",
-    "开发者/web/react/入门/1.入门.md",
     "开发者/AI/MCP",
     "开发者/AI/前端破局 AI 应用开发/1.LLM场景介绍.md",
     "开发者/AI/spring AI",
