@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/web/微前端/1.js包依赖.md",
+                "file": "开发者/web/react/入门/1.入门.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.js包依赖"
+              "title": "1.入门"
             }
           },
           {
@@ -181,9 +181,9 @@
   },
   "active": "6deb4854d2f644dd",
   "lastOpenFiles": [
+    "开发者/web/微前端/1.js包依赖.md",
     "Pasted image 20250706161409.png",
     "开发者/运维/docker/2.命令行.md",
-    "开发者/web/微前端/1.js包依赖.md",
     "开发者/web/微前端",
     "开发者/运维/docker/1.配置.md",
     "开发者/AI/工具.md",
@@ -207,7 +207,6 @@
     "Pasted image 20250615191022.png",
     "Pasted image 20250615185953.png",
     "Pasted image 20250615185850.png",
-    "Pasted image 20250615185828.png",
     "开发者/AI/大模型1/1.提示词.md",
     "开发者/AI/spring AI/3.AI编排.md",
     "开发者/AI/spring AI/2.text2SQL介绍.md",
