@@ -25,12 +25,14 @@
             "id": "499f578a5c4ba347",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.10"
+                "file": "开发者/AI/deploy by AI/1.claudeCode.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
+              "icon": "lucide-file",
+              "title": "1.claudeCode"
             }
           },
           {
