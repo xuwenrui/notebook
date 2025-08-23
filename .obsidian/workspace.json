@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/AI/工具.md",
+                "file": "开发者/AI/deploy by AI/1.claudeCode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "工具"
+              "title": "1.claudeCode"
             }
           },
           {
@@ -197,6 +197,7 @@
   },
   "active": "499f578a5c4ba347",
   "lastOpenFiles": [
+    "开发者/AI/工具.md",
     "开发者/AI/deploy by AI/1.claudeCode.md",
     "开发者/AI/deploy by AI/2.边缘函数.md",
     "Pasted image 20250817184901.png",
@@ -204,7 +205,6 @@
     "开发者/AI/大模型1/1.提示词.md",
     "Pasted image 20250817183343.png",
     "Pasted image 20250817183259.png",
-    "开发者/AI/工具.md",
     "开发者/AI/deploy by AI",
     "Pasted image 20250817165209.png",
     "开发者/AI/MCP/1.了解/3.开发MCP项目.md",
