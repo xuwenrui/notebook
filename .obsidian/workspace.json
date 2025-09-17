@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/AI/deploy by AI/gemini-cli.md",
+                "file": "生活/工具.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gemini-cli"
+              "title": "工具"
             }
           },
           {
@@ -197,8 +197,10 @@
   },
   "active": "499f578a5c4ba347",
   "lastOpenFiles": [
-    "开发者/AI/deploy by AI/1.claudeCode.md",
     "开发者/AI/deploy by AI/gemini-cli.md",
+    "生活/工具.md",
+    "生活",
+    "开发者/AI/deploy by AI/1.claudeCode.md",
     "开发者/AI/deploy by AI/0.开发者.md",
     "开发者/AI/deploy by AI/免费 apikey.md",
     "开发者/AI/工具.md",
@@ -236,13 +238,11 @@
     "工作/耕喜乐/web/1.环境.md",
     "Pasted image 20250615192408.png",
     "开发者/AI/spring AI/3.AI编排.md",
-    "开发者/AI/spring AI/2.text2SQL介绍.md",
     "开发者/AI/MCP",
     "开发者/AI/spring AI",
     "开发者/AI/前端破局 AI 应用开发",
     "开发者/AI/编排",
     "开发者/web/uni-app",
-    "工作/耕喜乐/微信开发者",
     "工作/bbraun/未命名.canvas",
     "工作/bb/未命名.canvas",
     "未命名.canvas",
