@@ -53,12 +53,14 @@
             "id": "fcbf14063e735538",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "工作/bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/1.IOC.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "1.IOC"
             }
           },
           {
@@ -223,6 +225,7 @@
   },
   "active": "fcbf14063e735538",
   "lastOpenFiles": [
+    "工作/bbraun/开发者/java/认证方式/1.签名.md",
     "开发者/AI/deploy by AI/gemini-cli.md",
     "生活/工具.md",
     "生活",
@@ -263,7 +266,6 @@
     "开发者/AI/MCP/1.了解/2.原理.md",
     "工作/耕喜乐/web/1.环境.md",
     "Pasted image 20250615192408.png",
-    "开发者/AI/spring AI/3.AI编排.md",
     "开发者/AI/MCP",
     "开发者/AI/spring AI",
     "开发者/AI/前端破局 AI 应用开发",
