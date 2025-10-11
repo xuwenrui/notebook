@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "fcbf14063e735538",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
+          },
+          {
             "id": "85873a622617d0b4",
             "type": "leaf",
             "state": {
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -209,7 +221,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f80faa93268a0205",
+  "active": "fcbf14063e735538",
   "lastOpenFiles": [
     "开发者/AI/deploy by AI/gemini-cli.md",
     "生活/工具.md",
