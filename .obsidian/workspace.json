@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,7 +223,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fcbf14063e735538",
+  "active": "f80faa93268a0205",
   "lastOpenFiles": [
     "开发者/AI/工具.md",
     "生活/工具.md",
