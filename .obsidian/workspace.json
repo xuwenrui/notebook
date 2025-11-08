@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/C++/1.环境.md",
+                "file": "英语/1.学习资料.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.环境"
+              "title": "1.学习资料"
             }
           },
           {
@@ -225,8 +225,10 @@
   },
   "active": "f80faa93268a0205",
   "lastOpenFiles": [
-    "生活/工具.md",
+    "英语/学习方法/未命名.md",
+    "英语/1.学习资料.md",
     "开发者/C++/1.环境.md",
+    "生活/工具.md",
     "开发者/C++",
     "开发者/AI/工具.md",
     "工作/bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/1.IOC.md",
@@ -262,8 +264,6 @@
     "开发者/AI/Untitled.md",
     "开发者/AI/MCP/2.入门/1.环境.md",
     "开发者/AI/python/2.pycharm.md",
-    "开发者/AI/python/1.环境.md",
-    "开发者/AI/MCP/1.了解/1.准备.md",
     "开发者/AI/MCP/1.了解",
     "开发者/AI/MCP/2.入门",
     "Pasted image 20250615192408.png",
