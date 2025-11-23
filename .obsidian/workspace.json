@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语/1.学习资料.md",
+                "file": "开发者/AI/私有部署/Continue + DeepSeek.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.学习资料"
+              "title": "Continue + DeepSeek"
             }
           },
           {
@@ -223,12 +223,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1234ab53d88e86c1",
+  "active": "f80faa93268a0205",
   "lastOpenFiles": [
+    "英语/1.学习资料.md",
+    "开发者/AI/私有部署/Continue + DeepSeek.md",
+    "开发者/AI/Untitled 1",
+    "开发者/AI/私有部署",
     "开发者/嵌入式/入门",
     "开发者/嵌入式",
     "英语/学习方法/未命名.md",
-    "英语/1.学习资料.md",
     "开发者/C++/1.环境.md",
     "生活/工具.md",
     "开发者/C++",
@@ -268,9 +271,6 @@
     "开发者/AI/MCP/1.了解",
     "开发者/AI/MCP/2.入门",
     "Pasted image 20250615192408.png",
-    "开发者/AI/MCP",
-    "开发者/AI/spring AI",
-    "开发者/AI/前端破局 AI 应用开发",
     "工作/bbraun/未命名.canvas",
     "工作/bb/未命名.canvas",
     "未命名.canvas",
