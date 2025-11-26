@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "91d03a9a790e854e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
+          },
+          {
             "id": "fcbf14063e735538",
             "type": "leaf",
             "state": {
@@ -78,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -223,7 +235,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f80faa93268a0205",
+  "active": "91d03a9a790e854e",
   "lastOpenFiles": [
     "英语/1.学习资料.md",
     "开发者/AI/私有部署/Continue + DeepSeek.md",
