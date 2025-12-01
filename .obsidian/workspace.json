@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/AI/工具.md",
+                "file": "生活/tizi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "工具"
+              "title": "tizi"
             }
           },
           {
@@ -239,6 +239,9 @@
   },
   "active": "91d03a9a790e854e",
   "lastOpenFiles": [
+    "生活/工具.md",
+    "生活/tizi.md",
+    "开发者/AI/工具.md",
     "英语/1.学习资料.md",
     "开发者/AI/私有部署/Continue + DeepSeek.md",
     "开发者/AI/Untitled 1",
@@ -247,9 +250,7 @@
     "开发者/嵌入式",
     "英语/学习方法/未命名.md",
     "开发者/C++/1.环境.md",
-    "生活/工具.md",
     "开发者/C++",
-    "开发者/AI/工具.md",
     "工作/bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/1.IOC.md",
     "工作/bbraun/开发者/java/认证方式/1.签名.md",
     "开发者/AI/deploy by AI/gemini-cli.md",
@@ -281,7 +282,6 @@
     "开发者/web/微前端",
     "开发者/运维/docker/1.配置.md",
     "开发者/AI/Untitled.md",
-    "开发者/AI/MCP/2.入门/1.环境.md",
     "开发者/AI/MCP/1.了解",
     "开发者/AI/MCP/2.入门",
     "Pasted image 20250615192408.png",
