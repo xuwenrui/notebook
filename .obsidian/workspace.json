@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活/tizi.md",
+                "file": "生活/专升本.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tizi"
+              "title": "专升本"
             }
           },
           {
@@ -239,8 +239,11 @@
   },
   "active": "91d03a9a790e854e",
   "lastOpenFiles": [
-    "生活/工具.md",
+    "Pasted image 20251208070219.png",
+    "Pasted image 20251208070047.png",
     "生活/tizi.md",
+    "生活/专升本.md",
+    "生活/工具.md",
     "开发者/AI/工具.md",
     "英语/1.学习资料.md",
     "开发者/AI/私有部署/Continue + DeepSeek.md",
@@ -280,11 +283,8 @@
     "Pasted image 20250706161409.png",
     "开发者/运维/docker/2.命令行.md",
     "开发者/web/微前端",
-    "开发者/运维/docker/1.配置.md",
-    "开发者/AI/Untitled.md",
     "开发者/AI/MCP/1.了解",
     "开发者/AI/MCP/2.入门",
-    "Pasted image 20250615192408.png",
     "工作/bbraun/未命名.canvas",
     "工作/bb/未命名.canvas",
     "未命名.canvas",
