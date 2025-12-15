@@ -67,12 +67,14 @@
             "id": "3efb02648754e487",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "生活/daily/2025-12-16.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file",
+              "title": "2025-12-16"
             }
           },
           {
@@ -251,9 +253,11 @@
   },
   "active": "3efb02648754e487",
   "lastOpenFiles": [
+    "生活/tizi.md",
+    "生活/daily/2025-12-16.md",
+    "生活/daily",
     "Pasted image 20251208070219.png",
     "Pasted image 20251208070047.png",
-    "生活/tizi.md",
     "生活/专升本.md",
     "生活/工具.md",
     "开发者/AI/工具.md",
@@ -292,11 +296,9 @@
     "开发者/web/微前端/1.js包依赖.md",
     "Pasted image 20250706201117.png",
     "开发者/web/react/入门/1.入门.md",
-    "Pasted image 20250706161409.png",
     "开发者/运维/docker/2.命令行.md",
     "开发者/web/微前端",
     "开发者/AI/MCP/1.了解",
-    "开发者/AI/MCP/2.入门",
     "工作/bbraun/未命名.canvas",
     "工作/bb/未命名.canvas",
     "未命名.canvas",
