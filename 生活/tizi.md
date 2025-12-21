@@ -6,6 +6,4 @@ dn386_com
 
 discord
 386
-FrankXu
-frankxuwr
-XUwr1221_xc
+XUwr1221xm
