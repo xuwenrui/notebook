@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/嵌入式/AI音响/1.计划.md",
+                "file": "开发者/AI/工具.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.计划"
+              "title": "工具"
             }
           },
           {
@@ -253,8 +253,16 @@
   },
   "active": "3efb02648754e487",
   "lastOpenFiles": [
-    "开发者/数据库/clickhouse/1.概念.md",
+    "开发者/AI/编排/工具.md",
+    "开发者/AI/AI大模型/6.增强大模型.md",
+    "开发者/AI/MCP/2.入门/1.环境.md",
+    "开发者/AI/deploy by AI/gemini-cli.md",
+    "开发者/AI/deploy by AI/免费 apikey.md",
+    "开发者/AI/deploy by AI/2.边缘函数.md",
+    "开发者/AI/deploy by AI/1.claudeCode.md",
+    "开发者/AI/deploy by AI/0.开发者.md",
     "开发者/嵌入式/AI音响/1.计划.md",
+    "开发者/数据库/clickhouse/1.概念.md",
     "开发者/嵌入式/声控灯",
     "开发者/嵌入式/AI音响",
     "生活/专升本.md",
@@ -277,12 +285,7 @@
     "开发者/C++",
     "工作/bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/1.IOC.md",
     "工作/bbraun/开发者/java/认证方式/1.签名.md",
-    "开发者/AI/deploy by AI/gemini-cli.md",
     "生活",
-    "开发者/AI/deploy by AI/1.claudeCode.md",
-    "开发者/AI/deploy by AI/0.开发者.md",
-    "开发者/AI/deploy by AI/免费 apikey.md",
-    "开发者/AI/deploy by AI/2.边缘函数.md",
     "工作/bbraun/().md",
     "开发者/AI/大模型1/3.ChatGLM2+Langchain.md",
     "Pasted image 20250817184901.png",
@@ -293,9 +296,6 @@
     "开发者/AI/deploy by AI",
     "Pasted image 20250817165209.png",
     "开发者/AI/MCP/1.了解/3.开发MCP项目.md",
-    "开发者/web/微前端/3.qiankun.md",
-    "开发者/web/微前端/2.single-spa.md",
-    "开发者/AI/编排/工具.md",
     "Pasted image 20250706221816.png",
     "Pasted image 20250706221652.png",
     "Pasted image 20250706201117.png",
