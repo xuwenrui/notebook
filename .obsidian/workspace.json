@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/AI/工具.md",
+                "file": "生活/tizi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "工具"
+              "title": "tizi"
             }
           },
           {
@@ -138,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +159,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -251,8 +252,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3efb02648754e487",
+  "active": "b2f5027845efd525",
   "lastOpenFiles": [
+    "生活/工具.md",
+    "生活/专升本.md",
+    "生活/tizi.md",
+    "开发者/AI/工具.md",
     "开发者/AI/编排/工具.md",
     "开发者/AI/AI大模型/6.增强大模型.md",
     "开发者/AI/MCP/2.入门/1.环境.md",
@@ -265,15 +270,11 @@
     "开发者/数据库/clickhouse/1.概念.md",
     "开发者/嵌入式/声控灯",
     "开发者/嵌入式/AI音响",
-    "生活/专升本.md",
-    "生活/tizi.md",
-    "生活/工具.md",
     "生活/daily/2025-12-21.md",
     "生活/daily/2025-12-16.md",
     "生活/daily",
     "Pasted image 20251208070219.png",
     "Pasted image 20251208070047.png",
-    "开发者/AI/工具.md",
     "英语/1.学习资料.md",
     "开发者/AI/私有部署/Continue + DeepSeek.md",
     "开发者/AI/Untitled 1",
