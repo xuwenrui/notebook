@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活/daily/2025-12-24.md",
+                "file": "生活/tizi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-24"
+              "title": "tizi"
             }
           },
           {
@@ -253,14 +253,15 @@
   },
   "active": "3efb02648754e487",
   "lastOpenFiles": [
-    "生活/工具.md",
+    "生活/daily/2025-12-16.md",
+    "生活/daily/2025-12-21.md",
     "生活/daily/2025-12-24.md",
+    "生活/工具.md",
     "生活/daily/2025-12-23.md",
     "生活/我的世界/2025-12-22.md",
     "Pasted image 20251222204304.png",
     "Pasted image 20251222203610.png",
     "Pasted image 20251222203358.png",
-    "生活/daily/2025-12-21.md",
     "生活/games/我的世界.md",
     "Pasted image 20251222203005.png",
     "生活/我的世界/Untitled",
@@ -283,7 +284,6 @@
     "开发者/数据库/clickhouse/1.概念.md",
     "开发者/嵌入式/声控灯",
     "开发者/嵌入式/AI音响",
-    "生活/daily/2025-12-16.md",
     "生活/daily",
     "Pasted image 20251208070219.png",
     "Pasted image 20251208070047.png",
