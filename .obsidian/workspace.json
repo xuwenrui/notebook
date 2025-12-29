@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活/tizi.md",
+                "file": "生活/daily/2026-12-30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tizi"
+              "title": "2026-12-30"
             }
           }
         ]
@@ -168,6 +168,7 @@
   },
   "active": "480ca3237348db3f",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Untitled.canvas",
     "Untitled.base",
     "Untitled 8.canvas",
@@ -181,16 +182,31 @@
     "Untitled 2.base",
     "Untitled 1.canvas",
     "Untitled 1.base",
+=======
+    "生活/tizi.md",
+    "生活/daily/2026-12-30.md",
+    "生活/daily/2025-12-16.md",
+    "生活/daily/2025-12-21.md",
+    "生活/daily/2025-12-24.md",
+    "生活/工具.md",
+    "生活/daily/2025-12-23.md",
+    "生活/我的世界/2025-12-22.md",
+>>>>>>> 8cf40763febabc527cd320698c43ceeabad89ce8
     "Pasted image 20251222204304.png",
     "Pasted image 20251222203610.png",
     "Pasted image 20251222203358.png",
     "Pasted image 20251222203005.png",
     "Pasted image 20251222202907.png",
     "Pasted image 20251222202508.png",
+<<<<<<< HEAD
     "Pasted image 20251208070219.png",
     "Pasted image 20251208070047.png",
     "Pasted image 20250817184901.png",
     "Pasted image 20250817184623.png",
+=======
+    "生活/games",
+    "生活/专升本.md",
+>>>>>>> 8cf40763febabc527cd320698c43ceeabad89ce8
     "开发者/AI/工具.md",
     "生活/工具.md",
     "生活/专升本.md",
@@ -222,6 +238,16 @@
     "英语/1.学习资料.md",
     "英语/学习方法/未命名.md",
     "开发者/C++/1.环境.md",
+<<<<<<< HEAD
     "工作/bbraun/未命名.canvas"
+=======
+    "工作/bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/1.IOC.md",
+    "Pasted image 20250817184901.png",
+    "Pasted image 20250817184623.png",
+    "工作/bbraun/未命名.canvas",
+    "工作/bb/未命名.canvas",
+    "未命名.canvas",
+    "未命名 1.canvas"
+>>>>>>> 8cf40763febabc527cd320698c43ceeabad89ce8
   ]
 }
