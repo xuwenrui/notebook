@@ -4,109 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1cec8c11844aa1ad",
+        "id": "b3a2e1af1e4d5acd",
         "type": "tabs",
         "children": [
           {
-            "id": "6deb4854d2f644dd",
+            "id": "480ca3237348db3f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发者/AI/deploy by AI/1.claudeCode.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1.claudeCode"
-            }
-          },
-          {
-            "id": "499f578a5c4ba347",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "生活/工具.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "工具"
-            }
-          },
-          {
-            "id": "f80faa93268a0205",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发者/AI/私有部署/Continue + DeepSeek.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Continue + DeepSeek"
-            }
-          },
-          {
-            "id": "91d03a9a790e854e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "生活/专升本.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "专升本"
-            }
-          },
-          {
-            "id": "3efb02648754e487",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "生活/daily/2026-12-30.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-12-30"
-            }
-          },
-          {
-            "id": "fcbf14063e735538",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "生活/工具.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "工具"
-            }
-          },
-          {
-            "id": "85873a622617d0b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发者/AI/工具.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "工具"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,14 +162,31 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3efb02648754e487",
+  "active": "480ca3237348db3f",
   "lastOpenFiles": [
-    "生活/tizi.md",
+    "Untitled 8.canvas",
+    "Untitled 7.canvas",
+    "Untitled 6.canvas",
+    "Untitled 5.canvas",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "开发者/AI/工具.md",
+    "生活/工具.md",
+    "Untitled 3.base",
+    "生活/专升本.md",
+    "开发者/AI/私有部署/Continue + DeepSeek.md",
+    "开发者/AI/deploy by AI/1.claudeCode.md",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
     "生活/daily/2026-12-30.md",
+    "生活/tizi.md",
     "生活/daily/2025-12-16.md",
     "生活/daily/2025-12-21.md",
     "生活/daily/2025-12-24.md",
-    "生活/工具.md",
     "生活/daily/2025-12-23.md",
     "生活/我的世界/2025-12-22.md",
     "Pasted image 20251222204304.png",
@@ -271,15 +199,12 @@
     "Pasted image 20251222202907.png",
     "Pasted image 20251222202508.png",
     "生活/games",
-    "生活/专升本.md",
-    "开发者/AI/工具.md",
     "开发者/AI/编排/工具.md",
     "开发者/AI/AI大模型/6.增强大模型.md",
     "开发者/AI/MCP/2.入门/1.环境.md",
     "开发者/AI/deploy by AI/gemini-cli.md",
     "开发者/AI/deploy by AI/免费 apikey.md",
     "开发者/AI/deploy by AI/2.边缘函数.md",
-    "开发者/AI/deploy by AI/1.claudeCode.md",
     "开发者/AI/deploy by AI/0.开发者.md",
     "开发者/嵌入式/AI音响/1.计划.md",
     "开发者/数据库/clickhouse/1.概念.md",
@@ -289,19 +214,11 @@
     "Pasted image 20251208070219.png",
     "Pasted image 20251208070047.png",
     "英语/1.学习资料.md",
-    "开发者/AI/私有部署/Continue + DeepSeek.md",
-    "开发者/AI/Untitled 1",
-    "开发者/AI/私有部署",
-    "开发者/嵌入式/入门",
-    "开发者/嵌入式",
     "英语/学习方法/未命名.md",
     "开发者/C++/1.环境.md",
-    "工作/bbraun/开发者/java/spring/2.springboot/深入浅出 springboot3/1.IOC.md",
     "Pasted image 20250817184901.png",
     "Pasted image 20250817184623.png",
     "工作/bbraun/未命名.canvas",
-    "工作/bb/未命名.canvas",
-    "未命名.canvas",
-    "未命名 1.canvas"
+    "工作/bb/未命名.canvas"
   ]
 }
