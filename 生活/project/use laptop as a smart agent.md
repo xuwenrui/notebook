@@ -12,7 +12,6 @@ Capacity has three parts:
 1. **Energy** (mental + physical)
 2. **Stability** (money, routine, emotional steadiness)
 3. **Presence** (time + attention)
-    
 
 If one child already uses most of those, then **one is wise, not selfish**.  
 If you still have space after one, then **more can be meaningful**.
