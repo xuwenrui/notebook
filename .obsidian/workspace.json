@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活/project/use laptop as a smart agent.md",
+                "file": "生活/daily/2026/2026-01/2026-01-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "use laptop as a smart agent"
+              "title": "2026-01-01"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生活/project/use laptop as a smart agent.md",
+                "file": "生活/daily/2026/2026-01/2026-01-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for use laptop as a smart agent"
+              "title": "Backlinks for 2026-01-01"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生活/project/use laptop as a smart agent.md",
+                "file": "生活/daily/2026/2026-01/2026-01-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from use laptop as a smart agent"
+              "title": "Outgoing links from 2026-01-01"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生活/project/use laptop as a smart agent.md",
+                "file": "生活/daily/2026/2026-01/2026-01-01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of use laptop as a smart agent"
+              "title": "Outline of 2026-01-01"
             }
           }
         ]
@@ -172,15 +172,20 @@
   },
   "active": "94d38c61fe83dd92",
   "lastOpenFiles": [
-    "生活/工具.md",
+    "生活/daily/2025/2025-12/2026-12-30.md",
+    "生活/daily/2026/2026-01/2026-01-01.md",
+    "生活/daily/2026/2026-01",
+    "生活/daily/2026",
     "生活/project/use laptop as a smart agent.md",
+    "生活/daily/2025/2025-12",
+    "生活/daily/2025",
+    "生活/工具.md",
     "生活/project",
     "生活/专升本.md",
-    "生活/daily/2025-12-16.md",
-    "生活/daily/2025-12-21.md",
-    "生活/daily/2025-12-23.md",
-    "生活/daily/2025-12-24.md",
-    "生活/daily/2026-12-30.md",
+    "生活/daily/2025/2025-12/2025-12-16.md",
+    "生活/daily/2025/2025-12/2025-12-21.md",
+    "生活/daily/2025/2025-12/2025-12-23.md",
+    "生活/daily/2025/2025-12/2025-12-24.md",
     "生活/tizi.md"
   ]
 }
