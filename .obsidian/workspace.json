@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "4.1 无监督学习"
             }
+          },
+          {
+            "id": "367a69137b0d1022",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开发者/AI/入门/4.2 K-Means.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.2 K-Means"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/AI/入门/4.1 无监督学习.md",
+                "file": "开发者/AI/入门/4.2 K-Means.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4.1 无监督学习"
+              "title": "Backlinks for 4.2 K-Means"
             }
           },
           {
@@ -169,10 +184,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "94d38c61fe83dd92",
+  "active": "367a69137b0d1022",
   "lastOpenFiles": [
-    "开发者/AI/入门/3.2 考试通过实战.md",
+    "Pasted image 20260103170001.png",
     "开发者/AI/入门/4.1 无监督学习.md",
+    "开发者/AI/入门/4.2 K-Means.md",
+    "开发者/AI/入门/3.2 考试通过实战.md",
     "开发者/AI/入门/python/2.liabry.md",
     "开发者/AI/入门/python/1. Anaconda.md",
     "开发者/AI/入门/2.2 线性回归.md",
