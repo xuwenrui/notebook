@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活/daily/2026/2026-01/2026-01-03.md",
+                "file": "生活/daily/2026/2026-01/2026-01-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-03"
+              "title": "2026-01-05"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生活/daily/2026/2026-01/2026-01-03.md",
+                "file": "生活/daily/2026/2026-01/2026-01-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-01-03"
+              "title": "Backlinks for 2026-01-05"
             }
           },
           {
@@ -186,8 +186,9 @@
   },
   "active": "367a69137b0d1022",
   "lastOpenFiles": [
-    "生活/daily/2026/2026-01/2026-01-01.md",
     "生活/daily/2026/2026-01/2026-01-03.md",
+    "生活/daily/2026/2026-01/2026-01-05.md",
+    "生活/daily/2026/2026-01/2026-01-01.md",
     "开发者/AI/入门/4.2 K-Means.md",
     "Pasted image 20260103170001.png",
     "开发者/AI/入门/4.1 无监督学习.md",
