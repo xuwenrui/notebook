@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI-Memory/5.beliefs.md",
+                "file": "开发者/AI/AI大模型/1.AIGC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.beliefs"
+              "title": "1.AIGC"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI-Memory/5.beliefs.md",
+                "file": "开发者/AI/AI大模型/1.AIGC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 5.beliefs"
+              "title": "Backlinks for 1.AIGC"
             }
           },
           {
@@ -186,12 +186,16 @@
   },
   "active": "367a69137b0d1022",
   "lastOpenFiles": [
+    "开发者/AI/AI大模型/2.LLM.md",
+    "开发者/AI/AI大模型/5.调节ChatGPT.md",
+    "开发者/AI/AI大模型/6.增强大模型.md",
+    "开发者/AI/AI大模型/0.资料.md",
+    "AI-Memory/5.beliefs.md",
     "AI-Memory/1.daily-chart/readme.md",
     "AI-Memory/4.preferences.md",
     "AI-Memory/2.timeline.md",
     "AI-Memory/3.profile.md",
     "AI-Memory/1.daily-chart/Untitled.md",
-    "AI-Memory/5.beliefs.md",
     "AI-Memory/1.daily-chart",
     "AI-Memory/daily.md",
     "生活/工具.md",
@@ -225,12 +229,8 @@
     "Pasted image 20260101211605.png",
     "Pasted image 20260101203307.png",
     "开发者/AI/入门",
-    "生活/daily/2025/2025-12/2026-12-30.md",
     "生活/daily/2026/2026-01",
     "生活/daily/2026",
-    "生活/project/use laptop as a smart agent.md",
-    "生活/daily/2025/2025-12",
-    "生活/daily/2025/2025-12/2025-12-16.md",
-    "生活/daily/2025/2025-12/2025-12-21.md"
+    "生活/daily/2025/2025-12"
   ]
 }
