@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "46afadecccf8ecf4",
@@ -170,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,6 +188,11 @@
   },
   "active": "367a69137b0d1022",
   "lastOpenFiles": [
+    "Pasted image 20260112061633.png",
+    "Pasted image 20260112061503.png",
+    "Pasted image 20260112061433.png",
+    "Pasted image 20260112061213.png",
+    "Pasted image 20260112061132.png",
     "Pasted image 20260112061031.png",
     "Pasted image 20260112061019.png",
     "Pasted image 20260112055802.png",
@@ -218,17 +225,12 @@
     "生活/daily/2026/2026-01/2026-01-05.md",
     "生活/daily/2026/2026-01/2026-01-01.md",
     "开发者/AI/入门/4.2 K-Means.md",
-    "Pasted image 20260103170001.png",
     "开发者/AI/入门/4.1 无监督学习.md",
     "开发者/AI/入门/3.2 考试通过实战.md",
     "开发者/AI/入门/python",
-    "Pasted image 20260101225444.png",
-    "Pasted image 20260101225415.png",
-    "Pasted image 20260101224641.png",
     "Untitled 2.base",
     "Untitled 1.base",
     "Untitled.base",
-    "Pasted image 20260101213227.png",
     "开发者/AI/入门",
     "生活/daily/2026/2026-01",
     "生活/daily/2026"
