@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/AI/AI大模型/1.AIGC.md",
+                "file": "生活/daily/2026/2026-01/2026-01-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.AIGC"
+              "title": "2026-01-11"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发者/AI/AI大模型/1.AIGC.md",
+                "file": "生活/daily/2026/2026-01/2026-01-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1.AIGC"
+              "title": "Backlinks for 2026-01-11"
             }
           },
           {
@@ -186,6 +186,10 @@
   },
   "active": "367a69137b0d1022",
   "lastOpenFiles": [
+    "Pasted image 20260111200917.png",
+    "生活/daily/2026/2026-01/2026-01-08.md",
+    "生活/daily/2026/2026-01/2026-01-11.md",
+    "开发者/AI/AI大模型/1.AIGC.md",
     "开发者/AI/AI大模型/2.LLM.md",
     "开发者/AI/AI大模型/5.调节ChatGPT.md",
     "开发者/AI/AI大模型/6.增强大模型.md",
@@ -201,7 +205,6 @@
     "生活/工具.md",
     "AI-Memory",
     "生活/专升本.md",
-    "生活/daily/2026/2026-01/2026-01-08.md",
     "生活/daily/2026/2026-01/2026-01-03.md",
     "生活/daily/2026/2026-01/2026-01-05.md",
     "生活/daily/2026/2026-01/2026-01-01.md",
@@ -212,9 +215,6 @@
     "开发者/AI/入门/python/2.liabry.md",
     "开发者/AI/入门/python/1. Anaconda.md",
     "开发者/AI/入门/2.2 线性回归.md",
-    "开发者/AI/入门/3.1 逻辑回归.md",
-    "开发者/AI/入门/2.1 机器学习之线性回归.md",
-    "开发者/AI/入门/1.介绍.md",
     "开发者/AI/入门/python",
     "Pasted image 20260101225444.png",
     "Pasted image 20260101225415.png",
