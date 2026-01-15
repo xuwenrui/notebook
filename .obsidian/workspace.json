@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "资讯"
             }
+          },
+          {
+            "id": "75ad25cb0bf3c13c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,7 +197,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "367a69137b0d1022",
+  "active": "75ad25cb0bf3c13c",
   "lastOpenFiles": [
     "开发者/AI/工具/工具.md",
     "开发者/AI/工具/资讯.md",
