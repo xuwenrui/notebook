@@ -199,8 +199,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "75ad25cb0bf3c13c",
+  "active": "c7a5bc72e9b74c36",
   "lastOpenFiles": [
+    "开发者/AI/实战/PyTorch",
     "开发者/AI/实战/2.nanoGPT.md",
     "生活/daily/2026/2026-01/2026-01-17.md",
     "开发者/AI/实战/1. minGPT.md",
@@ -239,7 +240,6 @@
     "开发者/AI/AI大模型/6.增强大模型.md",
     "开发者/AI/AI大模型/0.资料.md",
     "AI-Memory/5.beliefs.md",
-    "AI-Memory/4.preferences.md",
     "AI-Memory/1.daily-chart",
     "AI-Memory",
     "开发者/AI/入门/python",
