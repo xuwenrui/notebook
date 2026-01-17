@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/AI/实战/1. minGPT.md",
+                "file": "开发者/AI/实战/PyTorch/1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. minGPT"
+              "title": "1"
             }
           }
         ],
@@ -199,12 +199,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "c7a5bc72e9b74c36",
+  "active": "75ad25cb0bf3c13c",
   "lastOpenFiles": [
+    "Pasted image 20260118052206.png",
+    "Pasted image 20260118052141.png",
+    "开发者/AI/实战/1. minGPT.md",
+    "开发者/AI/实战/PyTorch/1.md",
     "开发者/AI/实战/PyTorch",
     "开发者/AI/实战/2.nanoGPT.md",
     "生活/daily/2026/2026-01/2026-01-17.md",
-    "开发者/AI/实战/1. minGPT.md",
     "生活/daily/2026/2026-01/Untitled.md",
     "Pasted image 20260117172438.png",
     "Pasted image 20260117172056.png",
@@ -228,7 +231,6 @@
     "Pasted image 20260112062431.png",
     "Pasted image 20260112061633.png",
     "Pasted image 20260112061503.png",
-    "Pasted image 20260112061433.png",
     "开发者/AI/大模型1/1.提示词.md",
     "开发者/AI/大模型2",
     "开发者/AI/大模型1/2.Langchain.md",
@@ -239,13 +241,11 @@
     "开发者/AI/AI大模型/5.调节ChatGPT.md",
     "开发者/AI/AI大模型/6.增强大模型.md",
     "开发者/AI/AI大模型/0.资料.md",
-    "AI-Memory/5.beliefs.md",
     "AI-Memory/1.daily-chart",
     "AI-Memory",
     "开发者/AI/入门/python",
     "Untitled 2.base",
     "Untitled 1.base",
-    "Untitled.base",
-    "开发者/AI/入门"
+    "Untitled.base"
   ]
 }
