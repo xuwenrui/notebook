@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活/工具.md",
+                "file": "生活/daily/2026/2026-01/2026-01-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "工具"
+              "title": "2026-01-17"
             }
           }
         ],
@@ -201,6 +201,8 @@
   },
   "active": "75ad25cb0bf3c13c",
   "lastOpenFiles": [
+    "生活/工具.md",
+    "生活/daily/2026/2026-01/2026-01-17.md",
     "开发者/AI/工具/工具.md",
     "开发者/AI/工具/资讯.md",
     "开发者/AI/工具",
@@ -233,14 +235,12 @@
     "AI-Memory/1.daily-chart/Untitled.md",
     "AI-Memory/1.daily-chart",
     "AI-Memory/daily.md",
-    "生活/工具.md",
     "AI-Memory",
     "生活/专升本.md",
     "生活/daily/2026/2026-01/2026-01-03.md",
     "生活/daily/2026/2026-01/2026-01-05.md",
     "生活/daily/2026/2026-01/2026-01-01.md",
     "开发者/AI/入门/4.2 K-Means.md",
-    "开发者/AI/入门/4.1 无监督学习.md",
     "开发者/AI/入门/python",
     "Untitled 2.base",
     "Untitled 1.base",
