@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/AI/实战/PyTorch/1.Tensor.md",
+                "file": "开发者/AI/实战/PyTorch/2.Variable & Autograd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.Tensor"
+              "title": "2.Variable & Autograd"
             }
           }
         ]
@@ -172,6 +172,9 @@
   },
   "active": "94d38c61fe83dd92",
   "lastOpenFiles": [
+    "Pasted image 20260118115506.png",
+    "开发者/AI/实战/PyTorch/1.Tensor.md",
+    "开发者/AI/实战/PyTorch/2.Variable & Autograd.md",
     "Pasted image 20260118114822.png",
     "Pasted image 20260118114741.png",
     "Pasted image 20260118114105.png",
@@ -182,10 +185,8 @@
     "Pasted image 20260118113110.png",
     "Pasted image 20260118112956.png",
     "Pasted image 20260118111917.png",
-    "Pasted image 20260118111745.png",
     "开发者/AI/入门/python/2.liabry.md",
     "开发者/AI/入门/4.1 无监督学习.md",
-    "开发者/AI/实战/PyTorch/1.Tensor.md",
     "开发者/AI/入门/python/1. Anaconda.md",
     "开发者/AI/工具/资讯.md",
     "开发者/AI/python/2.pycharm.md",
@@ -211,7 +212,6 @@
     "开发者/AI/AI大模型/1.AIGC.md",
     "开发者/AI/AI大模型/2.LLM.md",
     "开发者/AI/AI大模型/5.调节ChatGPT.md",
-    "开发者/AI/AI大模型/6.增强大模型.md",
     "AI-Memory/1.daily-chart",
     "AI-Memory",
     "开发者/AI/入门/python",
