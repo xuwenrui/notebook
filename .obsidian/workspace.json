@@ -25,12 +25,14 @@
             "id": "8bfa445654ded200",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "数学/投资/基金.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "icon": "lucide-file",
+              "title": "基金"
             }
           }
         ],
@@ -185,6 +187,9 @@
   },
   "active": "8bfa445654ded200",
   "lastOpenFiles": [
+    "生活/project/use laptop as a smart agent.md",
+    "数学/投资/基金.md",
+    "数学/投资",
     "开发者/AI/实战/PyTorch/2.Variable & Autograd.md",
     "开发者/AI/实战/PyTorch/1.Tensor.md",
     "Pasted image 20260118115506.png",
@@ -223,12 +228,10 @@
     "生活/daily/2026/2026-01/2026-01-08.md",
     "开发者/AI/AI大模型/1.AIGC.md",
     "开发者/AI/AI大模型/2.LLM.md",
-    "开发者/AI/AI大模型/5.调节ChatGPT.md",
     "AI-Memory/1.daily-chart",
     "AI-Memory",
     "开发者/AI/入门/python",
     "Untitled 2.base",
-    "Untitled 1.base",
-    "Untitled.base"
+    "Untitled 1.base"
   ]
 }
