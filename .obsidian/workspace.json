@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "库"
             }
+          },
+          {
+            "id": "8bfa445654ded200",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +183,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "94d38c61fe83dd92",
+  "active": "8bfa445654ded200",
   "lastOpenFiles": [
     "开发者/AI/实战/PyTorch/2.Variable & Autograd.md",
     "开发者/AI/实战/PyTorch/1.Tensor.md",
