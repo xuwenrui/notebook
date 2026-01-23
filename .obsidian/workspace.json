@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/投资/基金.md",
+                "file": "开发者/AI/工具/软件.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基金"
+              "title": "软件"
             }
           }
         ],
@@ -187,8 +187,11 @@
   },
   "active": "8bfa445654ded200",
   "lastOpenFiles": [
-    "生活/project/use laptop as a smart agent.md",
+    "开发者/AI/工具/工具.md",
+    "开发者/AI/工具/软件.md",
+    "开发者/AI/工具/资讯.md",
     "数学/投资/基金.md",
+    "生活/project/use laptop as a smart agent.md",
     "数学/投资",
     "开发者/AI/实战/PyTorch/2.Variable & Autograd.md",
     "开发者/AI/实战/PyTorch/1.Tensor.md",
@@ -205,7 +208,6 @@
     "开发者/AI/入门/python/2.liabry.md",
     "开发者/AI/入门/4.1 无监督学习.md",
     "开发者/AI/入门/python/1. Anaconda.md",
-    "开发者/AI/工具/资讯.md",
     "开发者/AI/python/2.pycharm.md",
     "开发者/AI/python/1.环境.md",
     "开发者/AI/实战/1. minGPT.md",
@@ -213,7 +215,6 @@
     "开发者/AI/实战/2.nanoGPT.md",
     "生活/daily/2026/2026-01/2026-01-17.md",
     "生活/daily/2026/2026-01/Untitled.md",
-    "开发者/AI/工具/工具.md",
     "开发者/AI/实战/库.md",
     "AI-Memory/2.timeline.md",
     "开发者/AI/Untitled",
@@ -227,7 +228,6 @@
     "生活/daily/2026/2026-01/2026-01-11.md",
     "生活/daily/2026/2026-01/2026-01-08.md",
     "开发者/AI/AI大模型/1.AIGC.md",
-    "开发者/AI/AI大模型/2.LLM.md",
     "AI-Memory/1.daily-chart",
     "AI-Memory",
     "开发者/AI/入门/python",
