@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/AI/工具/Skills.md",
+                "file": "开发者/AI/资料/软件.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Skills"
+              "title": "软件"
             }
           }
         ],
@@ -187,13 +187,13 @@
   },
   "active": "8bfa445654ded200",
   "lastOpenFiles": [
+    "开发者/AI/资料/工具.md",
+    "开发者/AI/工具/Skills.md",
     "开发者/AI/工具/subagents.md",
     "开发者/AI/工具/MCP.md",
     "开发者/AI/工具/prompts.md",
-    "开发者/AI/工具/Skills.md",
     "开发者/AI/资料/软件.md",
     "开发者/AI/工具",
-    "开发者/AI/资料/工具.md",
     "开发者/AI/资料/资讯.md",
     "数学/投资/基金.md",
     "生活/project/use laptop as a smart agent.md",
