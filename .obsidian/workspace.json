@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/AI/资料/软件.md",
+                "file": "生活/blog/电子书资源终极合集.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "软件"
+              "title": "电子书资源终极合集"
             }
           }
         ],
@@ -187,12 +187,16 @@
   },
   "active": "8bfa445654ded200",
   "lastOpenFiles": [
+    "生活/工具.md",
+    "生活/blog/电子书资源终极合集.md",
+    "生活/blog",
+    "生活/资料",
+    "开发者/AI/资料/软件.md",
     "开发者/AI/资料/工具.md",
     "开发者/AI/工具/Skills.md",
     "开发者/AI/工具/subagents.md",
     "开发者/AI/工具/MCP.md",
     "开发者/AI/工具/prompts.md",
-    "开发者/AI/资料/软件.md",
     "开发者/AI/工具",
     "开发者/AI/资料/资讯.md",
     "数学/投资/基金.md",
@@ -223,15 +227,11 @@
     "开发者/AI/实战/库.md",
     "AI-Memory/2.timeline.md",
     "AI-Memory/1.daily-chart/readme.md",
-    "生活/工具.md",
     "开发者/AI/资料",
     "开发者/AI/大模型2/1.介绍.md",
-    "开发者/AI/大模型1/1.提示词.md",
     "开发者/AI/大模型2",
     "AI-Memory/1.daily-chart",
     "AI-Memory",
-    "开发者/AI/入门/python",
-    "Untitled 2.base",
-    "Untitled 1.base"
+    "开发者/AI/入门/python"
   ]
 }
