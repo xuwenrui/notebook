@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活/blog/电子书资源终极合集.md",
+                "file": "开发者/AI/工具/1.Skills.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "电子书资源终极合集"
+              "title": "1.Skills"
             }
           }
         ],
@@ -187,13 +187,13 @@
   },
   "active": "8bfa445654ded200",
   "lastOpenFiles": [
-    "生活/工具.md",
     "生活/blog/电子书资源终极合集.md",
+    "生活/工具.md",
     "生活/blog",
     "生活/资料",
     "开发者/AI/资料/软件.md",
     "开发者/AI/资料/工具.md",
-    "开发者/AI/工具/Skills.md",
+    "开发者/AI/工具/1.Skills.md",
     "开发者/AI/工具/subagents.md",
     "开发者/AI/工具/MCP.md",
     "开发者/AI/工具/prompts.md",
