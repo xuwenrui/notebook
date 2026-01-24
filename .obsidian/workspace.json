@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/AI/实战/PyTorch/2.Variable & Autograd.md",
+                "file": "开发者/AI/实战/PyTorch/3.神经网络.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.Variable & Autograd"
+              "title": "3.神经网络"
             }
           }
         ],
@@ -187,6 +187,9 @@
   },
   "active": "8bfa445654ded200",
   "lastOpenFiles": [
+    "Pasted image 20260124152654.png",
+    "开发者/AI/实战/PyTorch/2.Variable & Autograd.md",
+    "开发者/AI/实战/PyTorch/3.神经网络.md",
     "Pasted image 20260124151733.png",
     "Pasted image 20260124151706.png",
     "Pasted image 20260124151649.png",
@@ -197,7 +200,6 @@
     "Pasted image 20260124150810.png",
     "Pasted image 20260124145229.png",
     "Pasted image 20260124145153.png",
-    "Pasted image 20260124145039.png",
     "开发者/AI/资料/软件.md",
     "开发者/AI/资料/资讯.md",
     "开发者/AI/资料/工具.md",
@@ -213,7 +215,6 @@
     "数学/投资/基金.md",
     "生活/project/use laptop as a smart agent.md",
     "数学/投资",
-    "开发者/AI/实战/PyTorch/2.Variable & Autograd.md",
     "开发者/AI/实战/PyTorch/1.Tensor.md",
     "开发者/AI/入门/python/2.liabry.md",
     "开发者/AI/入门/4.1 无监督学习.md",
@@ -227,7 +228,6 @@
     "生活/daily/2026/2026-01/Untitled.md",
     "开发者/AI/实战/库.md",
     "AI-Memory/2.timeline.md",
-    "AI-Memory/1.daily-chart/readme.md",
     "开发者/AI/资料",
     "开发者/AI/大模型2",
     "AI-Memory/1.daily-chart",
