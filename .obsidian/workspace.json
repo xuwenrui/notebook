@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/AI/实战/PyTorch/3.神经网络.md",
+                "file": "开发者/AI/实战/PyTorch/3.2 识别数字.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.神经网络"
+              "title": "3.2 识别数字"
             }
           }
         ],
@@ -187,6 +187,11 @@
   },
   "active": "8bfa445654ded200",
   "lastOpenFiles": [
+    "开发者/AI/实战/PyTorch/3.1 预测波士顿房价.md",
+    "开发者/AI/实战/PyTorch/3.2 识别数字.md",
+    "开发者/AI/实战/PyTorch/3.神经网络.md",
+    "Pasted image 20260124154249.png",
+    "Pasted image 20260124154048.png",
     "Pasted image 20260124153714.png",
     "Pasted image 20260124153534.png",
     "Pasted image 20260124153406.png",
@@ -195,11 +200,7 @@
     "Pasted image 20260124153231.png",
     "Pasted image 20260124152654.png",
     "开发者/AI/实战/PyTorch/2.Variable & Autograd.md",
-    "开发者/AI/实战/PyTorch/3.神经网络.md",
     "Pasted image 20260124151733.png",
-    "Pasted image 20260124151706.png",
-    "Pasted image 20260124151649.png",
-    "Pasted image 20260124151552.png",
     "开发者/AI/资料/软件.md",
     "开发者/AI/资料/资讯.md",
     "开发者/AI/资料/工具.md",
@@ -227,7 +228,6 @@
     "生活/daily/2026/2026-01/2026-01-17.md",
     "生活/daily/2026/2026-01/Untitled.md",
     "开发者/AI/实战/库.md",
-    "AI-Memory/2.timeline.md",
     "开发者/AI/资料",
     "开发者/AI/大模型2",
     "AI-Memory/1.daily-chart",
