@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/AI/编排/多agent协作.md",
+                "file": "开发者/AI/实战/1. minGPT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "多agent协作"
+              "title": "1. minGPT"
             }
           },
           {
@@ -186,9 +186,10 @@
   },
   "active": "94d38c61fe83dd92",
   "lastOpenFiles": [
+    "开发者/AI/工具/1.Skills.md",
+    "开发者/AI/编排/多agent协作.md",
     "Pasted image 20260128064634.png",
     "开发者/AI/编排/GitHub App.md",
-    "开发者/AI/编排/多agent协作.md",
     "Pasted image 20260127232250.png",
     "Pasted image 20260127231713.png",
     "Pasted image 20260127231051.png",
@@ -207,7 +208,6 @@
     "开发者/AI/工具/subagents.md",
     "开发者/AI/实战/1. minGPT.md",
     "开发者/AI/实战/iflow-cli",
-    "开发者/AI/工具/1.Skills.md",
     "Pasted image 20260125101118.png",
     "生活/工具箱/转换工具.md",
     "生活/工具箱",
@@ -223,7 +223,6 @@
     "生活/daily/2026/2026-01/2026-01-05.md",
     "Pasted image 20260124155800.png",
     "Pasted image 20260124155341.png",
-    "Pasted image 20260124155312.png",
     "生活/blog",
     "生活/资料",
     "开发者/AI/工具",
