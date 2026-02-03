@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/AI/实战/openclawd/1.安装.md",
+                "file": "开发者/AI/实战/openclawd/2.接入飞书.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.安装"
+              "title": "2.接入飞书"
             }
           },
           {
@@ -186,9 +186,10 @@
   },
   "active": "94d38c61fe83dd92",
   "lastOpenFiles": [
+    "开发者/AI/编排/Agent-auto/2. figma MCP.md",
+    "开发者/AI/实战/openclawd/1.安装.md",
     "开发者/AI/实战/openclawd/2.接入飞书.md",
     "Pasted image 20260203083933.png",
-    "开发者/AI/实战/openclawd/1.安装.md",
     "Pasted image 20260203081811.png",
     "Pasted image 20260203081628.png",
     "Pasted image 20260203081234.png",
@@ -199,7 +200,6 @@
     "开发者/web/vue/naiveui/1.初始化项目.md",
     "开发者/AI/实战/iflow-cli/1.入门.md",
     "开发者/运维/ubuntu/1. 安装.md",
-    "开发者/AI/编排/Agent-auto/2. figma MCP.md",
     "开发者/运维/ubuntu",
     "Pasted image 20260129071229.png",
     "Pasted image 20260129071225.png",
