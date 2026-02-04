@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/AI/实战/openclawd/2.接入飞书.md",
+                "file": "开发者/AI/入门/python/1. Anaconda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.接入飞书"
+              "title": "1. Anaconda"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pnpm",
+                "query": "ai-",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,24 +187,23 @@
   },
   "active": "94d38c61fe83dd92",
   "lastOpenFiles": [
+    "开发者/AI/实战/openclawd/1.安装.md",
+    "开发者/AI/实战/iflow-cli/1.入门.md",
+    "开发者/AI/实战/openclawd/2.接入飞书.md",
     "Pasted image 20260203092554.png",
     "Pasted image 20260203092354.png",
     "Pasted image 20260203092143.png",
     "Pasted image 20260203091925.png",
     "Pasted image 20260203091658.png",
     "开发者/AI/编排/Agent-auto/2. figma MCP.md",
-    "开发者/AI/实战/openclawd/1.安装.md",
-    "开发者/AI/实战/openclawd/2.接入飞书.md",
     "Pasted image 20260203083933.png",
     "Pasted image 20260203081811.png",
     "Pasted image 20260203081628.png",
     "Pasted image 20260203081234.png",
     "Pasted image 20260203074814.png",
-    "Pasted image 20260203074730.png",
     "开发者/AI/实战/openclawd",
     "工作/耕喜乐/web/1.环境.md",
     "开发者/web/vue/naiveui/1.初始化项目.md",
-    "开发者/AI/实战/iflow-cli/1.入门.md",
     "开发者/运维/ubuntu/1. 安装.md",
     "开发者/运维/ubuntu",
     "开发者/AI/编排/Agent-auto/1. 代码管理.md",
