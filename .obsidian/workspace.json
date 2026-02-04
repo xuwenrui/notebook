@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/AI/入门/python/1. Anaconda.md",
+                "file": "开发者/AI/实战/openclawd/1.安装.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Anaconda"
+              "title": "1.安装"
             }
           },
           {
@@ -88,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,9 +186,10 @@
   },
   "active": "94d38c61fe83dd92",
   "lastOpenFiles": [
+    "开发者/AI/实战/openclawd/2.接入飞书.md",
+    "开发者/AI/入门/python/1. Anaconda.md",
     "开发者/AI/实战/openclawd/1.安装.md",
     "开发者/AI/实战/iflow-cli/1.入门.md",
-    "开发者/AI/实战/openclawd/2.接入飞书.md",
     "Pasted image 20260203092554.png",
     "Pasted image 20260203092354.png",
     "Pasted image 20260203092143.png",
