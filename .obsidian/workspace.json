@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/AI/资料/大模型.md",
+                "file": "开发者/AI/实战/iflow-cli/1.入门.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "大模型"
+              "title": "1.入门"
             }
           },
           {
@@ -186,9 +186,9 @@
   },
   "active": "94d38c61fe83dd92",
   "lastOpenFiles": [
+    "开发者/AI/资料/大模型.md",
     "开发者/AI/实战/自动化",
     "开发者/AI/资料/工具.md",
-    "开发者/AI/资料/大模型.md",
     "开发者/AI/实战/openclawd/1.安装.md",
     "开发者/AI/实战/openclawd/2.接入飞书.md",
     "开发者/AI/入门/python/1. Anaconda.md",
@@ -230,7 +230,6 @@
     "生活/专升本.md",
     "生活/blog",
     "生活/资料",
-    "开发者/AI/工具",
-    "数学/投资"
+    "开发者/AI/工具"
   ]
 }
