@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mobil",
+                "query": "手机号",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
