@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "注册",
+                "query": "mobil",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,7 +186,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "8bfa445654ded200",
+  "active": "ed2be7db2b4a66a6",
   "lastOpenFiles": [
     "开发者/AI/deploy by AI/0.开发者.md",
     "开发者/AI/deploy by AI/1.claudeCode.md",
