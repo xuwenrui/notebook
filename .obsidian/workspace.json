@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发者/AI/实战/自动化/1. 本地模型.md",
+                "file": "开发者/AI/deploy by AI/免费 apikey.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. 本地模型"
+              "title": "免费 apikey"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ai-",
+                "query": "注册",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,14 +187,20 @@
   },
   "active": "8bfa445654ded200",
   "lastOpenFiles": [
+    "开发者/AI/deploy by AI/0.开发者.md",
+    "开发者/AI/deploy by AI/1.claudeCode.md",
+    "开发者/AI/资料/工具.md",
+    "开发者/AI/资料/大模型.md",
+    "生活/tizi.md",
+    "开发者/嵌入式/AI音响/1.计划.md",
+    "开发者/AI/AI大模型/5.调节ChatGPT.md",
+    "AI-Memory/5.beliefs.md",
+    "开发者/AI/实战/自动化/1. 本地模型.md",
     "开发者/AI/实战/iflow-cli/1.入门.md",
     "开发者/AI/实战/1. minGPT.md",
     "开发者/AI/实战/openclawd/1.安装.md",
-    "开发者/AI/实战/自动化/1. 本地模型.md",
     "工作/耕喜乐/web/1.环境.md",
-    "开发者/AI/资料/大模型.md",
     "开发者/AI/实战/自动化",
-    "开发者/AI/资料/工具.md",
     "开发者/AI/实战/openclawd/2.接入飞书.md",
     "开发者/AI/入门/python/1. Anaconda.md",
     "Pasted image 20260203092554.png",
@@ -222,14 +228,8 @@
     "开发者/AI/编排/工具.md",
     "开发者/AI/实战/库.md",
     "开发者/AI/资料/软件.md",
-    "生活/我的世界/2025-12-22.md",
-    "生活/工具箱/windows store.md",
-    "开发者/AI/工具/prompts.md",
-    "开发者/AI/工具/subagents.md",
     "开发者/AI/实战/iflow-cli",
-    "生活/工具箱/转换工具.md",
     "生活/工具箱",
-    "生活/专升本.md",
     "生活/blog",
     "生活/资料",
     "开发者/AI/工具"
