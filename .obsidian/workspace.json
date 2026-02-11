@@ -172,7 +172,10 @@
   },
   "active": "94d38c61fe83dd92",
   "lastOpenFiles": [
+    "Untitled.base",
+    "开发者/AI/资料/大模型.md",
     "Untitled 1.base",
+    "Untitled 2.base",
     "attachment/images/2026/Pasted image 20260101203307.png",
     "生活/daily/2026/2026-02/2026-02-01.md",
     "attachment/images/2026",
@@ -182,7 +185,6 @@
     "开发者/AI/deploy by AI/0.开发者.md",
     "开发者/AI/deploy by AI/1.claudeCode.md",
     "开发者/AI/资料/工具.md",
-    "开发者/AI/资料/大模型.md",
     "生活/tizi.md",
     "开发者/嵌入式/AI音响/1.计划.md",
     "开发者/AI/AI大模型/5.调节ChatGPT.md",
@@ -215,8 +217,6 @@
     "开发者/AI/编排/GitHub App.md",
     "开发者/AI/实战/Agent",
     "开发者/AI/工具/1.Skills.md",
-    "开发者/AI/实战/iflow-cli",
-    "生活/工具箱",
-    "生活/blog"
+    "开发者/AI/实战/iflow-cli"
   ]
 }
